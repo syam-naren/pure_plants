@@ -1,5 +1,4 @@
 import {
-  Globe,
   Instagram,
   Linkedin,
   Mail,
@@ -7,7 +6,7 @@ import {
   Music,
   Phone,
   X,
-  Youtube,
+  Youtube
 } from "lucide-react";
 import { JSX } from "react";
 
@@ -367,8 +366,8 @@ export const contactUs: { icon: JSX.Element; label: string }[] = [
     icon: <MapPin className="w-4 h-4 text-white" />,
     label: "Madiki, Near Kadiyapulanka, East Godavari Dist, Andhra Pradesh",
   },
-  {
-    icon: <Globe className="w-4 h-4 text-white" />,
-    label: "www.reallygreatsite.com",
-  },
+  // {
+  //   icon: <Globe className="w-4 h-4 text-white" />,
+  //   label: "www.reallygreatsite.com",
+  // },
 ];
