@@ -1,4 +1,5 @@
 import {
+  Globe,
   Instagram,
   Linkedin,
   Mail,
@@ -366,8 +367,8 @@ export const contactUs: { icon: JSX.Element; label: string }[] = [
     icon: <MapPin className="w-4 h-4 text-white" />,
     label: "Madiki, Near Kadiyapulanka, East Godavari Dist, Andhra Pradesh",
   },
-  // {
-  //   icon: <Globe className="w-4 h-4 text-white" />,
-  //   label: "www.reallygreatsite.com",
-  // },
+  {
+    icon: <Globe className="w-4 h-4 text-white" />,
+    label: "www.reallygreatsite.com",
+  },
 ];

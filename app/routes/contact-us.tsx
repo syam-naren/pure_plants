@@ -13,7 +13,6 @@ export default function Index() {
           <h1 className="text-4xl font-bold text-white mb-4">Get in touch with our team</h1>
         </div>
         <ContactCard />
-        <ContactCard />
       </div>
       <Footer />
     </div>

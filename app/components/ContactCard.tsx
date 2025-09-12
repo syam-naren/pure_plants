@@ -114,7 +114,7 @@ export default function ContactCard() {
       <div className="w-full md:w-1/2 p-8 flex flex-col justify-center">
         <div className="text-center mb-6">
           <div className="flex justify-center mb-3">
-            <LeafSVG />
+            <img src="https://i.ibb.co/TMbfVwx6/fine.png" alt="logo" height={250} width={250}/>
           </div>
           <h1 className="text-2xl font-light text-green-700 tracking-wide">
             {businessName.toUpperCase()}

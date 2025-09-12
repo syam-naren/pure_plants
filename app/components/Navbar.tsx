@@ -53,13 +53,13 @@ export const NavBar = ({ isHome }: NavBarProps) => {
 
           <motion.a
             href="/"
-            className="text-2xl md:text-3xl font-bold tracking-wider text-white"
+            className="text-xl md:text-3xl font-bold tracking-wider text-white break-words text-center"
             initial={{ opacity: 0, y: -20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, ease: "easeOut" }}
             style={{ textShadow: "1px 1px 2px rgba(0, 0, 0, 0.8)" }}
           >
-            {"PADMANABHA NURSERY"}
+            {businessName.toUpperCase()}
           </motion.a>
 
           <div className="w-10" />
