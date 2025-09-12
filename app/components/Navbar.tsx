@@ -59,7 +59,7 @@ export const NavBar = ({ isHome }: NavBarProps) => {
             transition={{ duration: 0.8, ease: "easeOut" }}
             style={{ textShadow: "1px 1px 2px rgba(0, 0, 0, 0.8)" }}
           >
-            {businessName.toUpperCase()}
+            {"PADMANABHA NURSERY"}
           </motion.a>
 
           <div className="w-10" />
