@@ -44,7 +44,7 @@ export const heading: string = "NATURE’S COLLECTION";
 export const tagLine: string = "A Curated Selection of Lush, Living Plants";
 export const businessName: string = "Sri Venkata Padmanabha Nursery";
 export const videoUrl: string =
-  "https://video-previews.elements.envatousercontent.com/h264-video-previews/34b4f82d-339a-4c07-ba47-e8a87ded3de1/2733283.mp4";
+  "https://res.cloudinary.com/dj3bhaq5v/video/upload/v1760460073/Promo_ygztzk.mp4";
 
 interface IMenuItem {
   label: string;
