@@ -9,7 +9,22 @@ import {
   DropdownMenuTrigger,
 } from "~/components/ui/dropdown-menu";
 import { Input } from "~/components/ui/input";
-import { businessName, categories } from "~/data/text.en";
+import { nursery } from "~/data/nursery";
+
+const categories = [
+  "Avenue Trees",
+  "Palms",
+  "Fruit Plants",
+  "Flowering Plants",
+  "Ornamental & Foliage",
+  "Indoor Plants",
+  "Creepers & Climbers",
+  "Lawn & Ground Cover",
+  "Bonsai & Specimen",
+  "Medicinal & Herbal",
+  "Bamboo & Grasses",
+  "Cactus & Succulents",
+];
 export default function SearchBox() {
   const [searchParams] = useSearchParams();
   const navigate = useNavigate();
@@ -49,39 +64,39 @@ export default function SearchBox() {
   };
 
   return (
-    <div className="w-full bg-gray-900">
-      <div className="bg-black px-4 py-2">
-        <div className="flex items-center gap-2 max-w-7xl mx-auto">
+    <div className="catalogue-search">
+      <div className="catalogue-search-row">
+        <div className="flex items-center gap-2 w-full">
           <DropdownMenu>
             <DropdownMenuTrigger asChild className="w-[30%] max-w-52">
               <Button
                 variant="outline"
-                className="bg-black text-gray-200 border-gray-600 rounded-l-md rounded-r-none min-w-[60px] justify-between"
+                className="catalogue-filter-button min-w-[60px] justify-between"
               >
                 <span className="truncate">{getDisplayText()}</span>
                 <ChevronDown className="h-4 w-4 ml-1 flex-shrink-0" />
               </Button>
             </DropdownMenuTrigger>
-            <DropdownMenuContent className="w-64 max-h-80 overflow-y-auto p-2 bg-black border-gray-700">
+            <DropdownMenuContent className="w-64 max-h-80 overflow-y-auto p-2 bg-white border-gray-200">
               <div className="space-y-2">
                 {categories.map((category, index) => (
                   <div
                     key={index.toString()}
-                    className="flex items-center space-x-2 p-2 hover:bg-gray-700 rounded"
+                    className="flex items-center space-x-2 p-2 hover:bg-[#eef3e9] rounded"
                   >
                     <Checkbox
-                      className="bg-[#3B3B3B] border border-gray-400"
-                      id={category.linkName}
-                      checked={selectedCategories.includes(category.linkName)}
+                      className="border border-gray-400"
+                      id={category}
+                      checked={selectedCategories.includes(category)}
                       onCheckedChange={() =>
-                        handleCategoryToggle(category.linkName)
+                        handleCategoryToggle(category)
                       }
                     />
                     <label
-                      htmlFor={category.linkName}
-                      className="text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70 cursor-pointer flex-1 text-gray-200"
+                      htmlFor={category}
+                      className="text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70 cursor-pointer flex-1 text-[#12382b]"
                     >
-                      {category.linkName}
+                      {category}
                     </label>
                   </div>
                 ))}
@@ -103,12 +118,12 @@ export default function SearchBox() {
             <Input
               type="text"
               name="query"
-              placeholder={`Search ${businessName}`}
+              placeholder={`Search ${nursery.name}`}
               defaultValue={oldQuery}
-              className="rounded-none bg-black border-gray-600 text-gray-200 placeholder-gray-400 focus:border-orange-400 focus:ring-orange-400"
+              className="catalogue-search-input rounded-none"
             />
             <Button
-              className="bg-orange-400 hover:bg-orange-500 text-gray-900 rounded-l-none rounded-r-md px-4"
+              className="catalogue-search-button rounded-l-none rounded-r-md px-4"
               type="submit"
             >
               <Search className="h-5 w-5" />

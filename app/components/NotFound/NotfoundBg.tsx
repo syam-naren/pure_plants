@@ -7,9 +7,9 @@ const NotFoundBg = () => (
       }}
     />
 
-    <div className="absolute inset-0 bg-black/20" />
+    <div className="absolute inset-0 bg-[#12382b]/35" />
 
-    <main className="relative z-10 flex flex-col items-center justify-center h-full text-white text-center">
+    <main className="relative z-10 flex flex-col items-center justify-center h-full text-white text-center not-found-content">
       <div className="text-sm font-light tracking-[0.4em] mb-4 opacity-80">
         ERROR
       </div>

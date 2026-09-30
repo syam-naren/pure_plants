@@ -1,17 +1,11 @@
 import type { LinksFunction, MetaFunction } from "@remix-run/node";
-import Footer from "~/components/Footer";
-import BackgroundSlide from "~/components/HeroSection/BackGroundSlide/OurServices";
-import HomePageMainImages from "~/components/HeroSection/HomePageMainImages";
-import VerticalScroll from "~/components/HeroSection/StickyScroll";
-import TrendingProducts from "~/components/HeroSection/TrendingProducts";
-import VideoPage from "~/components/HeroSection/VideoHomePage";
+import NurseryHome from "~/components/NurseryHome";
 import { NavBar } from "~/components/Navbar";
-import TrustedSection from "~/components/TrustedSection/TrustedSection";
-import { businessName } from "~/data/text.en";
+import { nursery } from "~/data/nursery";
 
 export const meta: MetaFunction = () => [
   {
-    title: businessName,
+    title: nursery.name,
   },
 ];
 
@@ -21,16 +15,9 @@ export const links: LinksFunction = () => [
 
 const Index: React.FC = () => {
   return (
-    <div className="min-h-screen bg-black">
+    <div className="min-h-screen">
       <NavBar isHome={true} />
-      <VideoPage />
-      <HomePageMainImages />
-      <BackgroundSlide />
-      <VerticalScroll />
-      <TrendingProducts />
-      {/* <CircularTestimonialsDemo /> */}
-      <TrustedSection />
-      <Footer />
+      <NurseryHome />
     </div>
   );
 };

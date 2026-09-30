@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kadiyam Nursery — Wholesale Plant Nursery in Kadiyam, Andhra Pradesh | 5000+ Varieties</title>
+    <meta name="description" content="Wholesale plant nursery in Kadiyam, Andhra Pradesh. 25+ years, 5000+ plant varieties — avenue trees, palms, fruit plants, flowering & ornamental plants. Bulk supply across India and exports. Get a WhatsApp quote." />
+    <meta name="keywords" content="Kadiyam nursery, wholesale plant nursery, plants Kadiyam, avenue trees, palms, fruit plants, nursery Andhra Pradesh, bulk plants supplier, plant exports India" />
+    <link rel="canonical" href="https://kadiyamnursery.com/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Kadiyam Nursery — Wholesale Plant Nursery, Andhra Pradesh" />
+    <meta property="og:description" content="25+ years growing 5000+ plant varieties in Kadiyam. Bulk supply for landscapers, resellers, farmhouses and exports. WhatsApp for wholesale quotes." />
+    <meta property="og:url" content="https://kadiyamnursery.com/" />
+    <meta property="og:image" content="https://kadiyamnursery.com/og-image.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="https://kadiyamnursery.com/og-image.jpg" />
+    <meta name="theme-color" content="#0f5c3c" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <script>
+      // Preload the correct LCP banner for this route so the browser fetches
+      // it immediately (CSS backgrounds are otherwise discovered late).
+      (function () {
+        var p = location.pathname;
+        var img = null;
+        if (p === '/' || p === '/index.html') {
+          img = window.matchMedia && matchMedia('(max-width: 720px)').matches
+            ? '/img/hero-mobile.webp' : '/img/hero.webp';
+        } else {
+          var m = window.matchMedia && matchMedia('(max-width: 760px)').matches ? '-m' : '';
+          if (p.indexOf('/catalog') === 0) img = '/img/catalog-banner' + m + '.webp';
+          else if (p.indexOf('/blog') === 0) img = '/img/blog-banner' + m + '.webp';
+          else if (p.indexOf('/contact') === 0) img = '/img/contact-banner' + m + '.webp';
+          else if (p.indexOf('/supply') === 0 || p.indexOf('/wholesale') === 0) img = '/img/supply-banner' + m + '.webp';
+        }
+        if (img) {
+          var l = document.createElement('link');
+          l.rel = 'preload'; l.as = 'image'; l.href = img;
+          // fetchpriority=high: the banner is the page's LCP element and is now
+          // small enough (recompressed) that prioritising it improves LCP
+          // without starving first paint. (PageSpeed: "fetchpriority=high
+          // should be applied to the LCP image preload request".)
+          l.setAttribute('fetchpriority', 'high');
+          document.head.appendChild(l);
+        }
+      })();
+    </script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Berkshire+Swash&display=swap" media="print" onload="this.media='all'" />
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Berkshire+Swash&display=swap" /></noscript>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "GardenStore",
+      "name": "Kadiyam Nursery",
+      "description": "Wholesale plant nursery with 5000+ varieties in Kadiyam, Andhra Pradesh. Bulk supply across India and exports.",
+      "url": "https://kadiyamnursery.com",
+      "telephone": "+919494616161",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kadiyam",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      }
+    }
+    </script>
+    <link rel="preload" as="image" href="/img/hero-mobile.jpg" media="(max-width: 760px)" fetchpriority="high" />
+    <link rel="preload" as="image" href="/img/hero.jpg" media="(min-width: 761px)" fetchpriority="high" />
+  <script type="module" crossorigin src="/assets/index-DFClGg3M.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/react-vendor-BEGefqFt.js">
+  <link rel="stylesheet" crossorigin href="/assets/index-B46ZMGqn.css">
+</head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

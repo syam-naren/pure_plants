@@ -15,11 +15,12 @@ export const meta: MetaFunction = ({ location }) => {
   return [{ title: catParams }];
 };
 const ProductsPage = () => (
-  <div className="bg-black min-h-screen">
+  <div className="catalogue-shell min-h-screen">
     <NavBar isHome={false} />
-    <div className="min-h-screen bg-black text-white">
-      <div className="p-4 container mx-auto flex flex-col md:flex-row gap-6">
-        <div className="flex flex-col mt-20 w-full">
+    <div className="catalogue-page min-h-screen">
+      <div className="catalogue-inner">
+        <div className="catalogue-header"><div><p className="eyebrow">Catalogue / Grown in Madiki</p><h1>Find your next<br /><em>living companion.</em></h1></div><p>Palms, tropicals, flowering plants,<br />and landscape-ready greens.</p></div>
+        <div className="catalogue-tools">
           <SearchBox />
           <Outlet />
         </div>
