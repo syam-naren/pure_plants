@@ -135,8 +135,9 @@ export const catalogue = [
     "sizesAvailable": [
       "3 ft – 8 ft"
     ],
-    "imageUrl": "/catalogue/butea-monosperma-flame-of-the-forest.jpg",
+    "imageUrl": "/catalogue/butea-monosperma-flame-of-the-forest-f4.jpg",
     "images": [
+      "/catalogue/butea-monosperma-flame-of-the-forest-f4.jpg",
       "/catalogue/butea-monosperma-flame-of-the-forest.jpg",
       "/catalogue/butea-monosperma-flame-of-the-forest-2.jpg",
       "/catalogue/butea-monosperma-flame-of-the-forest-3.jpg",
@@ -239,9 +240,8 @@ export const catalogue = [
     "sizesAvailable": [
       "4 ft – 10 ft"
     ],
-    "imageUrl": "/catalogue/cassia-fistula-golden-shower.jpg",
+    "imageUrl": "/catalogue/cassia-fistula-golden-shower-2.jpg",
     "images": [
-      "/catalogue/cassia-fistula-golden-shower.jpg",
       "/catalogue/cassia-fistula-golden-shower-2.jpg"
     ]
   },
@@ -327,10 +327,10 @@ export const catalogue = [
     "sizesAvailable": [
       "4 ft – 12 ft"
     ],
-    "imageUrl": "/catalogue/spathodea-african-tulip.jpg",
+    "imageUrl": "/catalogue/spathodea-african-tulip-2.jpg",
     "images": [
-      "/catalogue/spathodea-african-tulip.jpg",
       "/catalogue/spathodea-african-tulip-2.jpg",
+      "/catalogue/spathodea-african-tulip.jpg",
       "/catalogue/spathodea-african-tulip-3.jpg"
     ]
   },

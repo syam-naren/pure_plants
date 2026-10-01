@@ -1,6 +1,6 @@
 import { useNavigate, useSearchParams } from "@remix-run/react";
 import { ChevronDown, Search } from "lucide-react";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Button } from "~/components/ui/button";
 import { Checkbox } from "~/components/ui/checkbox";
 import {
@@ -29,8 +29,13 @@ export default function SearchBox() {
   const [searchParams] = useSearchParams();
   const navigate = useNavigate();
   const catParams = searchParams.get("cat")?.split(",").filter(Boolean) ?? [];
-  const [selectedCategories, setselectedCategories] =
-    useState<string[]>(catParams);
+  const categoryKey = catParams.join(",");
+  const [selectedCategories, setSelectedCategories] =
+    useState<string[]>(categoryKey ? categoryKey.split(",") : []);
+
+  useEffect(() => {
+    setSelectedCategories(categoryKey ? categoryKey.split(",") : []);
+  }, [categoryKey]);
 
   const oldQuery = searchParams.get("query") as string;
   const updateSearch = (searchValue: string) => {
@@ -43,7 +48,7 @@ export default function SearchBox() {
   };
 
   const handleCategoryToggle = (label: string) => {
-    setselectedCategories((prev) => {
+    setSelectedCategories((prev) => {
       const newCategories = prev.includes(label)
         ? prev.filter((l) => l !== label)
         : [...prev, label];

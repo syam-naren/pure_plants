@@ -23,7 +23,7 @@ const ProductsFound = ({
         <Link
           key={item.slug ?? index}
           to={`/products/${item.slug ?? item.plantName.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}`}
-          className="catalogue-card"
+          className={`catalogue-card catalogue-card-${(index % 4) + 1}`}
         >
           <div className="catalogue-card-image relative aspect-[4/5]">
             <ProductImage

@@ -16,7 +16,7 @@ export function getKadiyamCatalogue(): CatalogueProduct[] {
   return localCatalogue as CatalogueProduct[];
 }
 
-const PAGE_SIZE = 12;
+const PAGE_SIZE = 32;
 const MAX_PAGE_SIZE = 48;
 
 function filterCatalogue(
