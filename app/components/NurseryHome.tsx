@@ -92,19 +92,7 @@ export default function NurseryHome() {
       <section className="hero" ref={heroRef}>
         <div className="hero-stage">
           <div className="hero-copy">
-            <p className="eyebrow">Grown in Madiki</p>
-            <h1>
-              Living spaces,
-              <br />
-              <em>grown beautifully.</em>
-            </h1>
-            <p className="hero-description">
-              Palms, tropicals, and garden companions grown for the places
-              you call home.
-            </p>
-            <a className="button button-dark" href="#collection">
-              Explore the collection <ArrowUpRight size={16} />
-            </a>
+            <h1>{nursery.shortName}</h1>
           </div>
           <div className="hero-slot">
             <div className="hero-frame">
