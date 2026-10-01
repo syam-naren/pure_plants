@@ -5,7 +5,6 @@ export const nursery = {
   email: 'contact@svpnursery.in',
   address: 'Madiki, Kadiyapulanka, East Godavari, Andhra Pradesh 533126',
   intro: 'Plants for every space, grown with care. We grow and supply palms, avenue trees, flowering plants, fruit plants, indoor greens, and landscape-ready stock.',
-  copyright: '© 2026 Sri Venkata Padmanabha Nursery. All rights reserved.',
 } as const;
 
 export const catalogue = [

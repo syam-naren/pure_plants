@@ -58,7 +58,6 @@ export default function Footer() {
         </nav>
       </div>
       <div className="reference-footer-art-space" aria-hidden="true" />
-      <p className="reference-footer-copyright">{nursery.copyright}</p>
     </footer>
   );
 }
