@@ -60,71 +60,77 @@ function Reveal({
 }
 
 export default function NurseryHome() {
-  const heroRef = useRef<HTMLDivElement>(null);
+  const heroRef = useRef<HTMLElement>(null);
 
   useEffect(() => {
+    const hero = heroRef.current;
+    if (!hero) return;
+
     let frame = 0;
     const updateHero = () => {
       cancelAnimationFrame(frame);
       frame = requestAnimationFrame(() => {
-        if (!heroRef.current) return;
-        const progress = Math.min(window.scrollY / 520, 1);
-        heroRef.current.style.setProperty(
-          "--hero-scale",
-          `${1 - progress * 0.12}`,
-        );
-        heroRef.current.style.setProperty(
-          "--hero-radius",
-          `${24 + progress * 22}px`,
-        );
+        const runway = Math.max(hero.offsetHeight - window.innerHeight, 1);
+        const progress = Math.min(Math.max(-hero.getBoundingClientRect().top / runway, 0), 1);
+        hero.style.setProperty("--hero-p", progress.toFixed(4));
+        hero.dataset.settled = "true";
       });
     };
+
     updateHero();
     window.addEventListener("scroll", updateHero, { passive: true });
+    window.addEventListener("resize", updateHero);
     return () => {
       cancelAnimationFrame(frame);
       window.removeEventListener("scroll", updateHero);
+      window.removeEventListener("resize", updateHero);
     };
   }, []);
 
   return (
     <main className="nursery-shell">
-      <section className="hero-wrap" ref={heroRef}>
-        <div className="hero-media">
-          <video
-            src={videoUrl}
-            autoPlay
-            muted
-            loop
-            playsInline
-            preload="metadata"
-          >
-            <track
-              kind="captions"
-              src="/sample.vtt"
-              srcLang="en"
-              label="English"
-            />
-          </video>
-          <div className="hero-shade" />
+      <section className="hero" ref={heroRef}>
+        <div className="hero-stage">
           <div className="hero-copy">
-           
+            <p className="eyebrow">Grown in Madiki</p>
             <h1>
               Living spaces,
               <br />
               <em>grown beautifully.</em>
             </h1>
             <p className="hero-description">
-              A considered collection of palms, tropicals, and garden companions
-              grown for the places you call home.
+              Palms, tropicals, and garden companions grown for the places
+              you call home.
             </p>
-            <a className="button button-light" href="#collection">
+            <a className="button button-dark" href="#collection">
               Explore the collection <ArrowUpRight size={16} />
             </a>
           </div>
-          <div className="hero-footnote">
-            <span>Scroll to explore</span>
-            <span className="hero-line" />
+          <div className="hero-slot">
+            <div className="hero-frame">
+              <div className="hero-video-layer">
+                <video
+                  src={videoUrl}
+                  autoPlay
+                  muted
+                  loop
+                  playsInline
+                  preload="metadata"
+                  aria-hidden="true"
+                >
+                  <track
+                    kind="captions"
+                    src="/sample.vtt"
+                    srcLang="en"
+                    label="English"
+                  />
+                </video>
+                <div className="hero-scrim" />
+              </div>
+            </div>
+          </div>
+          <div className="hero-cue" aria-hidden="true">
+            <span>Scroll down</span>
           </div>
         </div>
       </section>

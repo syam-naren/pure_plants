@@ -2,7 +2,6 @@ import { LoaderFunction, LoaderFunctionArgs } from "@remix-run/node";
 import { useLoaderData } from "@remix-run/react";
 import ProductsFound from "~/components/Products/FoundProducts";
 import ProductsNotFound from "~/components/Products/ProductNotFound";
-import { AllProductsImages } from "~/data/text.en";
 import { catalogue as localCatalogue, type CatalogueProduct } from "~/data/nursery";
 
 export type { CatalogueProduct } from "~/data/nursery";
@@ -23,31 +22,26 @@ export const loader: LoaderFunction = async ({
   const queryParams = url.searchParams.get("query");
 
   const catalogue: CatalogueProduct[] = localCatalogue as CatalogueProduct[];
-  if (catalogue.length === 0) {
-    return AllProductsImages.map((product) => ({
-      slug: product.plantName.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""),
-      imageUrl: product.imageUrl,
-      plantName: product.plantName,
-      category: product.category,
-      sizesAvailable: product.sizesAvailable,
-    }));
-  }
 
-  if (sizeParams.length === 0 && catParams.length === 0 && !queryParams) return catalogue;
+  if (sizeParams.length === 0 && catParams.length === 0 && !queryParams) {
+    return catalogue;
+  }
 
   const filteredProducts = catalogue.filter((product) => {
     const categoryMatched =
       catParams.length === 0 ||
       catParams.some((category) =>
-        product.category.toLowerCase().includes(category.toLowerCase().replace(" plants", "")),
+        product.category
+          .toLowerCase()
+          .includes(category.toLowerCase().replace(" plants", "")),
       );
 
     const sizeMatched =
       sizeParams.length === 0 ||
       sizeParams.some((size) => product.sizesAvailable.includes(size));
-    const queryMatched = !queryParams || product.plantName
-      .toLocaleLowerCase()
-      .includes(queryParams as string);
+    const queryMatched =
+      !queryParams ||
+      product.plantName.toLocaleLowerCase().includes(queryParams as string);
 
     return categoryMatched && sizeMatched && queryMatched;
   });

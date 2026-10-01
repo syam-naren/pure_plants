@@ -19,7 +19,7 @@ export const NavBar = ({ isHome }: NavBarProps) => {
   useEffect(() => {
     if (isHome) {
       const handleScroll = () => {
-        setHasScrolled(window.scrollY > 400);
+        setHasScrolled(window.scrollY > window.innerHeight * 0.18);
       };
 
       window.addEventListener("scroll", handleScroll);
