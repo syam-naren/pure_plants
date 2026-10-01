@@ -14,8 +14,9 @@ import {
   Phone,
   SunMedium,
 } from "lucide-react";
-import { useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { nursery } from "~/data/nursery";
+import { PRODUCT_IMAGE_PLACEHOLDER } from "~/components/Products/ProductImage";
 import {
   getKadiyamCatalogue,
   type CatalogueProduct,
@@ -39,15 +40,62 @@ export const meta: MetaFunction<typeof loader> = ({ data }) => [
 ];
 
 function ProductGallery({ product }: { product: CatalogueProduct }) {
-  const images =
-    product.images && product.images.length > 0
-      ? product.images
-      : [product.imageUrl];
+  // Memoized so the array reference is stable across renders (loader data
+  // doesn't change identity), which keeps the failure-reset effect from
+  // re-running every render.
+  const allImages = useMemo(
+    () =>
+      product.images && product.images.length > 0
+        ? product.images
+        : [product.imageUrl],
+    [product],
+  );
   const [active, setActive] = useState(0);
   const touchStartX = useRef<number | null>(null);
 
+  // Skip corrupted/broken images so the first working photo becomes the
+  // main view; fall back to a clean placeholder if nothing loads.
+  const [failedSrcs, setFailedSrcs] = useState<readonly string[]>([]);
+  const images = useMemo(
+    () => allImages.filter((src) => !failedSrcs.includes(src)),
+    [allImages, failedSrcs],
+  );
+
+  useEffect(() => {
+    setFailedSrcs([]);
+  }, [allImages]);
+
+  const markFailed = (src: string) =>
+    setFailedSrcs((prev) => (prev.includes(src) ? prev : [...prev, src]));
+
+  // Keep the selected photo valid when failed images drop out of the list.
+  useEffect(() => {
+    setActive((i) => Math.min(i, Math.max(0, images.length - 1)));
+  }, [images.length]);
+
   const go = (dir: 1 | -1) =>
     setActive((i) => (i + dir + images.length) % images.length);
+
+  if (images.length === 0) {
+    return (
+      <div
+        className="product-gallery"
+        role="region"
+        aria-label={`${product.plantName} photos`}
+      >
+        <div className="product-gallery-main">
+          <img
+            className="is-active"
+            src={PRODUCT_IMAGE_PLACEHOLDER}
+            alt={product.plantName}
+            onError={(e) => {
+              e.currentTarget.style.display = "none";
+            }}
+          />
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div
@@ -78,6 +126,7 @@ function ProductGallery({ product }: { product: CatalogueProduct }) {
             loading={i === 0 ? "eager" : "lazy"}
             className={i === active ? "is-active" : ""}
             aria-hidden={i !== active}
+            onError={() => markFailed(src)}
           />
         ))}
         {images.length > 1 && (
@@ -115,7 +164,12 @@ function ProductGallery({ product }: { product: CatalogueProduct }) {
               aria-label={`Show photo ${i + 1}`}
               aria-current={i === active}
             >
-              <img src={src} alt="" loading="lazy" />
+              <img
+                src={src}
+                alt=""
+                loading="lazy"
+                onError={() => markFailed(src)}
+              />
             </button>
           ))}
         </div>

@@ -1,8 +1,10 @@
 import { Link } from "@remix-run/react";
+import ProductImage from "./ProductImage";
 
 export type ProductCard = {
   slug?: string;
   imageUrl: string;
+  images?: readonly string[];
   plantName: string;
   category?: string;
   botanicalName?: string;
@@ -19,15 +21,17 @@ const ProductsFound = ({
     <div className="catalogue-grid">
       {products.map((item, index) => (
         <Link
-          key={index}
+          key={item.slug ?? index}
           to={`/products/${item.slug ?? item.plantName.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}`}
           className="catalogue-card"
         >
           <div className="catalogue-card-image relative aspect-[4/5]">
-            <img
+            <ProductImage
               src={item.imageUrl}
+              fallbacks={item.images}
               alt={item.plantName}
-              className="catalogue-card-img w-full h-full object-cover rounded-md"
+              eager={index < 8}
+              className="catalogue-card-img rounded-md"
             />
           </div>
           <div className="catalogue-card-details">

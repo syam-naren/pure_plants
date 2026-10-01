@@ -36,6 +36,7 @@ export default function SearchBox() {
   const updateSearch = (searchValue: string) => {
     const searchParams = new URLSearchParams(location.search);
     searchParams.set("query", searchValue);
+    searchParams.delete("page"); // new search → back to first page
     navigate(`/products?${searchParams.toString()}`, {
       replace: true,
     });
@@ -49,6 +50,7 @@ export default function SearchBox() {
 
       const searchParams = new URLSearchParams(location.search);
       searchParams.set("cat", newCategories.join(","));
+      searchParams.delete("page"); // new filters → back to first page
       navigate(`/products?${searchParams.toString()}`, {
         replace: true,
       });
