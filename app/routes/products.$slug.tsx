@@ -12,10 +12,16 @@ import {
   Droplets,
   Leaf,
   Phone,
+  Ruler,
+  Sprout,
   SunMedium,
 } from "lucide-react";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { nursery } from "~/data/nursery";
+import {
+  productDetails,
+  type ProductHorticultureDetails,
+} from "~/data/productDetails";
 import { PRODUCT_IMAGE_PLACEHOLDER } from "~/components/Products/ProductImage";
 import {
   getKadiyamCatalogue,
@@ -28,7 +34,14 @@ export const loader: LoaderFunction = async ({
   const products = await getKadiyamCatalogue();
   const product = products.find((item) => item.slug === params.slug);
   if (!product) throw new Response("Plant not found", { status: 404 });
-  return product;
+  return {
+    ...product,
+    horticulture: productDetails[product.slug],
+  };
+};
+
+type ProductPageData = CatalogueProduct & {
+  horticulture?: ProductHorticultureDetails;
 };
 
 export const meta: MetaFunction<typeof loader> = ({ data }) => [
@@ -179,7 +192,22 @@ function ProductGallery({ product }: { product: CatalogueProduct }) {
 }
 
 export default function ProductDetail() {
-  const product = useLoaderData<typeof loader>() as CatalogueProduct;
+  const product = useLoaderData<typeof loader>() as ProductPageData;
+  const profile = product.horticulture;
+  const plantFacts = [
+    { label: "Lifespan", value: profile?.lifespan },
+    { label: "Mature height", value: profile?.matureHeight },
+    { label: "Growth habit", value: profile?.shape },
+    { label: "Growth rate", value: profile?.growthRate },
+    { label: "Foliage", value: profile?.foliage },
+    { label: "Flowers / fruit", value: profile?.floweringOrFruiting },
+    { label: "Light", value: profile?.light },
+    { label: "Watering", value: profile?.watering },
+    { label: "Soil", value: profile?.soil },
+  ].filter((fact): fact is { label: string; value: string } =>
+    Boolean(fact.value),
+  );
+
   return (
     <div className="product-detail-page">
       <main className="product-detail-inner">
@@ -189,7 +217,7 @@ export default function ProductDetail() {
         <div className="product-detail-layout">
           <ProductGallery product={product} />
           <section className="product-detail-copy">
-            <p className="eyebrow">{product.category}</p>
+            <p className="product-category-tag">{product.category}</p>
             <h1>{product.plantName}</h1>
             {product.teluguName && (
               <p className="product-telugu">{product.teluguName}</p>
@@ -200,21 +228,13 @@ export default function ProductDetail() {
             {product.description && (
               <p className="product-description">{product.description}</p>
             )}
-            <div className="product-care-grid">
-              <span>
-                <SunMedium size={16} />
-                <strong>Light</strong>
-                <small>Bright to natural light</small>
-              </span>
-              <span>
-                <Droplets size={16} />
-                <strong>Water</strong>
-                <small>Ask our nursery team</small>
-              </span>
-              <span>
-                <Leaf size={16} />
-                <strong>Use</strong>
-                <small>{product.category}</small>
+            <div className="product-buy-panel">
+              <div className="product-price">
+                <span>Price</span>
+                <strong>Enquire for price</strong>
+              </div>
+              <span className="product-stock">
+                <span aria-hidden="true" /> In stock
               </span>
             </div>
             {product.sizesAvailable.length > 0 && (
@@ -223,12 +243,95 @@ export default function ProductDetail() {
                 <strong>{product.sizesAvailable.join(" · ")}</strong>
               </div>
             )}
-            <a className="button button-dark" href={`tel:${nursery.phone}`}>
-              <Phone size={15} /> Enquire about this plant{" "}
+            <a
+              className="button button-dark product-enquiry-button"
+              href={`tel:${nursery.phone.replace(/\s/g, "")}`}
+            >
+              <Phone size={15} /> Request pricing and availability{" "}
               <ArrowUpRight size={15} />
             </a>
+            <p className="product-stock-note">
+              Size and appearance can vary naturally with age and growing
+              conditions. Contact our nursery team before ordering.
+            </p>
           </section>
         </div>
+        {profile && (
+          <section className="product-profile" aria-labelledby="profile-heading">
+            <div className="product-profile-heading">
+              <div>
+                <p className="eyebrow">Plant guide</p>
+                <h2 id="profile-heading">Know your plant</h2>
+              </div>
+              <p>Growing characteristics and practical care notes.</p>
+            </div>
+            <div className="product-care-highlights">
+              {profile.light && (
+                <article>
+                  <SunMedium size={19} />
+                  <div>
+                    <span>Light</span>
+                    <strong>{profile.light}</strong>
+                  </div>
+                </article>
+              )}
+              {profile.watering && (
+                <article>
+                  <Droplets size={19} />
+                  <div>
+                    <span>Water</span>
+                    <strong>{profile.watering}</strong>
+                  </div>
+                </article>
+              )}
+              {profile.matureHeight && (
+                <article>
+                  <Ruler size={19} />
+                  <div>
+                    <span>Mature height</span>
+                    <strong>{profile.matureHeight}</strong>
+                  </div>
+                </article>
+              )}
+              {profile.shape && (
+                <article>
+                  <Sprout size={19} />
+                  <div>
+                    <span>Growth habit</span>
+                    <strong>{profile.shape}</strong>
+                  </div>
+                </article>
+              )}
+            </div>
+            {plantFacts.length > 0 && (
+              <dl className="product-facts">
+                {plantFacts.map(({ label, value }) => (
+                  <div key={label}>
+                    <dt>{label}</dt>
+                    <dd>{value}</dd>
+                  </div>
+                ))}
+              </dl>
+            )}
+            {profile.sources.length > 0 && (
+              <div className="product-sources">
+                <Leaf size={15} />
+                <span>Plant information sources:</span>
+                {profile.sources.map((source) => (
+                  <a
+                    key={source.url}
+                    href={source.url}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    {source.title}
+                    <ArrowUpRight size={12} />
+                  </a>
+                ))}
+              </div>
+            )}
+          </section>
+        )}
       </main>
     </div>
   );

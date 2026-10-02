@@ -1,0 +1,5065 @@
+{
+  "melia-dubia": {
+    "lifespan": null,
+    "foliage": "Evergreen to semi-evergreen, pinnate leaves",
+    "matureHeight": "18–25 m",
+    "shape": "Straight trunk with a broad dome crown",
+    "light": "Full sun",
+    "watering": "Moderate; avoid prolonged waterlogging",
+    "growthRate": "Fast",
+    "soil": "Well-drained loam; tolerates dry periods",
+    "floweringOrFruiting": "Small fragrant flowers; small drupes later",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/melia-dubia/"
+      }
+    ]
+  },
+  "pongamia": {
+    "lifespan": null,
+    "foliage": "Evergreen, glossy compound leaves",
+    "matureHeight": "8–15 m",
+    "shape": "Rounded spreading canopy",
+    "light": "Full sun",
+    "watering": "Low once established",
+    "growthRate": "Fast",
+    "soil": "Well-drained sandy to loamy soil; drought-tolerant",
+    "floweringOrFruiting": "White to pink flowers; pod-like fruit later",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/pongamia-pinnata/"
+      }
+    ]
+  },
+  "arjuna-tree": {
+    "lifespan": null,
+    "foliage": "Deciduous to semi-evergreen, elongated leaves",
+    "matureHeight": "15–25 m",
+    "shape": "Broad spreading crown with a stout trunk",
+    "light": "Full sun",
+    "watering": "Moderate; young trees need regular moisture",
+    "growthRate": "Moderate",
+    "soil": "Deep, well-drained loam; tolerates seasonal wetness",
+    "floweringOrFruiting": "Small yellowish flowers; woody drupe later",
+    "sources": [
+      {
+        "title": "Purdue New Crops Resource",
+        "url": "https://www.hort.purdue.edu/newcrop/duke_energy/Terminalia_arjuna.html"
+      }
+    ]
+  },
+  "casuarina": {
+    "lifespan": null,
+    "foliage": "Fine, needle-like branchlets",
+    "matureHeight": "15–25 m",
+    "shape": "Tall and narrow, straight trunk",
+    "light": "Full sun",
+    "watering": "Low; very drought- and salt-tolerant",
+    "growthRate": "Fast",
+    "soil": "Sandy, saline, or poor soils; good drainage needed",
+    "floweringOrFruiting": "Small inconspicuous flowers; cone-like fruiting structures",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/casuarina-equisetifolia/"
+      }
+    ]
+  },
+  "shami-tree": {
+    "lifespan": null,
+    "foliage": "Evergreen, finely divided feathery foliage",
+    "matureHeight": "6–12 m",
+    "shape": "Rounded or spreading dense crown",
+    "light": "Full sun",
+    "watering": "Low once established",
+    "growthRate": "Slow to moderate",
+    "soil": "Well-drained alkaline or sandy soil; very drought-tolerant",
+    "floweringOrFruiting": "Yellow to pale flowers; pods later",
+    "sources": [
+      {
+        "title": "Feedipedia",
+        "url": "https://www.feedipedia.org/node/330"
+      }
+    ]
+  },
+  "rain-tree": {
+    "lifespan": null,
+    "foliage": "Deciduous to semi-evergreen, bipinnate leaves",
+    "matureHeight": "15–25 m",
+    "shape": "Very broad umbrella-like crown",
+    "light": "Full sun",
+    "watering": "Low to moderate; handles dry spells",
+    "growthRate": "Fast",
+    "soil": "Well-drained loam or sand; adapts to poor soils",
+    "floweringOrFruiting": "Cream pompom flowers; pod fruits later",
+    "sources": [
+      {
+        "title": "Feedipedia",
+        "url": "https://www.feedipedia.org/node/545"
+      }
+    ]
+  },
+  "gulmohar": {
+    "lifespan": null,
+    "foliage": "Deciduous, feathery compound leaves",
+    "matureHeight": "10–20 m",
+    "shape": "Spreading umbrella-like canopy",
+    "light": "Full sun",
+    "watering": "Low to moderate",
+    "growthRate": "Fast",
+    "soil": "Well-drained loam; avoid waterlogging",
+    "floweringOrFruiting": "Bright red to orange flowers in summer; long pods later",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/delonix-regia/"
+      }
+    ]
+  },
+  "butea-monosperma-flame-of-the-forest": {
+    "lifespan": null,
+    "foliage": "Deciduous, trifoliate leaves",
+    "matureHeight": "6–12 m",
+    "shape": "Rounded spreading crown",
+    "light": "Full sun",
+    "watering": "Low; excellent drought tolerance",
+    "growthRate": "Moderate",
+    "soil": "Well-drained poor to average soil",
+    "floweringOrFruiting": "Flame-orange flowers in spring; seed pods later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/12895/butea-monosperma/details"
+      }
+    ]
+  },
+  "neem": {
+    "lifespan": null,
+    "foliage": "Evergreen, pinnate leaves",
+    "matureHeight": "10–20 m",
+    "shape": "Rounded spreading crown",
+    "light": "Full sun",
+    "watering": "Low once established",
+    "growthRate": "Moderate",
+    "soil": "Wide range; good drainage preferred",
+    "floweringOrFruiting": "Small white flowers; olive-like fruits and kernels",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/azadirachta-indica/"
+      }
+    ]
+  },
+  "copper-pod": {
+    "lifespan": null,
+    "foliage": "Semi-evergreen to evergreen, compound leaves",
+    "matureHeight": "10–18 m",
+    "shape": "Rounded spreading canopy",
+    "light": "Full sun",
+    "watering": "Low to moderate",
+    "growthRate": "Moderate",
+    "soil": "Well-drained loam; tolerant of urban conditions",
+    "floweringOrFruiting": "Dense yellow flower clusters; seed pods later",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/peltophorum-pterocarpum/"
+      }
+    ]
+  },
+  "indian-almond-badam": {
+    "lifespan": null,
+    "foliage": "Deciduous, broad leaves with layered branches",
+    "matureHeight": "10–25 m",
+    "shape": "Tiered, pagoda-like branching",
+    "light": "Full sun",
+    "watering": "Low to moderate",
+    "growthRate": "Moderate",
+    "soil": "Well-drained sandy, loamy, or coastal soil",
+    "floweringOrFruiting": "Small creamy flowers; almond-like drupes",
+    "sources": [
+      {
+        "title": "Purdue New Crops Resource",
+        "url": "https://www.hort.purdue.edu/newcrop/duke_energy/Terminalia_catappa.html"
+      }
+    ]
+  },
+  "mahogany": {
+    "lifespan": null,
+    "foliage": "Evergreen or semi-evergreen, glossy compound leaves",
+    "matureHeight": "15–25 m",
+    "shape": "Straight trunk with oval to rounded crown",
+    "light": "Full sun",
+    "watering": "Moderate; needs moisture when young",
+    "growthRate": "Moderate",
+    "soil": "Deep, fertile, well-drained loam",
+    "floweringOrFruiting": "Small greenish flowers; woody capsules and winged seeds",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/swietenia-mahagoni/"
+      }
+    ]
+  },
+  "silver-oak": {
+    "lifespan": null,
+    "foliage": "Evergreen, fern-like leaves with silvery cast",
+    "matureHeight": "18–30 m",
+    "shape": "Tall, narrow to pyramidal crown",
+    "light": "Full sun",
+    "watering": "Moderate",
+    "growthRate": "Fast",
+    "soil": "Well-drained loam; tolerates poorer soils",
+    "floweringOrFruiting": "Cream flowers in clusters; follicles later",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/grevillea-robusta/"
+      }
+    ]
+  },
+  "cassia-fistula-golden-shower": {
+    "lifespan": null,
+    "foliage": "Deciduous, pinnate leaves",
+    "matureHeight": "8–15 m",
+    "shape": "Rounded arching crown",
+    "light": "Full sun",
+    "watering": "Low to moderate",
+    "growthRate": "Moderate",
+    "soil": "Well-drained loam; drought-tolerant once established",
+    "floweringOrFruiting": "Showy yellow flowers in hanging clusters; long pods later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/2257/cassia-fistula/details"
+      }
+    ]
+  },
+  "tabebuia-rosea": {
+    "lifespan": null,
+    "foliage": "Deciduous, broad leaves",
+    "matureHeight": "8–20 m",
+    "shape": "Upright to rounded crown",
+    "light": "Full sun",
+    "watering": "Low to moderate",
+    "growthRate": "Moderate",
+    "soil": "Well-drained fertile loam; tolerates dry periods",
+    "floweringOrFruiting": "Pink trumpet flowers; capsule fruits later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/2874/tabebuia-rosea/details"
+      }
+    ]
+  },
+  "tabebuia-argentea": {
+    "lifespan": null,
+    "foliage": "Deciduous, rough-textured broad leaves",
+    "matureHeight": "10–18 m",
+    "shape": "Rounded spreading crown",
+    "light": "Full sun",
+    "watering": "Low to moderate",
+    "growthRate": "Moderate",
+    "soil": "Well-drained sandy to loamy soil",
+    "floweringOrFruiting": "Yellow flowers before leaf flush; dry capsules later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/10342/tabebuia-argentea/details"
+      }
+    ]
+  },
+  "bignonia-megapotamica": {
+    "lifespan": null,
+    "foliage": "Deciduous, compound lacy leaves",
+    "matureHeight": "8–15 m",
+    "shape": "Open, spreading climber or arching habit",
+    "light": "Full sun to part shade",
+    "watering": "Moderate",
+    "growthRate": "Fast",
+    "soil": "Well-drained fertile soil",
+    "floweringOrFruiting": "Large trumpet-like flowers; capsules later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/1720/bignonia-megapotamica/details"
+      }
+    ]
+  },
+  "jacaranda": {
+    "lifespan": null,
+    "foliage": "Deciduous, fine-textured bipinnate leaves",
+    "matureHeight": "8–15 m",
+    "shape": "Open umbrella crown",
+    "light": "Full sun",
+    "watering": "Moderate; avoid constant wetness",
+    "growthRate": "Fast",
+    "soil": "Deep, well-drained loam; dislikes alkaline-heavy soil",
+    "floweringOrFruiting": "Purple-blue trumpet flowers; flat seed pods later",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/jacaranda-mimosifolia/"
+      }
+    ]
+  },
+  "spathodea-african-tulip": {
+    "lifespan": null,
+    "foliage": "Evergreen to semi-evergreen, broad leaves",
+    "matureHeight": "10–20 m",
+    "shape": "Medium spreading crown with straight trunk",
+    "light": "Full sun",
+    "watering": "Moderate",
+    "growthRate": "Fast",
+    "soil": "Well-drained loam; handles seasonal moisture",
+    "floweringOrFruiting": "Orange-red trumpet flowers; seed pods later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/24764/spathodea-campanulata/details"
+      }
+    ]
+  },
+  "millingtonia-tree-jasmine": {
+    "lifespan": null,
+    "foliage": "Semi-deciduous, delicate pinnate leaves",
+    "matureHeight": "10–20 m",
+    "shape": "Airy upright crown",
+    "light": "Full sun",
+    "watering": "Moderate",
+    "growthRate": "Fast",
+    "soil": "Well-drained fertile loam",
+    "floweringOrFruiting": "Highly fragrant white flowers; capsule fruits later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/11349/millingtonia-hortensis/details"
+      }
+    ]
+  },
+  "banyan-tree": {
+    "lifespan": null,
+    "foliage": "Semi-evergreen, broad leaves",
+    "matureHeight": "15–30 m",
+    "shape": "Massive spreading canopy with aerial roots",
+    "light": "Full sun",
+    "watering": "Moderate; young trees need regular moisture",
+    "growthRate": "Moderate",
+    "soil": "Deep, rich, well-drained soil; tolerates clay",
+    "floweringOrFruiting": "Tiny flowers inside figs; edible figs later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/7086/ficus-benghalensis/details"
+      }
+    ]
+  },
+  "peepal-tree": {
+    "lifespan": null,
+    "foliage": "Deciduous to semi-evergreen, broad glossy leaves",
+    "matureHeight": "15–30 m",
+    "shape": "Wide spreading crown with massive trunk",
+    "light": "Full sun",
+    "watering": "Moderate",
+    "growthRate": "Moderate",
+    "soil": "Deep, well-drained loam; tolerates seasonal dry spells",
+    "floweringOrFruiting": "Tiny flowers in figs; syconia later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/6099/ficus-religiosa/details"
+      }
+    ]
+  },
+  "ashoka-tree-sita-ashok": {
+    "lifespan": null,
+    "foliage": "Evergreen, glossy leaflets",
+    "matureHeight": "6–10 m",
+    "shape": "Compact dome or vase-shaped canopy",
+    "light": "Full sun to part shade",
+    "watering": "Moderate; consistent moisture helps",
+    "growthRate": "Slow to moderate",
+    "soil": "Fertile, well-drained loam",
+    "floweringOrFruiting": "Orange to red flowers in clusters; seed pods later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/3002/saraca-asoca/details"
+      }
+    ]
+  },
+  "mast-tree-false-ashoka": {
+    "lifespan": null,
+    "foliage": "Evergreen, glossy narrow leaves",
+    "matureHeight": "12–18 m",
+    "shape": "Columnar to upright spreading crown",
+    "light": "Full sun",
+    "watering": "Moderate",
+    "growthRate": "Moderate",
+    "soil": "Well-drained loam or clay; tolerates dry conditions",
+    "floweringOrFruiting": "Small greenish flowers; berry-like fruits later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/14785/polyalthia-longifolia/details"
+      }
+    ]
+  },
+  "teak": {
+    "lifespan": null,
+    "foliage": "Deciduous, large soft leaves",
+    "matureHeight": "15–30 m",
+    "shape": "Tall upright column with broad crown at maturity",
+    "light": "Full sun",
+    "watering": "Low to moderate",
+    "growthRate": "Moderate to fast",
+    "soil": "Deep, fertile, well-drained loam",
+    "floweringOrFruiting": "Small white flowers; cup-shaped fruits and seeds",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/18082/tectona-grandis/details"
+      }
+    ]
+  },
+  "red-sanders-red-sandal": {
+    "lifespan": null,
+    "foliage": "Evergreen, leathery leaves",
+    "matureHeight": "8–15 m",
+    "shape": "Oval to rounded crown",
+    "light": "Full sun",
+    "watering": "Moderate",
+    "growthRate": "Slow",
+    "soil": "Well-drained loam; prefers drier conditions",
+    "floweringOrFruiting": "Small yellow flowers; pods and seeds later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/17618/pterocarpus-santalinus/details"
+      }
+    ]
+  },
+  "sandalwood": {
+    "lifespan": null,
+    "foliage": "Evergreen, narrow leathery leaves",
+    "matureHeight": "4–9 m",
+    "shape": "Open rounded crown",
+    "light": "Full sun to part shade",
+    "watering": "Low to moderate; avoid waterlogging",
+    "growthRate": "Slow",
+    "soil": "Well-drained loam or sandy soil",
+    "floweringOrFruiting": "Small greenish flowers; globose fruits and seeds",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/17774/santalum-album/details"
+      }
+    ]
+  },
+  "amaltas-neelamohar-pride-of-india": {
+    "lifespan": null,
+    "foliage": "Deciduous, medium-large leaves",
+    "matureHeight": "8–15 m",
+    "shape": "Broad dome to umbrella-like crown",
+    "light": "Full sun",
+    "watering": "Moderate",
+    "growthRate": "Moderate",
+    "soil": "Well-drained loam; tolerates dry spells",
+    "floweringOrFruiting": "Pink to mauve flower clusters; capsules later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/9897/lagerstroemia-speciosa/details"
+      }
+    ]
+  },
+  "bottlebrush-callistemon": {
+    "lifespan": null,
+    "foliage": "Evergreen, narrow leaves",
+    "matureHeight": "3–6 m",
+    "shape": "Dense rounded shrub or small tree",
+    "light": "Full sun",
+    "watering": "Low to moderate",
+    "growthRate": "Fast",
+    "soil": "Well-drained sandy or loamy soil; drought-tolerant",
+    "floweringOrFruiting": "Red bottlebrush flowers; small capsules later",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/callistemon-lanceolatus/"
+      }
+    ]
+  },
+  "bottlebrush-golden-golden-melaleuca": {
+    "lifespan": null,
+    "foliage": "Evergreen, fine foliage with golden yellow variegation",
+    "matureHeight": "3–5 m",
+    "shape": "Dense rounded small tree",
+    "light": "Full sun",
+    "watering": "Moderate; avoid prolonged wet feet",
+    "growthRate": "Moderate",
+    "soil": "Well-drained sandy to loamy soil",
+    "floweringOrFruiting": "Cream to yellow bottlebrush-like flowers; small capsules later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/10936/melaleuca-bracteata/details"
+      }
+    ]
+  },
+  "kadamba": {
+    "lifespan": null,
+    "foliage": "Evergreen, broad glossy leaves",
+    "matureHeight": "10–20 m",
+    "shape": "Rounded dome with strong trunk",
+    "light": "Full sun",
+    "watering": "Moderate",
+    "growthRate": "Fast",
+    "soil": "Moist, fertile, well-drained soil",
+    "floweringOrFruiting": "Small yellow floral heads; fruits after flowering",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/28196/neolamarckia-cadamba/details"
+      }
+    ]
+  },
+  "silk-floss-tree": {
+    "lifespan": null,
+    "foliage": "Deciduous, palm-like leaves",
+    "matureHeight": "8–15 m",
+    "shape": "Broad spreading crown with thorny trunk base",
+    "light": "Full sun",
+    "watering": "Low to moderate",
+    "growthRate": "Moderate",
+    "soil": "Well-drained loam or sand; drought-tolerant",
+    "floweringOrFruiting": "Pink to red flowers; seed capsules with flossy fibres",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/28001/ceiba-speciosa/details"
+      }
+    ]
+  },
+  "pong-pong-rubra-red-cerbera": {
+    "lifespan": null,
+    "foliage": "Evergreen, glossy leaves",
+    "matureHeight": "8–15 m",
+    "shape": "Dense rounded canopy",
+    "light": "Full sun",
+    "watering": "Low; tolerates dry conditions",
+    "growthRate": "Moderate",
+    "soil": "Sandy to loamy soil; good drainage required",
+    "floweringOrFruiting": "White to pink flowers; large seed-containing fruits later",
+    "sources": [
+      {
+        "title": "cabi.org",
+        "url": "https://www.cabi.org/isc/datasheet/118561"
+      }
+    ]
+  },
+  "barringtonia-racemosa-powder-puff-tree": {
+    "lifespan": null,
+    "foliage": "Evergreen, glossy broad leaves",
+    "matureHeight": "6–15 m",
+    "shape": "Rounded crown with spreading habit",
+    "light": "Full sun",
+    "watering": "Moderate",
+    "growthRate": "Moderate",
+    "soil": "Well-drained moist soil; tolerates coastal conditions",
+    "floweringOrFruiting": "Pink showy flowers; fibrous fruit later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/2708/barringtonia-racemosa/details"
+      }
+    ]
+  },
+  "eugenia-red-lip": {
+    "lifespan": null,
+    "foliage": "Evergreen, dense glossy leaves",
+    "matureHeight": "3–6 m",
+    "shape": "Dense rounded mound or small tree",
+    "light": "Full sun to part shade",
+    "watering": "Moderate",
+    "growthRate": "Moderate",
+    "soil": "Well-drained loam; tolerates coastal conditions",
+    "floweringOrFruiting": "Small cream flowers; fleshy berries later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/30124/syzygium-myrtifolium/details"
+      }
+    ]
+  },
+  "eugenia-micro-dwarf": {
+    "lifespan": null,
+    "foliage": "Evergreen, compact dense foliage",
+    "matureHeight": "1–3 m",
+    "shape": "Dense rounded compact habit",
+    "light": "Full sun to part shade",
+    "watering": "Moderate",
+    "growthRate": "Slow to moderate",
+    "soil": "Well-drained loam; tolerates coastal exposure",
+    "floweringOrFruiting": "Small cream flowers; small fleshy fruits later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/30124/syzygium-myrtifolium/details"
+      }
+    ]
+  },
+  "foxtail-palm": {
+    "lifespan": null,
+    "foliage": "Evergreen feather-like fronds",
+    "matureHeight": "6–12 m",
+    "shape": "Single trunk with arching feather palm habit",
+    "light": "Full sun to part shade",
+    "watering": "Moderate; good drainage essential",
+    "growthRate": "Moderate",
+    "soil": "Well-drained sandy or loamy soil",
+    "floweringOrFruiting": "Cream flowers; orange-red fruits later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/30997/wodyetia-bifurcata/details"
+      }
+    ]
+  },
+  "red-latan-palm": {
+    "lifespan": null,
+    "foliage": "Evergreen fan palm with circular ribbed fronds",
+    "matureHeight": "8–15 m",
+    "shape": "Rounded fan crown on single trunk",
+    "light": "Full sun to part shade",
+    "watering": "Moderate; drought-tolerant once established",
+    "growthRate": "Moderate",
+    "soil": "Well-drained sandy or loamy soil",
+    "floweringOrFruiting": "Cream flowers; red-orange fruits later",
+    "sources": [
+      {
+        "title": "cabi.org",
+        "url": "https://www.cabi.org/isc/datasheet/116188"
+      }
+    ]
+  },
+  "cardboard-palm": {
+    "lifespan": null,
+    "foliage": "Evergreen rigid pinnate fronds",
+    "matureHeight": "1.5–3 m",
+    "shape": "Rosette-forming, trunkless or low trunk",
+    "light": "Full sun to part shade",
+    "watering": "Low to moderate",
+    "growthRate": "Slow",
+    "soil": "Well-drained slightly acidic to neutral soil",
+    "floweringOrFruiting": "Cone-like reproductive structures; not a true palm",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/zamia-furfuracea/"
+      }
+    ]
+  },
+  "royal-palm": {
+    "lifespan": null,
+    "foliage": "Evergreen feather palm with long fronds",
+    "matureHeight": "15–25 m",
+    "shape": "Tall straight trunk with symmetrical crown",
+    "light": "Full sun",
+    "watering": "Moderate; moisture preferred when young",
+    "growthRate": "Fast",
+    "soil": "Deep, moist, well-drained soil",
+    "floweringOrFruiting": "Cream flowers; small fruits later",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://edis.ifas.ufl.edu/publication/ST188"
+      }
+    ]
+  },
+  "areca-palm": {
+    "lifespan": null,
+    "foliage": "Evergreen feather palm with arching fronds",
+    "matureHeight": "6–10 m",
+    "shape": "Clumping cane-like stems",
+    "light": "Bright indirect light to full sun",
+    "watering": "Moderate to high",
+    "growthRate": "Moderate",
+    "soil": "Rich, moist, well-drained soil",
+    "floweringOrFruiting": "Cream flowers; orange-red fruits on mature plants",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://edis.ifas.ufl.edu/publication/ST365"
+      }
+    ]
+  },
+  "bottle-palm": {
+    "lifespan": null,
+    "foliage": "Evergreen feather palm with soft crown",
+    "matureHeight": "6–10 m",
+    "shape": "Bottle-shaped trunk with narrow crown",
+    "light": "Full sun to part shade",
+    "watering": "Moderate",
+    "growthRate": "Slow to moderate",
+    "soil": "Well-drained fertile soil",
+    "floweringOrFruiting": "Small cream flowers; round fruits later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/10188/hyophorbe-lagenicaulis/details"
+      }
+    ]
+  },
+  "champion-chinese-fan-palm": {
+    "lifespan": null,
+    "foliage": "Evergreen fan palm with broad circular fronds",
+    "matureHeight": "6–12 m",
+    "shape": "Rounded fan crown on single trunk",
+    "light": "Full sun to part shade",
+    "watering": "Low to moderate",
+    "growthRate": "Moderate",
+    "soil": "Well-drained sandy to loamy soil",
+    "floweringOrFruiting": "Cream flowers; dark drupes later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/10339/livistona-chinensis/details"
+      }
+    ]
+  },
+  "wild-date-palm-silver": {
+    "lifespan": null,
+    "foliage": "Evergreen feather palm with drooping fronds",
+    "matureHeight": "10–15 m",
+    "shape": "Single trunk with arching habit",
+    "light": "Full sun",
+    "watering": "Low; very drought-tolerant",
+    "growthRate": "Moderate",
+    "soil": "Sandy or loamy, well-drained soil",
+    "floweringOrFruiting": "Yellow flowers; edible dates later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/13634/phoenix-sylvestris/details"
+      }
+    ]
+  },
+  "travellers-palm": {
+    "lifespan": null,
+    "foliage": "Evergreen, large banana-like leaves in a fan",
+    "matureHeight": "6–12 m",
+    "shape": "Tall upright stems with striking fan arrangement",
+    "light": "Full sun to part shade",
+    "watering": "Moderate",
+    "growthRate": "Fast",
+    "soil": "Rich, well-drained soil; adapts to moisture",
+    "floweringOrFruiting": "Large bracts with creamy flowers; fruit clusters later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/15189/ravenala-madagascariensis/details"
+      }
+    ]
+  },
+  "fishtail-palm": {
+    "lifespan": null,
+    "foliage": "Evergreen, fishtail-shaped leaflets",
+    "matureHeight": "6–12 m",
+    "shape": "Upright slim trunk with arching fronds",
+    "light": "Bright indirect light to full sun",
+    "watering": "Moderate",
+    "growthRate": "Moderate",
+    "soil": "Rich, moist, well-drained soil",
+    "floweringOrFruiting": "Cream flower clusters; orange-red fruit later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/10779/caryota-mitis/details"
+      }
+    ]
+  },
+  "washingtonia-palm": {
+    "lifespan": null,
+    "foliage": "Evergreen fan palm with large costapalmate fronds",
+    "matureHeight": "10–20 m",
+    "shape": "Tall slim trunk with broad fan crown",
+    "light": "Full sun",
+    "watering": "Low; very drought-tolerant",
+    "growthRate": "Fast",
+    "soil": "Sandy or gritty, well-drained soil",
+    "floweringOrFruiting": "Cream flowers; hanging fruit clusters later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/31085/washingtonia-robusta/details"
+      }
+    ]
+  },
+  "sylvester-dwarf-date": {
+    "lifespan": null,
+    "foliage": "Evergreen feather palm with arching fronds",
+    "matureHeight": "2–5 m",
+    "shape": "Slender compact fountain form",
+    "light": "Full sun to part shade",
+    "watering": "Low to moderate",
+    "growthRate": "Moderate",
+    "soil": "Well-drained sandy or loamy soil",
+    "floweringOrFruiting": "Small yellow flowers; dates on mature plants",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/31794/phoenix-roebelenii/details"
+      }
+    ]
+  },
+  "bismarck-palm": {
+    "lifespan": null,
+    "foliage": "Evergreen fan palm with large blue-green fronds",
+    "matureHeight": "12–18 m",
+    "shape": "Bold upright crown with stout trunk",
+    "light": "Full sun",
+    "watering": "Moderate; not drought-proof in exposed heat",
+    "growthRate": "Moderate",
+    "soil": "Well-drained sandy loam; prefers fertile soil",
+    "floweringOrFruiting": "Cream flowers; fruiting drupes later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/11718/bismarckia-nobilis/details"
+      }
+    ]
+  },
+  "spindle-palm": {
+    "lifespan": null,
+    "foliage": "Evergreen feather-like fronds",
+    "matureHeight": "8–12 m",
+    "shape": "Spindle-like trunk swelling in middle",
+    "light": "Full sun to part shade",
+    "watering": "Moderate",
+    "growthRate": "Slow to moderate",
+    "soil": "Well-drained fertile soil",
+    "floweringOrFruiting": "Small cream flowers; drupes later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/11835/hyophorbe-verschaffeltii/details"
+      }
+    ]
+  },
+  "sago-palm-cycas": {
+    "lifespan": null,
+    "foliage": "Evergreen stiff, arching leaflets in rosette",
+    "matureHeight": "2–4 m",
+    "shape": "Low dense rosette with short trunk",
+    "light": "Full sun to part shade",
+    "watering": "Low to moderate",
+    "growthRate": "Slow",
+    "soil": "Well-drained gritty soil; tolerates dry periods",
+    "floweringOrFruiting": "Cone-like reproductive structures; not a true palm",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/cycas-revoluta/"
+      }
+    ]
+  },
+  "coconut-palm-landscape": {
+    "lifespan": null,
+    "foliage": "Evergreen feather palm with long drooping fronds",
+    "matureHeight": "20–30 m",
+    "shape": "Straight tall trunk with broad crown",
+    "light": "Full sun",
+    "watering": "Moderate to high; needs regular moisture in dry climates",
+    "growthRate": "Fast",
+    "soil": "Sandy or loamy, well-drained coastal soil",
+    "floweringOrFruiting": "Large flower clusters and coconuts",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://edis.ifas.ufl.edu/publication/ST733"
+      }
+    ]
+  },
+  "veitchia-merrillii-christmas-palm": {
+    "lifespan": null,
+    "foliage": "Evergreen feather palm with soft arching fronds",
+    "matureHeight": "6–9 m",
+    "shape": "Slender upright trunk with neat canopy",
+    "light": "Full sun to part shade",
+    "watering": "Moderate",
+    "growthRate": "Moderate",
+    "soil": "Fertile, well-drained soil",
+    "floweringOrFruiting": "Small cream flowers; orange-red fruits later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/17396/adonidia-merrillii/details"
+      }
+    ]
+  },
+  "veitchia-golden-palm": {
+    "lifespan": null,
+    "foliage": "Evergreen feather palm with golden variegated fronds",
+    "matureHeight": "6–9 m",
+    "shape": "Slender upright crown",
+    "light": "Full sun to part shade",
+    "watering": "Moderate",
+    "growthRate": "Moderate",
+    "soil": "Fertile, well-drained soil",
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/17396/adonidia-merrillii/details"
+      }
+    ]
+  },
+  "rhapis-excelsa-lady-palm": {
+    "lifespan": null,
+    "foliage": "Evergreen fan palm with dense leafy clumps",
+    "matureHeight": "2–4 m",
+    "shape": "Dense clumping fountain habit",
+    "light": "Part shade to full shade",
+    "watering": "Moderate; likes consistent moisture",
+    "growthRate": "Slow to moderate",
+    "soil": "Rich, moist, well-drained soil",
+    "floweringOrFruiting": "Small cream flowers; small drupes later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/13087/rhapis-excelsa/details"
+      }
+    ]
+  },
+  "palmyra-palm": {
+    "lifespan": null,
+    "foliage": "Evergreen fan palm with huge fan-shaped fronds",
+    "matureHeight": "20–30 m",
+    "shape": "Very tall trunk with massive fan crown",
+    "light": "Full sun",
+    "watering": "Low to moderate",
+    "growthRate": "Moderate",
+    "soil": "Sandy or clayey, well-drained soil",
+    "floweringOrFruiting": "Cream flowers in large clusters; large fruits later",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/19932/borassus-flabellifer/details"
+      }
+    ]
+  },
+  "henna-mehendi": {
+    "lifespan": null,
+    "foliage": "Glossy pinnate foliage; warm-season flowering clusters",
+    "matureHeight": null,
+    "shape": "Shrub or small tree",
+    "light": "Full sun to part shade",
+    "watering": "Low to moderate; let soil dry slightly between waterings",
+    "growthRate": "Moderate",
+    "soil": "Well-drained loam",
+    "floweringOrFruiting": "Seasonal flowers; ornamental value mainly in foliage and flowers",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/lawsonia-inermis/"
+      }
+    ]
+  },
+  "calathea-lutea-cuban-cigar": {
+    "lifespan": null,
+    "foliage": "Large upright striped leaves in a clumping rosette",
+    "matureHeight": "1-2 m",
+    "shape": "Clumping rosette",
+    "light": "Bright filtered light; avoid harsh direct sun",
+    "watering": "Keep evenly moist but not waterlogged",
+    "growthRate": "Moderate",
+    "soil": "Rich, moist, well-drained soil",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/calathea-lutea/"
+      }
+    ]
+  },
+  "bird-of-paradise-orange": {
+    "lifespan": null,
+    "foliage": "Large arching leaves in a fan-like clump",
+    "matureHeight": "1-2 m",
+    "shape": "Upright clump",
+    "light": "Full sun to bright indirect light",
+    "watering": "Moderate; allow topsoil to dry slightly between waterings",
+    "growthRate": "Moderate",
+    "soil": "Fast-draining fertile loam",
+    "floweringOrFruiting": "Seasonal orange flowers; foliage is the main ornamental feature",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/strelitzia-reginae/"
+      }
+    ]
+  },
+  "ornamental-banana-red": {
+    "lifespan": null,
+    "foliage": "Large tropical leaves with red-purple petioles and midribs",
+    "matureHeight": "2-5 m",
+    "shape": "Tall clumping stalk",
+    "light": "Bright light with some direct sun",
+    "watering": "High; keep soil consistently moist",
+    "growthRate": "Fast",
+    "soil": "Rich, well-drained, moisture-retentive soil",
+    "floweringOrFruiting": "Flowering is secondary; foliage is the main feature",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ensete-ventricosum/"
+      }
+    ]
+  },
+  "hibiscus-tiliaceus-rubra": {
+    "lifespan": null,
+    "foliage": "Bright green, heart-shaped leaves on a dense shrub",
+    "matureHeight": "2-5 m",
+    "shape": "Rounded shrub or small tree",
+    "light": "Full sun",
+    "watering": "Moderate to high; regular watering in warm weather",
+    "growthRate": "Fast",
+    "soil": "Well-drained loam or sandy soil",
+    "floweringOrFruiting": "Seasonal hibiscus-like flowers; ornamental value in flowers and foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/hibiscus-tiliaceus/"
+      }
+    ]
+  },
+  "ficus-starlight": {
+    "lifespan": null,
+    "foliage": "Glossy green-and-cream variegated leaves",
+    "matureHeight": "2-5 m",
+    "shape": "Bushy rounded tree",
+    "light": "Bright indirect light",
+    "watering": "Moderate; allow top layer to dry slightly",
+    "growthRate": "Moderate",
+    "soil": "Well-drained fertile mix",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-benjamina/"
+      }
+    ]
+  },
+  "ficus-black": {
+    "lifespan": null,
+    "foliage": "Glossy dark-green leaves on dense branching",
+    "matureHeight": "2-4 m",
+    "shape": "Rounded shrub or small tree",
+    "light": "Bright indirect light to part sun",
+    "watering": "Moderate; water when top layer dries",
+    "growthRate": "Moderate",
+    "soil": "Well-drained loam or potting mix",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-benjamina/"
+      }
+    ]
+  },
+  "ficus-panda": {
+    "lifespan": null,
+    "foliage": "Dense glossy leaves with a compact rounded habit",
+    "matureHeight": "1.5-3 m",
+    "shape": "Compact upright shrub",
+    "light": "Bright indirect light",
+    "watering": "Moderate; let top layer dry slightly",
+    "growthRate": "Moderate",
+    "soil": "Well-drained fertile soil",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-microcarpa/"
+      }
+    ]
+  },
+  "croton-assorted": {
+    "lifespan": null,
+    "foliage": "Highly variegated leaves in yellow, orange, and red patterns",
+    "matureHeight": "1-2 m",
+    "shape": "Dense upright shrub",
+    "light": "Bright indirect light to filtered sun",
+    "watering": "Moderate; keep evenly moist but not soggy",
+    "growthRate": "Moderate",
+    "soil": "Rich, well-drained, slightly acidic soil",
+    "floweringOrFruiting": "Mostly ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/codiaeum-variegatum/"
+      }
+    ]
+  },
+  "croton-gold-dust": {
+    "lifespan": null,
+    "foliage": "Glossy yellow-green variegated leaves",
+    "matureHeight": "1-2 m",
+    "shape": "Dense upright shrub",
+    "light": "Bright filtered light",
+    "watering": "Moderate; avoid waterlogging",
+    "growthRate": "Moderate",
+    "soil": "Rich, free-draining soil",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/codiaeum-variegatum/"
+      }
+    ]
+  },
+  "aralia-golden": {
+    "lifespan": null,
+    "foliage": "Soft green and golden variegated foliage",
+    "matureHeight": "1-2 m",
+    "shape": "Arching shrub",
+    "light": "Bright indirect light or part sun",
+    "watering": "Moderate; keep soil lightly moist",
+    "growthRate": "Moderate",
+    "soil": "Well-drained rich loam",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/polyscias-fruticosa/"
+      }
+    ]
+  },
+  "aralia-variegated-white": {
+    "lifespan": null,
+    "foliage": "Pale variegated foliage in an upright clump",
+    "matureHeight": "1-2 m",
+    "shape": "Dense upright shrub",
+    "light": "Bright indirect light",
+    "watering": "Moderate; allow topsoil to dry slightly",
+    "growthRate": "Moderate",
+    "soil": "Well-drained fertile soil",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/polyscias-guilfoylei/"
+      }
+    ]
+  },
+  "song-of-india": {
+    "lifespan": null,
+    "foliage": "Long strap-like striped leaves on an upright clump",
+    "matureHeight": "1-2 m",
+    "shape": "Erect clump",
+    "light": "Bright indirect light",
+    "watering": "Moderate; keep soil slightly moist",
+    "growthRate": "Moderate",
+    "soil": "Well-drained potting mix",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/dracaena-reflexa/"
+      }
+    ]
+  },
+  "song-of-jamaica": {
+    "lifespan": null,
+    "foliage": "Green sword-like leaves in an upright clump",
+    "matureHeight": "1-2 m",
+    "shape": "Erect clump",
+    "light": "Bright indirect light",
+    "watering": "Moderate; allow topsoil to dry slightly",
+    "growthRate": "Moderate",
+    "soil": "Well-drained fertile soil",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/dracaena-reflexa/"
+      }
+    ]
+  },
+  "duranta-gold-hedge": {
+    "lifespan": null,
+    "foliage": "Glossy golden-green leaves on a dense hedge",
+    "matureHeight": "1.5-3 m",
+    "shape": "Dense bushy hedge",
+    "light": "Full sun to part shade",
+    "watering": "Low to moderate",
+    "growthRate": "Moderate",
+    "soil": "Well-drained fertile soil",
+    "floweringOrFruiting": "Flowers and berries possible in warm climates; foliage is main ornamental value",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/duranta-erecta/"
+      }
+    ]
+  },
+  "thuja-morpankhi": {
+    "lifespan": null,
+    "foliage": "Dense evergreen scale-like foliage in a conical crown",
+    "matureHeight": "3-6 m",
+    "shape": "Narrow pyramidal tree",
+    "light": "Full sun to part shade",
+    "watering": "Low to moderate; evenly moist but not wet",
+    "growthRate": "Moderate",
+    "soil": "Well-drained loam or sandy soil",
+    "floweringOrFruiting": "Usually grown for foliage and screening",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/platycladus-orientalis/"
+      }
+    ]
+  },
+  "thuja-golden": {
+    "lifespan": null,
+    "foliage": "Dense evergreen spray foliage with golden highlights",
+    "matureHeight": "3-6 m",
+    "shape": "Pyramidal screen plant",
+    "light": "Full sun",
+    "watering": "Moderate; do not keep soil waterlogged",
+    "growthRate": "Moderate",
+    "soil": "Well-drained loam or sand",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/platycladus-orientalis/"
+      }
+    ]
+  },
+  "golden-variegated-thuja": {
+    "lifespan": null,
+    "foliage": "Evergreen scale leaves with gold to cream variegation",
+    "matureHeight": "3-6 m",
+    "shape": "Pyramidal conifer",
+    "light": "Full sun to bright part shade",
+    "watering": "Moderate; allow proper drying between waterings after establishment",
+    "growthRate": "Moderate",
+    "soil": "Well-drained loamy soil",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/platycladus-orientalis/"
+      }
+    ]
+  },
+  "golden-cypress": {
+    "lifespan": null,
+    "foliage": "Dense feathery evergreen foliage with a golden tint",
+    "matureHeight": "3-6 m",
+    "shape": "Pyramidal column",
+    "light": "Full sun",
+    "watering": "Low to moderate; well-drained soil preferred",
+    "growthRate": "Moderate",
+    "soil": "Well-drained sandy loam",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/cupressus-macrocarpa/"
+      }
+    ]
+  },
+  "juniper-prostrate": {
+    "lifespan": null,
+    "foliage": "Needle-like evergreen foliage in a mat-forming habit",
+    "matureHeight": "0.3-0.8 m",
+    "shape": "Prostrate groundcover",
+    "light": "Full sun",
+    "watering": "Low; well-drained soil required",
+    "growthRate": "Slow to moderate",
+    "soil": "Sandy or gritty soil",
+    "floweringOrFruiting": "Berries may appear on female plants",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/juniperus-procumbens/"
+      }
+    ]
+  },
+  "juniperus-virginiana-pencil-cedar": {
+    "lifespan": null,
+    "foliage": "Blue-green aromatic foliage on slender columnar stems",
+    "matureHeight": "3-8 m",
+    "shape": "Columnar to conical tree",
+    "light": "Full sun",
+    "watering": "Low to moderate; drought tolerant once established",
+    "growthRate": "Moderate",
+    "soil": "Well-drained sandy or loamy soil",
+    "floweringOrFruiting": "Cones and berries may form on female plants",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/juniperus-virginiana/"
+      }
+    ]
+  },
+  "blue-point-juniper": {
+    "lifespan": null,
+    "foliage": "Dense blue-green juniper foliage in a tidy column",
+    "matureHeight": "3-6 m",
+    "shape": "Narrow columnar",
+    "light": "Full sun",
+    "watering": "Low; well-drained soil preferred",
+    "growthRate": "Moderate",
+    "soil": "Sandy or loamy soil",
+    "floweringOrFruiting": "Mostly ornamental foliage; berries may appear on female selections",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/juniperus-chinensis/"
+      }
+    ]
+  },
+  "cordyline-red": {
+    "lifespan": null,
+    "foliage": "Broad red-toned leaves in a tufted clump",
+    "matureHeight": "0.8-1.8 m",
+    "shape": "Clumping upright rosette",
+    "light": "Bright filtered light to part sun",
+    "watering": "Moderate; keep evenly moist but not wet",
+    "growthRate": "Moderate",
+    "soil": "Free-draining rich soil",
+    "floweringOrFruiting": "Mostly ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/cordyline-fruticosa/"
+      }
+    ]
+  },
+  "phoenix-multi-head": {
+    "lifespan": null,
+    "foliage": "Palm-like feathered fronds in a clumping form",
+    "matureHeight": "2-5 m",
+    "shape": "Multi-stem clump",
+    "light": "Full sun to bright filtered light",
+    "watering": "Moderate; water regularly until established",
+    "growthRate": "Moderate",
+    "soil": "Well-drained sandy loam",
+    "floweringOrFruiting": "Fruit appears only in warm, mature specimens",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/phoenix/"
+      }
+    ]
+  },
+  "schefflera-variegated": {
+    "lifespan": null,
+    "foliage": "Glossy leaflets in a seven-leaflet pattern with cream variegation",
+    "matureHeight": "1-2 m",
+    "shape": "Rounded shrub or small tree",
+    "light": "Bright indirect light",
+    "watering": "Moderate; allow the top layer to dry slightly",
+    "growthRate": "Moderate",
+    "soil": "Well-drained fertile mix",
+    "floweringOrFruiting": "Mostly ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/schefflera-arboricola/"
+      }
+    ]
+  },
+  "acalypha-copper-leaf": {
+    "lifespan": null,
+    "foliage": "Coppery red to green foliage in dense upright sprays",
+    "matureHeight": "1-2 m",
+    "shape": "Bushy shrub",
+    "light": "Bright filtered light to part sun",
+    "watering": "Moderate; keep evenly moist",
+    "growthRate": "Fast",
+    "soil": "Rich, well-drained loam",
+    "floweringOrFruiting": "Mostly ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/acalypha-wilkesiana/"
+      }
+    ]
+  },
+  "eranthemum-black": {
+    "lifespan": null,
+    "foliage": "Dark burgundy to purple foliage on upright stems",
+    "matureHeight": "0.8-1.5 m",
+    "shape": "Dense upright shrub",
+    "light": "Bright filtered light",
+    "watering": "Moderate; avoid prolonged drying",
+    "growthRate": "Moderate",
+    "soil": "Well-drained rich loam",
+    "floweringOrFruiting": "Small flowers possible; foliage is the main feature",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/pseuderanthemum-atropurpureum/"
+      }
+    ]
+  },
+  "spider-lily": {
+    "lifespan": null,
+    "foliage": "Long strap leaves in a bulbous clump",
+    "matureHeight": "0.5-1 m",
+    "shape": "Clumping rosette",
+    "light": "Full sun to part shade",
+    "watering": "Low to moderate; allow soil to dry between waterings",
+    "growthRate": "Moderate",
+    "soil": "Well-drained sandy loam",
+    "floweringOrFruiting": "Seasonal white flowers; fruit not usually notable",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/hymenocallis-littoralis/"
+      }
+    ]
+  },
+  "furcraea-gold": {
+    "lifespan": null,
+    "foliage": "Large variegated leaves with cream margins in a spiny rosette",
+    "matureHeight": "1-2 m",
+    "shape": "Rosette",
+    "light": "Full sun to bright filtered light",
+    "watering": "Low; drought tolerant once established",
+    "growthRate": "Slow to moderate",
+    "soil": "Well-drained gritty soil",
+    "floweringOrFruiting": "Flowers once then dies back; grown mainly for foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/furcraea-foetida/"
+      }
+    ]
+  },
+  "terminalia-mantaly-variegated": {
+    "lifespan": null,
+    "foliage": "Bright green and cream variegated leaves on a dense crown",
+    "matureHeight": "3-8 m",
+    "shape": "Rounded shade tree",
+    "light": "Full sun",
+    "watering": "Low to moderate",
+    "growthRate": "Fast",
+    "soil": "Well-drained sandy loam",
+    "floweringOrFruiting": "Mostly ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/terminalia-mantaly/"
+      }
+    ]
+  },
+  "terminalia-mantaly-green": {
+    "lifespan": null,
+    "foliage": "Glossy green broad leaves in a layered crown",
+    "matureHeight": "3-8 m",
+    "shape": "Rounded shade tree",
+    "light": "Full sun",
+    "watering": "Low to moderate",
+    "growthRate": "Fast",
+    "soil": "Well-drained soil",
+    "floweringOrFruiting": "Primarily foliage and shade tree",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/terminalia-mantaly/"
+      }
+    ]
+  },
+  "spanish-cherry-variegated": {
+    "lifespan": null,
+    "foliage": "Glossy dark leaves with cream variegation",
+    "matureHeight": "3-8 m",
+    "shape": "Rounded small tree",
+    "light": "Full sun to part shade",
+    "watering": "Moderate; keep moist while establishing",
+    "growthRate": "Moderate",
+    "soil": "Well-drained loam",
+    "floweringOrFruiting": "Mostly ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/mimusops-elengi/"
+      }
+    ]
+  },
+  "peepal-variegated": {
+    "lifespan": null,
+    "foliage": "Broad heart-shaped leaves with pale variegation",
+    "matureHeight": "5-15 m",
+    "shape": "Broad spreading tree",
+    "light": "Full sun to bright filtered light",
+    "watering": "Moderate to low once established",
+    "growthRate": "Moderate",
+    "soil": "Well-drained loam",
+    "floweringOrFruiting": "Grown for foliage and shade; figs appear when mature",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-religiosa/"
+      }
+    ]
+  },
+  "brachychiton-rupestris-bottle-tree": {
+    "lifespan": null,
+    "foliage": "Glossy narrow leaves on a swollen bottle-like trunk",
+    "matureHeight": "4-10 m",
+    "shape": "Bottle-shaped tree",
+    "light": "Full sun",
+    "watering": "Low; drought tolerant once established",
+    "growthRate": "Slow to moderate",
+    "soil": "Well-drained gritty soil",
+    "floweringOrFruiting": "Seasonal small flowers; foliage is principal ornament",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/brachychiton-rupestris/"
+      }
+    ]
+  },
+  "schizolobium-parahyba-tower-tree": {
+    "lifespan": null,
+    "foliage": "Feathery airy foliage on a tall trunk",
+    "matureHeight": "10-20 m",
+    "shape": "Tall upright tree",
+    "light": "Full sun",
+    "watering": "Moderate; tolerates seasonal dryness",
+    "growthRate": "Fast",
+    "soil": "Well-drained fertile soil",
+    "floweringOrFruiting": "Flowering in warm season; foliage is main feature",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/schizolobium-parahyba/"
+      }
+    ]
+  },
+  "pisonia-alba-lettuce-tree": {
+    "lifespan": null,
+    "foliage": "Large soft pale-green leaves on an open crown",
+    "matureHeight": "4-12 m",
+    "shape": "Open canopy tree",
+    "light": "Full sun to part shade",
+    "watering": "Moderate; prefers evenly moist soil",
+    "growthRate": "Moderate",
+    "soil": "Well-drained fertile loam",
+    "floweringOrFruiting": "Primarily foliage and shade",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/pisonia-grandis/"
+      }
+    ]
+  },
+  "podocarpus-macrophyllus-buddhist-pine": {
+    "lifespan": null,
+    "foliage": "Dense dark evergreen needles on a conical form",
+    "matureHeight": "3-8 m",
+    "shape": "Conical tree",
+    "light": "Full sun to part shade",
+    "watering": "Low to moderate",
+    "growthRate": "Slow to moderate",
+    "soil": "Well-drained loamy soil",
+    "floweringOrFruiting": "Cones present but minor ornamental feature",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/podocarpus-macrophyllus/"
+      }
+    ]
+  },
+  "alocasia-macrorrhizos-black": {
+    "lifespan": null,
+    "foliage": "Huge dark-green leaves on a bold tropical clump",
+    "matureHeight": "1-3 m",
+    "shape": "Large upright rosette",
+    "light": "Bright filtered light",
+    "watering": "High; keep soil evenly moist but not stagnant",
+    "growthRate": "Moderate",
+    "soil": "Rich, moist but free-draining soil",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/alocasia-macrorrhizos/"
+      }
+    ]
+  },
+  "clusia-rosea-autograph-tree": {
+    "lifespan": null,
+    "foliage": "Glossy leathery leaves in a dense broad crown",
+    "matureHeight": "3-8 m",
+    "shape": "Dense rounded tree",
+    "light": "Full sun to bright filtered light",
+    "watering": "Moderate; prefer evenly moist soil",
+    "growthRate": "Moderate",
+    "soil": "Well-drained loam or sandy loam",
+    "floweringOrFruiting": "Primarily foliage and dense crown",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/clusia-rosea/"
+      }
+    ]
+  },
+  "terminalia-metallica-black": {
+    "lifespan": null,
+    "foliage": "Dark green leathery leaves in a dense layered crown",
+    "matureHeight": "3-8 m",
+    "shape": "Rounded canopy tree",
+    "light": "Full sun",
+    "watering": "Low to moderate",
+    "growthRate": "Moderate",
+    "soil": "Well-drained loam",
+    "floweringOrFruiting": "Primarily ornamental foliage and shade",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/terminalia-metallica/"
+      }
+    ]
+  },
+  "desmodium-golden-leaf": {
+    "lifespan": null,
+    "foliage": "Golden-green foliage with bright arching stems",
+    "matureHeight": "1-2 m",
+    "shape": "Bushy clump",
+    "light": "Full sun to part shade",
+    "watering": "Moderate; keep soil lightly moist",
+    "growthRate": "Moderate",
+    "soil": "Well-drained loam",
+    "floweringOrFruiting": "Seasonal flowering; foliage is primary ornamental value",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/pseudarthria-viscida/"
+      }
+    ]
+  },
+  "radermachera-china-doll": {
+    "lifespan": null,
+    "foliage": "Fine pinnate foliage in a soft doll-like habit",
+    "matureHeight": "0.8-1.5 m",
+    "shape": "Bushy shrub or compact tree",
+    "light": "Bright indirect light",
+    "watering": "Moderate; allow top layer to dry slightly",
+    "growthRate": "Moderate",
+    "soil": "Well-drained fertile mix",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/radermachera-sinica/"
+      }
+    ]
+  },
+  "ficus-lyrata-fiddle-leaf": {
+    "lifespan": null,
+    "foliage": "Very large violin-shaped leaves on a branching trunk",
+    "matureHeight": "2-5 m",
+    "shape": "Tall upright tree",
+    "light": "Bright indirect light",
+    "watering": "Moderate; allow topsoil to dry slightly between waterings",
+    "growthRate": "Moderate",
+    "soil": "Well-drained rich loam",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-lyrata/"
+      }
+    ]
+  },
+  "rubber-plant-burgundy": {
+    "lifespan": null,
+    "foliage": "Large waxy burgundy-red leaves",
+    "matureHeight": "2-5 m",
+    "shape": "Upright rounded tree",
+    "light": "Bright indirect light",
+    "watering": "Moderate; allow top layer to dry between waterings",
+    "growthRate": "Moderate",
+    "soil": "Well-drained fertile potting mix",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-elastica/"
+      }
+    ]
+  },
+  "variegated-rubber-plant": {
+    "lifespan": null,
+    "foliage": "Glossy green leaves with cream or pink variegation",
+    "matureHeight": null,
+    "shape": "Upright rounded tree",
+    "light": null,
+    "watering": null,
+    "growthRate": "Moderate",
+    "soil": null,
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-elastica/"
+      }
+    ]
+  },
+  "excoecaria-cochinchinensis-variegata": {
+    "lifespan": null,
+    "foliage": "Glossy cream-variegated leaves on a dense branched form",
+    "matureHeight": "1-3 m",
+    "shape": "Dense rounded shrub",
+    "light": "Bright filtered light or part sun",
+    "watering": "Moderate; keep evenly moist",
+    "growthRate": "Moderate",
+    "soil": "Well-drained fertile soil",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/excoecaria-cochinchinensis/"
+      }
+    ]
+  },
+  "dracaena-mahatma": {
+    "lifespan": null,
+    "foliage": "Bright green and cream-striped leaves in a narrow upright form",
+    "matureHeight": "0.8-1.5 m",
+    "shape": "Upright clump",
+    "light": "Bright indirect light",
+    "watering": "Moderate; allow topsoil to dry slightly",
+    "growthRate": "Moderate",
+    "soil": "Well-drained potting mix",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/cordyline-fruticosa/"
+      }
+    ]
+  },
+  "snake-plant": {
+    "lifespan": null,
+    "foliage": "Rigid upright leaves with bold variegation",
+    "matureHeight": "0.6-1.2 m",
+    "shape": "Rosette or upright clump",
+    "light": "Low to bright indirect light",
+    "watering": "Low; allow soil to dry fully between waterings",
+    "growthRate": "Slow",
+    "soil": "Well-drained airy mix",
+    "floweringOrFruiting": "Flowers occasional; foliage is main feature",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/sansevieria-trifasciata/"
+      }
+    ]
+  },
+  "zz-plant": {
+    "lifespan": null,
+    "foliage": "Glossy leaflets in an upright rosette",
+    "matureHeight": "0.6-1.2 m",
+    "shape": "Bushy rosette",
+    "light": "Low to bright indirect light",
+    "watering": "Low; allow soil to dry between waterings",
+    "growthRate": "Slow",
+    "soil": "Well-drained potting mix",
+    "floweringOrFruiting": "Rarely flowers indoors; grown for foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/zamioculcas-zamiifolia/"
+      }
+    ]
+  },
+  "money-plant-green": {
+    "lifespan": null,
+    "foliage": "Heart-shaped leaves on a vigorous climbing vine",
+    "matureHeight": "1-3 m with support",
+    "shape": "Climbing vine",
+    "light": "Bright indirect light",
+    "watering": "Moderate; keep soil lightly moist",
+    "growthRate": "Fast",
+    "soil": "Well-drained fertile mix",
+    "floweringOrFruiting": "Flowers rare indoors; ornamental value is foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/epipremnum-aureum/"
+      }
+    ]
+  },
+  "money-plant-gold": {
+    "lifespan": null,
+    "foliage": "Bright lime-green chartreuse leaves on a climbing vine",
+    "matureHeight": "1-3 m with support",
+    "shape": "Climbing vine",
+    "light": "Bright indirect light",
+    "watering": "Moderate; keep lightly moist",
+    "growthRate": "Fast",
+    "soil": "Well-drained mix",
+    "floweringOrFruiting": "Mostly ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/epipremnum-aureum/"
+      }
+    ]
+  },
+  "money-plant-n-joy": {
+    "lifespan": null,
+    "foliage": "Compact heart-shaped leaves with a trailing habit",
+    "matureHeight": "0.5-1.5 m",
+    "shape": "Trailing or climbing vine",
+    "light": "Bright indirect light",
+    "watering": "Moderate; water when the top layer dries slightly",
+    "growthRate": "Moderate",
+    "soil": "Well-drained fertile mix",
+    "floweringOrFruiting": "Usually ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/epipremnum-aureum/"
+      }
+    ]
+  },
+  "peace-lily": {
+    "lifespan": null,
+    "foliage": "Glossy broad leaves on a compact clump with white bracts",
+    "matureHeight": "0.5-1.2 m",
+    "shape": "Clumping rosette",
+    "light": "Low to bright indirect light",
+    "watering": "Moderate; keep soil lightly moist",
+    "growthRate": "Moderate",
+    "soil": "Rich, moist but well-drained soil",
+    "floweringOrFruiting": "White bracts are main ornament; fruit not usually emphasized",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/spathiphyllum-wallisii/"
+      }
+    ]
+  },
+  "aglaonema-red": {
+    "lifespan": null,
+    "foliage": "Glossy green and burgundy leaves in a compact clump",
+    "matureHeight": "0.5-1 m",
+    "shape": "Clumping rosette",
+    "light": "Low to bright indirect light",
+    "watering": "Moderate; keep soil lightly moist but not soggy",
+    "growthRate": "Moderate",
+    "soil": "Rich, Well-drained potting mix",
+    "floweringOrFruiting": "Mostly ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/aglaonema-commutatum/"
+      }
+    ]
+  },
+  "aglaonema-snow-white": {
+    "lifespan": null,
+    "foliage": "Silver-green leaves with white variegation in a dense clump",
+    "matureHeight": "0.5-1 m",
+    "shape": "Compact tufted rosette",
+    "light": "Low to bright indirect light",
+    "watering": "Moderate; keep evenly moist but not waterlogged",
+    "growthRate": "Moderate",
+    "soil": "Moist, rich, free-draining mix",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/aglaonema/"
+      }
+    ]
+  },
+  "monstera-deliciosa": {
+    "lifespan": null,
+    "foliage": "Large split leaves on a vigorous climbing vine",
+    "matureHeight": "2-6 m with support",
+    "shape": "Climbing vine",
+    "light": "Bright indirect light",
+    "watering": "Moderate; water when top layer dries",
+    "growthRate": "Fast",
+    "soil": "Well-drained rich mix",
+    "floweringOrFruiting": "Large flowers and fruit occur in mature plants under warm, bright conditions",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/monstera-deliciosa/"
+      }
+    ]
+  },
+  "philodendron-broken-heart": {
+    "lifespan": null,
+    "foliage": "Small fenestrated leaves on a trailing or climbing vine",
+    "matureHeight": "0.5-2 m",
+    "shape": "Climbing vine",
+    "light": "Bright indirect light",
+    "watering": "Moderate; keep lightly moist but not soggy",
+    "growthRate": "Moderate",
+    "soil": "Loose, rich, well-drained mix",
+    "floweringOrFruiting": "Rarely flowers indoors; ornamental value is foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/monstera-adansonii/"
+      }
+    ]
+  },
+  "philodendron-selloum": {
+    "lifespan": null,
+    "foliage": "Large deeply lobed leaves in a vigorous upright clump",
+    "matureHeight": "1-3 m",
+    "shape": "Clumping upright plant",
+    "light": "Bright indirect light",
+    "watering": "Moderate; keep soil lightly moist",
+    "growthRate": "Fast",
+    "soil": "Rich, well-drained mix",
+    "floweringOrFruiting": "Ornamental foliage is primary appeal",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/thaumatophyllum-bipinnatifidum/"
+      }
+    ]
+  },
+  "syngonium-assorted": {
+    "lifespan": null,
+    "foliage": "Arrow-shaped leaves on a vigorous climbing vine",
+    "matureHeight": "0.6-2 m",
+    "shape": "Climbing vine",
+    "light": "Bright indirect light",
+    "watering": "Moderate; water when topsoil dries slightly",
+    "growthRate": "Fast",
+    "soil": "Well-drained potting mix",
+    "floweringOrFruiting": "Flowers rare indoors; foliage is main value",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/syngonium-podophyllum/"
+      }
+    ]
+  },
+  "spider-plant": {
+    "lifespan": null,
+    "foliage": "Arching leaves with plantlets on trailing stems",
+    "matureHeight": "0.3-0.8 m",
+    "shape": "Arching clump",
+    "light": "Bright indirect light",
+    "watering": "Moderate; allow soil to dry slightly between waterings",
+    "growthRate": "Moderate",
+    "soil": "Well-drained potting mix",
+    "floweringOrFruiting": "Small white flowers and plantlets are common",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/chlorophytum-comosum/"
+      }
+    ]
+  },
+  "jade-plant": {
+    "lifespan": null,
+    "foliage": "Succulent rounded leaves on a branching shrub",
+    "matureHeight": "0.5-1.5 m",
+    "shape": "Bushy succulent shrub",
+    "light": "Bright direct to filtered sun",
+    "watering": "Low; allow soil to dry fully between waterings",
+    "growthRate": "Slow",
+    "soil": "Free-draining sandy mix",
+    "floweringOrFruiting": "Small star-like flowers possible under bright conditions",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/crassula-ovata/"
+      }
+    ]
+  },
+  "lucky-bamboo": {
+    "lifespan": null,
+    "foliage": "Narrow green leaves on tufted upright stems",
+    "matureHeight": "0.5-1.5 m",
+    "shape": "Vertical stalks in clusters",
+    "light": "Low to bright indirect light",
+    "watering": "Moderate; keep water or soil clean and moist",
+    "growthRate": "Slow to moderate",
+    "soil": "Water or well-drained soil mix",
+    "floweringOrFruiting": "Flowers uncommon indoors; ornamental value is foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/dracaena-sanderiana/"
+      }
+    ]
+  },
+  "anthurium-red-pink": {
+    "lifespan": null,
+    "foliage": "Glossy heart-shaped leaves in a clumping habit",
+    "matureHeight": "0.4-0.8 m",
+    "shape": "Clumping rosette",
+    "light": "Bright indirect light",
+    "watering": "Moderate; keep evenly moist but not soggy",
+    "growthRate": "Moderate",
+    "soil": "Airy, well-drained, organic mix",
+    "floweringOrFruiting": "Red-pink bracts are the main ornamental feature",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/anthurium-andraeanum/"
+      }
+    ]
+  },
+  "tree-fern-silver-lady": {
+    "lifespan": null,
+    "foliage": "Fine feathery fronds in a vase-like clump",
+    "matureHeight": "0.8-1.5 m",
+    "shape": "Arching clump",
+    "light": "Bright indirect light; avoid harsh midday sun",
+    "watering": "Moderate to high; keep soil consistently moist",
+    "growthRate": "Moderate",
+    "soil": "Humus-rich, moist, free-draining soil",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/blechnum-gibbum/"
+      }
+    ]
+  },
+  "boston-fern": {
+    "lifespan": null,
+    "foliage": "Soft arching fronds in a dense fountain form",
+    "matureHeight": "0.5-1 m",
+    "shape": "Arching mound",
+    "light": "Bright indirect light",
+    "watering": "High; keep soil evenly moist",
+    "growthRate": "Moderate",
+    "soil": "Moist, humus-rich soil",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/nephrolepis-exaltata/"
+      }
+    ]
+  },
+  "bird-nest-fern": {
+    "lifespan": null,
+    "foliage": "Broad wavy fronds in a nest-like rosette",
+    "matureHeight": "0.6-1 m",
+    "shape": "Rosette",
+    "light": "Bright indirect light",
+    "watering": "Moderate to high; keep evenly moist",
+    "growthRate": "Moderate",
+    "soil": "Moist, rich, well-drained mix",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/asplenium-nidus/"
+      }
+    ]
+  },
+  "calathea-assorted": {
+    "lifespan": null,
+    "foliage": "Soft striped and patterned foliage in a clumping rosette",
+    "matureHeight": "0.5-1 m",
+    "shape": "Clumping rosette",
+    "light": "Bright filtered light",
+    "watering": "Moderate; keep evenly moist, never bone dry",
+    "growthRate": "Moderate",
+    "soil": "Humus-rich, moist, well-drained soil",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/calathea/"
+      }
+    ]
+  },
+  "areca-palm-indoor-grade": {
+    "lifespan": null,
+    "foliage": "Feathered green fronds in an upright airy clump",
+    "matureHeight": "1.5-3 m",
+    "shape": "Clumping palm",
+    "light": "Bright indirect light",
+    "watering": "Moderate to high; water when topsoil dries slightly",
+    "growthRate": "Moderate",
+    "soil": "Well-drained but moisture-retentive loam",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/dypsis-lutescens/"
+      }
+    ]
+  },
+  "dracaena-massangeana-corn-plant": {
+    "lifespan": null,
+    "foliage": "Long striped leaves in a bold upright clump",
+    "matureHeight": "1-2 m",
+    "shape": "Tall clump",
+    "light": "Bright indirect light",
+    "watering": "Moderate; allow the surface to dry slightly",
+    "growthRate": "Moderate",
+    "soil": "Well-drained potting mix",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/dracaena-fragrans/"
+      }
+    ]
+  },
+  "dracaena-victoria": {
+    "lifespan": null,
+    "foliage": "Variegated green-and-cream foliage in a tall upright habit",
+    "matureHeight": "1-2 m",
+    "shape": "Tall clump",
+    "light": "Bright indirect light",
+    "watering": "Moderate; avoid prolonged saturation",
+    "growthRate": "Moderate",
+    "soil": "Well-drained fertile mix",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/dracaena-fragrans/"
+      }
+    ]
+  },
+  "dracaena-marginata-madagascar-dragon-tree": {
+    "lifespan": null,
+    "foliage": "Thin red-edged leaves on an upright woody cane",
+    "matureHeight": "1-3 m",
+    "shape": "Single-stem or multi-stem cane",
+    "light": "Bright indirect light",
+    "watering": "Moderate; do not overwater",
+    "growthRate": "Moderate",
+    "soil": "Well-drained fertile soil",
+    "floweringOrFruiting": "Primarily ornamental foliage",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/dracaena-marginata/"
+      }
+    ]
+  },
+  "ylang-ylang": {
+    "lifespan": null,
+    "foliage": "Glossy, leathery green leaves.",
+    "matureHeight": "25–40 m.",
+    "shape": "Tall, tiered tree.",
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": "Recorded growing in loam or sandy soils.",
+    "floweringOrFruiting": "Fragrant creamy-white flowers; fruits form in paired pods.",
+    "sources": [
+      {
+        "title": "NParks Flora & Fauna Web",
+        "url": "https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2704"
+      }
+    ]
+  },
+  "euphorbia-milii": {
+    "lifespan": "Perennial shrub.",
+    "foliage": "Bright green leaves on prickly stems; cyclical leaf drop is normal.",
+    "matureHeight": "Up to 1.5–1.8 m in its native range; typically around 0.9 m or less in cultivation.",
+    "shape": "Upright, spiny shrub.",
+    "light": "Full sun; midday shade can help in hot climates.",
+    "watering": "Dry to medium moisture; use well-drained soil.",
+    "growthRate": null,
+    "soil": "Well-drained soil.",
+    "floweringOrFruiting": "Small flowers are surrounded by long-lasting red, pink or white bracts; blooms through the growing season.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/euphorbia-milii/"
+      }
+    ]
+  },
+  "euphorbia-punicea-jamaican-poinsettia": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:347959-1"
+      }
+    ]
+  },
+  "coleus-assorted-colours": {
+    "lifespan": "Annual or herbaceous perennial, depending on climate.",
+    "foliage": "Multicoloured leaves; colours and patterns vary.",
+    "matureHeight": "Up to about 0.9 m.",
+    "shape": "Upright, mounding plant.",
+    "light": "Part shade to full shade; full shade can cause leggy growth.",
+    "watering": "Keep soil moist.",
+    "growthRate": null,
+    "soil": "Moist, rich, loose soil.",
+    "floweringOrFruiting": "Grown mainly for its foliage; traits vary among assorted plants.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/coleus-scutellarioides/"
+      }
+    ]
+  },
+  "bougainvillea-all-colours": {
+    "lifespan": null,
+    "foliage": "Evergreen in warm climates.",
+    "matureHeight": null,
+    "shape": "Woody climbing vine with curved thorns; sprawls and needs support.",
+    "light": "Full sun to partial shade; full sun encourages flowering.",
+    "watering": "Water deeply, then let soil dry between waterings; established plants tolerate drought.",
+    "growthRate": null,
+    "soil": "Well-drained, acidic soil.",
+    "floweringOrFruiting": "Small flowers are surrounded by showy bracts; colours vary across the assortment.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/bougainvillea-glabra/"
+      }
+    ]
+  },
+  "hibiscus-assorted": {
+    "lifespan": "Woody perennial shrub.",
+    "foliage": "Evergreen.",
+    "matureHeight": "About 1.2–3 m tall and 1.5–2.4 m wide.",
+    "shape": "Upright, branching shrub.",
+    "light": "Full sun to partial shade.",
+    "watering": "Keep roots moist; avoid poorly drained soil.",
+    "growthRate": "Medium.",
+    "soil": "Rich, moist, well-drained soil.",
+    "floweringOrFruiting": "Large summer flowers; colours vary in this assortment.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/hibiscus-rosa-sinensis/"
+      }
+    ]
+  },
+  "texas-sage-purple-sage": {
+    "lifespan": "Perennial evergreen shrub.",
+    "foliage": "Small leaves covered with silvery hairs.",
+    "matureHeight": "About 1.8–3.7 m, with a similar spread.",
+    "shape": "Compact, loosely branched shrub.",
+    "light": "Full sun.",
+    "watering": "Water sparingly; established plants tolerate drought.",
+    "growthRate": null,
+    "soil": "Well-drained soil; avoid waterlogging.",
+    "floweringOrFruiting": "Bright pink to purple flowers appear in batches through summer and fall, often with changes in humidity.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/leucophyllum-frutescens/"
+      }
+    ]
+  },
+  "orange-jasmine-kamini": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:774441-1"
+      }
+    ]
+  },
+  "blue-daze-dwarf-morning-glory": {
+    "lifespan": "Tender herbaceous perennial; often grown as an annual where winters are cold.",
+    "foliage": "Fuzzy, oval-shaped green leaves.",
+    "matureHeight": "About 23–46 cm; may spread into a low mound.",
+    "shape": "Low, sprawling mound with trailing stems.",
+    "light": "Full sun.",
+    "watering": "Moderate, consistent watering; drought-tolerant once established.",
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": "Brilliant blue flowers throughout summer; they usually close at night and on cloudy days.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/evolvulus-glomeratus/"
+      }
+    ]
+  },
+  "portulaca-moss-rose": {
+    "lifespan": "Annual.",
+    "foliage": "Fleshy, narrow leaves.",
+    "matureHeight": "About 20 cm tall and 30 cm wide.",
+    "shape": "Low, mat-forming plant.",
+    "light": "Full sun.",
+    "watering": "Water sparingly; highly tolerant of heat and drought.",
+    "growthRate": null,
+    "soil": "Well-drained sandy or rocky soil.",
+    "floweringOrFruiting": "Flowers come in several colours and forms; they close at night and may stay closed on cloudy or rainy days.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/portulaca-grandiflora/"
+      }
+    ]
+  },
+  "ruellia-simplex-mexican-petunia": {
+    "lifespan": "Herbaceous perennial; evergreen in warm climates.",
+    "foliage": "Linear, dark green leaves, sometimes tinged purple.",
+    "matureHeight": "About 0.6–0.9 m in gardens for the species; ‘Katie’ size unverified.",
+    "shape": "Upright, rhizomatous plant; species can spread.",
+    "light": "Full sun for best flowering.",
+    "watering": "Tolerates wet soil and, once established, dry conditions.",
+    "growthRate": null,
+    "soil": "Fertile, well-drained soil; tolerates a range of moisture conditions.",
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ruellia-simplex/"
+      }
+    ]
+  },
+  "plumeria-frangipani": {
+    "lifespan": null,
+    "foliage": "May lose leaves during winter dormancy; behaviour varies with climate.",
+    "matureHeight": null,
+    "shape": "Branching shrub or small tree.",
+    "light": "Full sun.",
+    "watering": "Established plants tolerate drought; avoid poorly drained soil.",
+    "growthRate": "Fast-growing.",
+    "soil": "Well-drained soil.",
+    "floweringOrFruiting": "Fragrant flowers bloom between May and November in Florida; colours include white, yellow, orange, pink and red.",
+    "sources": [
+      {
+        "title": "gardeningsolutions.ifas.ufl.edu",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/ornamentals/plumeria/"
+      }
+    ]
+  },
+  "plumeria-alba-white-frangipani": {
+    "lifespan": null,
+    "foliage": "May lose leaves during winter dormancy; behaviour varies with climate.",
+    "matureHeight": null,
+    "shape": "Branching shrub or small tree.",
+    "light": "Full sun.",
+    "watering": "Established plants tolerate drought; avoid poorly drained soil.",
+    "growthRate": "Plumerias grow quickly.",
+    "soil": "Well-drained soil.",
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "gardeningsolutions.ifas.ufl.edu",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/ornamentals/plumeria/"
+      }
+    ]
+  },
+  "plumeria-singaporensis-singapore-frangipani": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": "Shrub to small tree.",
+    "light": "Full sun.",
+    "watering": "Established plumerias tolerate drought; avoid poorly drained soil.",
+    "growthRate": "Plumerias grow quickly.",
+    "soil": "Well-drained soil.",
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "gardeningsolutions.ifas.ufl.edu",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/ornamentals/plumeria/"
+      }
+    ]
+  },
+  "plumeria-gold-golden-frangipani": {
+    "lifespan": null,
+    "foliage": "May lose leaves during winter dormancy; behaviour varies with climate.",
+    "matureHeight": null,
+    "shape": "Branching shrub or small tree.",
+    "light": "Full sun.",
+    "watering": "Established plants tolerate drought; avoid poorly drained soil.",
+    "growthRate": "Plumerias grow quickly.",
+    "soil": "Well-drained soil.",
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "gardeningsolutions.ifas.ufl.edu",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/ornamentals/plumeria/"
+      }
+    ]
+  },
+  "ixora-mini-dwarf": {
+    "lifespan": null,
+    "foliage": "Leathery, dark green leaves.",
+    "matureHeight": null,
+    "shape": null,
+    "light": "Full sun; tolerates small amounts of afternoon shade.",
+    "watering": "Keep soil moist but well-drained.",
+    "growthRate": null,
+    "soil": "Moist, organically rich, acidic, well-drained soil.",
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ixora-coccinea/"
+      }
+    ]
+  },
+  "thai-ixora": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:753834-1"
+      }
+    ]
+  },
+  "crape-jasmine-nandivardanam": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:82097-1"
+      }
+    ]
+  },
+  "raat-ki-rani": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:316386-2"
+      }
+    ]
+  },
+  "marigold-hybrid": {
+    "lifespan": "Annual.",
+    "foliage": "Fragrant foliage.",
+    "matureHeight": "About 0.3–1.2 m; cultivar dependent.",
+    "shape": "Upright, herbaceous plant.",
+    "light": "Full sun; light afternoon shade is tolerated.",
+    "watering": "Prefer evenly moist soil; tolerate some dryness.",
+    "growthRate": null,
+    "soil": "Well-drained soil; tolerates clay.",
+    "floweringOrFruiting": "Long-season blooms; colour and size vary by cultivar.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/tagetes-erecta/"
+      }
+    ]
+  },
+  "rose-desi-gulab": {
+    "lifespan": null,
+    "foliage": "Typically alternate, pinnately compound leaves with serrated leaflets.",
+    "matureHeight": null,
+    "shape": null,
+    "light": "Full sun.",
+    "watering": null,
+    "growthRate": null,
+    "soil": "Organically rich, well-drained, acidic to neutral soil.",
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/rosa/"
+      }
+    ]
+  },
+  "button-rose-mini": {
+    "lifespan": null,
+    "foliage": "Typically alternate, pinnately compound leaves with serrated leaflets.",
+    "matureHeight": null,
+    "shape": null,
+    "light": "Full sun.",
+    "watering": null,
+    "growthRate": null,
+    "soil": "Organically rich, well-drained, acidic to neutral soil.",
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/rosa/"
+      },
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/rosa-chinensis/"
+      }
+    ]
+  },
+  "camellia": {
+    "lifespan": null,
+    "foliage": "Glossy, leathery evergreen leaves.",
+    "matureHeight": null,
+    "shape": "Woody shrub or small tree.",
+    "light": "Shade to partial shade; protect from drying winter winds.",
+    "watering": null,
+    "growthRate": "Slow-growing and slow to establish.",
+    "soil": "Well-drained, organic-rich, slightly acidic soil.",
+    "floweringOrFruiting": "Flowers may appear from autumn into early spring; bloom traits vary by variety.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/camellia-japonica/"
+      }
+    ]
+  },
+  "hydrangea": {
+    "lifespan": null,
+    "foliage": "Large, deciduous leaves.",
+    "matureHeight": "About 0.9–1.8 m tall and wide.",
+    "shape": "Rounded, multi-stemmed shrub.",
+    "light": "Dappled light or partial to deep shade; protect from afternoon sun.",
+    "watering": "Prefers moisture; tolerates occasionally wet soil.",
+    "growthRate": "Grows rapidly into a shrub.",
+    "soil": "Well-drained soil; tolerates clay and sand.",
+    "floweringOrFruiting": "Late-spring and summer flower clusters; mophead or lacecap forms. Colour depends partly on soil acidity and cultivar.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/hydrangea-macrophylla/"
+      }
+    ]
+  },
+  "russelia": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": "About 1.2 m tall and 1.5 m wide.",
+    "shape": "Cascading shrub with arching stems.",
+    "light": "Warm, sunny site.",
+    "watering": "Medium moisture; established plants tolerate both dry and moist soils.",
+    "growthRate": null,
+    "soil": "Average, well-drained soil.",
+    "floweringOrFruiting": "Profuse small red flowers on trailing stems; flowering may continue indoors in winter.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/russelia-equisetiformis/"
+      }
+    ]
+  },
+  "pentas-mixed-colours": {
+    "lifespan": "Perennial shrub or subshrub in warm climates; annual or houseplant in cooler areas.",
+    "foliage": null,
+    "matureHeight": "Often about 0.6 m tall and wide in cultivation; can reach 1.8 m in its native environment.",
+    "shape": "Spreading shrub or subshrub.",
+    "light": "Full sun; tolerates some shade.",
+    "watering": "Water consistently, allowing soil to dry between waterings.",
+    "growthRate": null,
+    "soil": "Well-drained, organically rich soil.",
+    "floweringOrFruiting": "Star-shaped flower clusters from spring into fall; colour varies among selections.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/pentas-lanceolata/"
+      }
+    ]
+  },
+  "kanakambaram": {
+    "lifespan": "Evergreen outdoors in tropical conditions; usually grown as a houseplant or outdoor annual in temperate regions.",
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": "Bright indirect light; protect from direct sun.",
+    "watering": "Use warm water.",
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": "Showy flowers on erect stems; low light can stop flowering.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/crossandra-infundibuliformis/"
+      }
+    ]
+  },
+  "champa-sampangi": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:554657-1"
+      }
+    ]
+  },
+  "jasmine-malle": {
+    "lifespan": null,
+    "foliage": "Glossy green leaves.",
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:841347-1"
+      }
+    ]
+  },
+  "jasmine-jaji": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:841345-1"
+      }
+    ]
+  },
+  "nithya-malle-sambac-double": {
+    "lifespan": null,
+    "foliage": "Glossy green leaves.",
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "gardenia.net",
+        "url": "https://www.gardenia.net/plant/jasminum-sambac-arabian-jasmine"
+      }
+    ]
+  },
+  "rangoon-malli": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77101543-1"
+      }
+    ]
+  },
+  "mussaenda-pink-white": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": "About 1–1.5 m as a spreading shrub; can be trained to climb.",
+    "shape": "Spreading shrub; can be trained as a climber.",
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "gardendrum.com",
+        "url": "https://gardendrum.com/2013/05/31/growing-mussaenda/"
+      },
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:756618-1"
+      }
+    ]
+  },
+  "mussaenda-red": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": "About 1–1.5 m as a spreading shrub; can be trained to climb.",
+    "shape": "Spreading shrub; can be trained as a climber.",
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "gardendrum.com",
+        "url": "https://gardendrum.com/2013/05/31/growing-mussaenda/"
+      },
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:756618-1"
+      }
+    ]
+  },
+  "golden-duranta-flowering": {
+    "lifespan": "Evergreen perennial shrub; grown as an annual in colder climates.",
+    "foliage": null,
+    "matureHeight": null,
+    "shape": "Sprawling or somewhat weeping shrub.",
+    "light": "Full sun.",
+    "watering": null,
+    "growthRate": "Fast.",
+    "soil": "Well-drained soil.",
+    "floweringOrFruiting": "Clusters of blue, purple, white or pink flowers from summer to fall may be followed by yellow-orange fruits. Flower traits of this named golden selection are unverified.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/duranta-erecta/"
+      }
+    ]
+  },
+  "oleander-kaner": {
+    "lifespan": null,
+    "foliage": "Narrow, linear-lanceolate leaves.",
+    "matureHeight": "About 1.5–5.9 m.",
+    "shape": "Rounded shrub.",
+    "light": "Full sun to partial shade.",
+    "watering": null,
+    "growthRate": "Rapid.",
+    "soil": "Fertile, well-drained soil; adaptable to other soils.",
+    "floweringOrFruiting": "Showy flowers in pink, peach or white from late spring to late summer.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/nerium-oleander/"
+      }
+    ]
+  },
+  "tecoma-yellow-bells": {
+    "lifespan": "Evergreen perennial shrub or small tree.",
+    "foliage": "Odd-pinnate leaves with 5–13 leaflets.",
+    "matureHeight": "Typically 0.9–1.8 m; may reach 3–7.6 m in favourable, frost-free conditions.",
+    "shape": "Shrub or small tree.",
+    "light": "Full sun.",
+    "watering": "Allow soil to dry between waterings; drought-tolerant once established.",
+    "growthRate": null,
+    "soil": "Organic-rich, moist, well-drained soil.",
+    "floweringOrFruiting": "Yellow trumpet-shaped flowers from spring until frost; may flower year-round in warm climates. Long, narrow seed capsules follow.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/tecoma-stans/"
+      }
+    ]
+  },
+  "tecoma-gaudichaudi-yellow": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:249769-2"
+      }
+    ]
+  },
+  "hamelia-firebush": {
+    "lifespan": "Perennial or semi-woody shrub; evergreen in tropical climates.",
+    "foliage": "Gray-green leaves with pinkish veins; may turn dark red in fall.",
+    "matureHeight": "About 3–4.6 m in South Florida; often maintained at 1.5–2.4 m.",
+    "shape": "Shrub or small tree.",
+    "light": "Full sun to partial shade.",
+    "watering": "Water regularly until established; drought-tolerant thereafter.",
+    "growthRate": null,
+    "soil": "Well-drained soil; tolerates a range of soils.",
+    "floweringOrFruiting": "Red tubular flowers bloom from late spring to frost in Florida, year-round in tropical habitat; small berries follow.",
+    "sources": [
+      {
+        "title": "gardeningsolutions.ifas.ufl.edu",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/ornamentals/firebush/"
+      },
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/hamelia-patens/"
+      }
+    ]
+  },
+  "lantana-assorted": {
+    "lifespan": "Annual or perennial, depending on climate.",
+    "foliage": "Broadleaf evergreen shrub.",
+    "matureHeight": null,
+    "shape": "Sprawling, typically wider than tall.",
+    "light": "Full sun.",
+    "watering": "Prefers moist soil but tolerates drought.",
+    "growthRate": "Fast; may be aggressive.",
+    "soil": "Well-drained soil; tolerates poor soil.",
+    "floweringOrFruiting": "Showy flowers in varied colours from midsummer until the first frost.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/lantana-camara/"
+      }
+    ]
+  },
+  "adenium-desert-rose": {
+    "lifespan": "Succulent perennial.",
+    "foliage": "Green leaves; variegated forms are available.",
+    "matureHeight": "About 1.2–1.5 m over time.",
+    "shape": "Small, tree-like plant with a swollen stem base (caudex).",
+    "light": "Full sun; at least six hours of bright light supports flowering.",
+    "watering": "Let soil dry between waterings; reduce watering during dormancy.",
+    "growthRate": null,
+    "soil": "Well-drained cactus or succulent potting mix.",
+    "floweringOrFruiting": "Bell- or funnel-shaped flowers, usually in summer, in red, pink or white; slender seed pods may form.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/adenium-obesum/"
+      },
+      {
+        "title": "gardeningsolutions.ifas.ufl.edu",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/ornamentals/desert-rose/"
+      }
+    ]
+  },
+  "parijatham-night-jasmine": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:610599-1"
+      }
+    ]
+  },
+  "nandivardanam-mini-crape": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:82097-1"
+      }
+    ]
+  },
+  "september-flower-barleria": {
+    "lifespan": "Herbaceous perennial; evergreen in warm climates.",
+    "foliage": "Evergreen, dark green, ovate leaves.",
+    "matureHeight": "About 1.2–1.8 m.",
+    "shape": "Upright, dense shrub-like perennial.",
+    "light": "Full sun to partial shade.",
+    "watering": "Drought-tolerant once established.",
+    "growthRate": "Fast.",
+    "soil": "Prefers well-drained soil; adapts to sand, loam or clay.",
+    "floweringOrFruiting": "Funnel-shaped flowers, usually white, lavender or pink, in late summer and fall; dry capsules follow.",
+    "sources": [
+      {
+        "title": "ask.ifas.ufl.edu",
+        "url": "https://ask.ifas.ufl.edu/publication/FP060"
+      }
+    ]
+  },
+  "water-heliconia": {
+    "lifespan": "Evergreen perennial.",
+    "foliage": "Tufted, lance-shaped green leaves.",
+    "matureHeight": "About 0.9–1.8 m.",
+    "shape": "Erect, clumping plant arising from rhizomes.",
+    "light": "Full sun to slight shade.",
+    "watering": "Keep soil consistently moist; water regularly and abundantly in summer.",
+    "growthRate": "Fast.",
+    "soil": "Humus-rich, moist, well-drained soil.",
+    "floweringOrFruiting": "Colourful bracts can appear year-round; dark blue fruits may follow.",
+    "sources": [
+      {
+        "title": "gardenia.net",
+        "url": "https://www.gardenia.net/plant/heliconia-psittacorum"
+      },
+      {
+        "title": "gardeningsolutions.ifas.ufl.edu",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/ornamentals/heliconia/"
+      }
+    ]
+  },
+  "canna-lily-variegated": {
+    "lifespan": "Herbaceous perennial.",
+    "foliage": "Large, tropical-looking leaves; ‘Striata’-specific variegation is unverified.",
+    "matureHeight": "Up to about 1.8 m.",
+    "shape": null,
+    "light": "Sun to light shade; shade may reduce flowering.",
+    "watering": "Moist, well-drained soil; tolerates some standing water or drought once established.",
+    "growthRate": null,
+    "soil": "Prefers organic-rich soil; tolerates clay, loam, acidic or slightly alkaline soils.",
+    "floweringOrFruiting": "Flowers through summer; flower and foliage colours vary by cultivar. ‘Striata’ traits are unverified.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/canna-x-generalis/"
+      }
+    ]
+  },
+  "heliconia-variegated": {
+    "lifespan": "Evergreen perennial.",
+    "foliage": "Tufted, lance-shaped green leaves; ‘Variegata’-specific pattern is unverified.",
+    "matureHeight": "About 0.9–1.8 m.",
+    "shape": "Erect, clumping plant arising from rhizomes.",
+    "light": "Full sun to slight shade.",
+    "watering": "Keep soil consistently moist; water regularly and abundantly in summer.",
+    "growthRate": "Fast.",
+    "soil": "Humus-rich, moist, well-drained soil.",
+    "floweringOrFruiting": "Species-level colourful bracts may appear year-round; ‘Variegata’ traits are unverified.",
+    "sources": [
+      {
+        "title": "gardenia.net",
+        "url": "https://www.gardenia.net/plant/heliconia-psittacorum"
+      },
+      {
+        "title": "gardeningsolutions.ifas.ufl.edu",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/ornamentals/heliconia/"
+      }
+    ]
+  },
+  "madhu-malti-rangoon-creeper": {
+    "lifespan": null,
+    "foliage": "Glossy green leaves on a vigorous woody climber",
+    "matureHeight": "3-6 m",
+    "shape": "Twining climber with arching, scrambling stems",
+    "light": "Full sun to part shade",
+    "watering": "Moderate; keep evenly moist in hot weather",
+    "growthRate": "Fast",
+    "soil": "Well-drained fertile garden soil",
+    "floweringOrFruiting": "Fragrant pink-red flower clusters",
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:170864-1"
+      }
+    ]
+  },
+  "money-creeper-big-leaf": {
+    "lifespan": null,
+    "foliage": "Large glossy heart-shaped leaves on a leafy climber",
+    "matureHeight": "5-15 m",
+    "shape": "Climbing or trailing vine with aerial roots",
+    "light": "Bright indirect light to part shade",
+    "watering": "Moderate; allow top layer to dry slightly between waterings",
+    "growthRate": "Fast to very fast",
+    "soil": "Loose, well-drained, moisture-retentive soil",
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/81653/epipremnum-aureum/details"
+      }
+    ]
+  },
+  "garlic-vine": {
+    "lifespan": null,
+    "foliage": "Deep green leaves with a garlic-like scent when brushed or crushed",
+    "matureHeight": "5-10 m",
+    "shape": "Vigorous twining climber",
+    "light": "Full sun to light shade",
+    "watering": "Moderate; regular water in dry periods",
+    "growthRate": "Fast",
+    "soil": "Well-drained fertile soil",
+    "floweringOrFruiting": "Lavender trumpet flowers in warm weather",
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:281266-2"
+      }
+    ]
+  },
+  "bleeding-heart-vine": {
+    "lifespan": null,
+    "foliage": "Glossy green leaves on a climbing vine",
+    "matureHeight": "2-4 m",
+    "shape": "Twining climber with a soft scrambling habit",
+    "light": "Bright filtered light to partial shade",
+    "watering": "Moderate; keep soil lightly moist but not wet",
+    "growthRate": "Fast",
+    "soil": "Rich, well-drained soil with organic matter",
+    "floweringOrFruiting": "White-and-red heart-shaped flowers",
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:86378-1"
+      }
+    ]
+  },
+  "star-jasmine-sannajaji": {
+    "lifespan": null,
+    "foliage": "Small glossy green leaves on a compact climber",
+    "matureHeight": "2-3 m",
+    "shape": "Climbing or trailing shrub",
+    "light": "Full sun to part shade",
+    "watering": "Moderate; regular water during dry spells",
+    "growthRate": "Moderate",
+    "soil": "Well-drained garden soil",
+    "floweringOrFruiting": "Highly fragrant white star-shaped flowers",
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:609288-1"
+      }
+    ]
+  },
+  "bougainvillea-climbing": {
+    "lifespan": null,
+    "foliage": "Small evergreen leaves on thorny woody stems",
+    "matureHeight": "4-8 m",
+    "shape": "Dense thorny climber or scrambling shrub",
+    "light": "Full sun",
+    "watering": "Low once established; avoid overwatering",
+    "growthRate": "Fast",
+    "soil": "Well-drained, lean to moderately fertile soil",
+    "floweringOrFruiting": "Showy colorful bracts over long warm-season flowering",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/2444/bougainvillea-spectabilis/details"
+      }
+    ]
+  },
+  "allamanda-golden-trumpet": {
+    "lifespan": null,
+    "foliage": "Glossy green leaves on a vigorous climbing vine",
+    "matureHeight": "2-4 m",
+    "shape": "Twining climber with dense cover over supports",
+    "light": "Full sun to light shade",
+    "watering": "Moderate; keep soil moist in hot weather",
+    "growthRate": "Fast",
+    "soil": "Well-drained fertile soil",
+    "floweringOrFruiting": "Large yellow trumpet-shaped flowers",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/16589/allamanda-cathartica/details"
+      }
+    ]
+  },
+  "thunbergia-blue": {
+    "lifespan": null,
+    "foliage": "Broad green leaves on a rapid climber",
+    "matureHeight": "3-6 m",
+    "shape": "Rapid climbing vine with arching to cascading habit",
+    "light": "Full sun to part shade",
+    "watering": "Moderate; even moisture is preferred",
+    "growthRate": "Very fast",
+    "soil": "Well-drained fertile soil",
+    "floweringOrFruiting": "Blue bell-shaped flowers",
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:107830-1"
+      }
+    ]
+  },
+  "thunbergia-white-alba-mini": {
+    "lifespan": null,
+    "foliage": "Green leaves on a compact climber",
+    "matureHeight": "1.5-3 m",
+    "shape": "Compact climber with neat, manageable habit",
+    "light": "Full sun to part shade",
+    "watering": "Moderate; water regularly while establishing",
+    "growthRate": "Fast",
+    "soil": "Well-drained fertile soil",
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:107830-1"
+      }
+    ]
+  },
+  "passion-flower": {
+    "lifespan": null,
+    "foliage": "Deep green lobed leaves on a vigorous vine",
+    "matureHeight": "3-6 m",
+    "shape": "Twining climber with a sprawling habit",
+    "light": "Full sun to light shade",
+    "watering": "Moderate; regular water in dry periods",
+    "growthRate": "Fast",
+    "soil": "Well-drained fertile to sandy loam",
+    "floweringOrFruiting": "Intricate purple flowers and edible passion fruit",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/12010/passiflora-incarnata/details"
+      }
+    ]
+  },
+  "flame-vine": {
+    "lifespan": null,
+    "foliage": "Glossy green leaves on a vigorous vine",
+    "matureHeight": "3-6 m",
+    "shape": "Fast-climbing vine with dense covering habit",
+    "light": "Full sun to part shade",
+    "watering": "Moderate; keep soil evenly moist during establishment",
+    "growthRate": "Fast",
+    "soil": "Well-drained moderately fertile soil",
+    "floweringOrFruiting": "Orange-red tubular flowers",
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:297015-2"
+      }
+    ]
+  },
+  "curtain-creeper": {
+    "lifespan": null,
+    "foliage": "Dense green foliage on a screening climber",
+    "matureHeight": "2-4 m",
+    "shape": "Climbing or rambling vine with a dense curtain-like habit",
+    "light": "Full sun to part shade",
+    "watering": "Low to moderate; avoid constant wetness",
+    "growthRate": "Moderate to fast",
+    "soil": "Well-drained average soil",
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:259111-1"
+      }
+    ]
+  },
+  "aparajita-blue-pea": {
+    "lifespan": null,
+    "foliage": "Soft green compound leaves on a climbing vine",
+    "matureHeight": "2-3 m",
+    "shape": "Twining vine with airy, clambering growth",
+    "light": "Full sun to part shade",
+    "watering": "Moderate; water well in dry spells",
+    "growthRate": "Fast",
+    "soil": "Well-drained fertile loam",
+    "floweringOrFruiting": "Vivid blue flowers with edible petals",
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:486606-1"
+      }
+    ]
+  },
+  "mexican-carpet-grass": {
+    "lifespan": null,
+    "foliage": "Fine narrow blades forming a dense mat",
+    "matureHeight": "5-10 cm",
+    "shape": "Low dense carpet lawn",
+    "light": "Full sun",
+    "watering": "Low to moderate once established",
+    "growthRate": "Moderate",
+    "soil": "Well-drained fertile soil",
+    "floweringOrFruiting": "Flowers not usually a turf feature",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/5051/zoysia-japonica/details"
+      }
+    ]
+  },
+  "bermuda-grass-selection": {
+    "lifespan": null,
+    "foliage": "Fine wiry leaves forming a resilient turf",
+    "matureHeight": "5-15 cm",
+    "shape": "Low dense spreading turf",
+    "light": "Full sun",
+    "watering": "Low to moderate; drought-tolerant once established",
+    "growthRate": "Fast",
+    "soil": "Well-drained, often lean or sandy soil",
+    "floweringOrFruiting": "Small seed heads may appear",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/22653/cynodon-dactylon/details"
+      }
+    ]
+  },
+  "korean-grass": {
+    "lifespan": null,
+    "foliage": "Very fine soft blades forming a tight turf",
+    "matureHeight": "5-10 cm",
+    "shape": "Low dense velvety mat",
+    "light": "Full sun to light shade",
+    "watering": "Low to moderate; established lawns tolerate dry spells",
+    "growthRate": "Slow to moderate",
+    "soil": "Well-drained sandy or loamy soil",
+    "floweringOrFruiting": "Not usually a feature in turf",
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:771386-1"
+      }
+    ]
+  },
+  "paspalum-lawn": {
+    "lifespan": null,
+    "foliage": "Medium-coarse blades forming a dense turf",
+    "matureHeight": "5-15 cm",
+    "shape": "Low spreading lawn grass",
+    "light": "Full sun",
+    "watering": "Moderate; tolerates coastal conditions",
+    "growthRate": "Moderate",
+    "soil": "Well-drained sandy or loamy soil",
+    "floweringOrFruiting": "Seedheads may appear but are not the main feature",
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:771707-1"
+      }
+    ]
+  },
+  "wedelia-ground-cover": {
+    "lifespan": null,
+    "foliage": "Bright green, slightly succulent spreading leaves",
+    "matureHeight": "10-25 cm",
+    "shape": "Low spreading mat with creeping stems",
+    "light": "Full sun to part shade",
+    "watering": "Low to moderate after establishment",
+    "growthRate": "Fast",
+    "soil": "Well-drained adaptable soil",
+    "floweringOrFruiting": "Yellow daisy-like flowers in warm weather",
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:242466-2"
+      }
+    ]
+  },
+  "alternanthera-red-green": {
+    "lifespan": null,
+    "foliage": "Colorful red and green succulent leaves",
+    "matureHeight": "10-30 cm",
+    "shape": "Low mat or mounded border plant",
+    "light": "Full sun to part shade",
+    "watering": "Regular; keep soil lightly moist for best foliage color",
+    "growthRate": "Moderate",
+    "soil": "Well-drained fertile soil",
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:6055-2"
+      }
+    ]
+  },
+  "alternanthera-ficoidea": {
+    "lifespan": null,
+    "foliage": "Smooth colorful foliage in green, gold, or bronze tones",
+    "matureHeight": "10-30 cm",
+    "shape": "Dense low mound or edging carpet",
+    "light": "Full sun to part shade",
+    "watering": "Regular; maintain even moisture",
+    "growthRate": "Moderate",
+    "soil": "Well-drained fertile loam",
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:6055-2"
+      }
+    ]
+  },
+  "rhoeo-oyster-plant": {
+    "lifespan": null,
+    "foliage": "Purple-green rosettes with strap-like leaves",
+    "matureHeight": "15-30 cm",
+    "shape": "Low clumping rosette",
+    "light": "Bright light to part shade",
+    "watering": "Moderate; avoid prolonged waterlogging",
+    "growthRate": "Moderate",
+    "soil": "Well-drained fertile soil",
+    "floweringOrFruiting": "Small white or pinkish bracts",
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:257980-2"
+      }
+    ]
+  },
+  "turtle-vine-cover": {
+    "lifespan": null,
+    "foliage": "Small green succulent leaves forming a dense mat",
+    "matureHeight": "3-10 cm",
+    "shape": "Creeping mat with carpet-like habit",
+    "light": "Part shade to filtered sun",
+    "watering": "Moderate; keep evenly moist in dry spells",
+    "growthRate": "Moderate to fast",
+    "soil": "Moist, well-drained soil with organic matter",
+    "floweringOrFruiting": "Small white flowers may appear",
+    "sources": [
+      {
+        "title": "Kew Plants of the World Online",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60457-2"
+      }
+    ]
+  },
+  "mondo-grass": {
+    "lifespan": null,
+    "foliage": "Dark green strap-like leaves forming dense tufts",
+    "matureHeight": "15-25 cm",
+    "shape": "Dense clump-forming grass",
+    "light": "Part shade to full shade",
+    "watering": "Moderate; consistent moisture preferred",
+    "growthRate": "Slow",
+    "soil": "Rich, well-drained soil",
+    "floweringOrFruiting": "Flower spikes are not usually a landscape feature",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/31170/ophiopogon-japonicus/details"
+      }
+    ]
+  },
+  "mango-banginapalli-grafted": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen, leathery leaves.",
+    "matureHeight": "Species-level: about 9–30 m unpruned; size varies with variety and pruning.",
+    "shape": "Species-level: canopy ranges from rounded and dense to upright and open.",
+    "light": "Species-level: full sun.",
+    "watering": "Species-level guidance: water regularly while establishing; weekly irrigation is one regional conventional-irrigation recommendation.",
+    "growthRate": null,
+    "soil": "Species-level: well-drained soil; red loam is preferred in TNAU guidance.",
+    "floweringOrFruiting": "Species-level: flowers in panicles and bears mangoes; timing varies by variety and climate.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://ask.ifas.ufl.edu/publication/MG216"
+      },
+      {
+        "title": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_fruits_mango.html"
+      }
+    ]
+  },
+  "mango-alphonso-grafted": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen, leathery leaves.",
+    "matureHeight": "Species-level: about 9–30 m unpruned; size varies with variety and pruning.",
+    "shape": "Species-level: canopy ranges from rounded and dense to upright and open.",
+    "light": "Species-level: full sun.",
+    "watering": "Species-level guidance: water regularly while establishing; weekly irrigation is one regional conventional-irrigation recommendation.",
+    "growthRate": null,
+    "soil": "Species-level: well-drained soil; red loam is preferred in TNAU guidance.",
+    "floweringOrFruiting": "Species-level: flowers in panicles and bears mangoes; Alphonso-specific timing was not verified.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://ask.ifas.ufl.edu/publication/MG216"
+      },
+      {
+        "title": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_fruits_mango.html"
+      }
+    ]
+  },
+  "mango-kesar-grafted": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen, leathery leaves.",
+    "matureHeight": "Species-level: about 9–30 m unpruned; size varies with variety and pruning.",
+    "shape": "Species-level: canopy ranges from rounded and dense to upright and open.",
+    "light": "Species-level: full sun.",
+    "watering": "Species-level guidance: water regularly while establishing.",
+    "growthRate": null,
+    "soil": "Species-level: well-drained soil; red loam is preferred in TNAU guidance.",
+    "floweringOrFruiting": "Species-level: flowers in panicles and bears mangoes; Kesar-specific timing was not verified.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://ask.ifas.ufl.edu/publication/MG216"
+      },
+      {
+        "title": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_fruits_mango.html"
+      }
+    ]
+  },
+  "mango-amrapali-dwarf": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen, leathery leaves.",
+    "matureHeight": null,
+    "shape": null,
+    "light": "Species-level: full sun.",
+    "watering": "Species-level guidance: water regularly while establishing.",
+    "growthRate": null,
+    "soil": "Species-level: well-drained soil; red loam is preferred in TNAU guidance.",
+    "floweringOrFruiting": "Species-level: mangoes follow panicles of flowers; Amrapali-specific details were not verified.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://ask.ifas.ufl.edu/publication/MG216"
+      },
+      {
+        "title": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_fruits_mango.html"
+      }
+    ]
+  },
+  "guava-taiwan-pink": {
+    "lifespan": null,
+    "foliage": "Species-level: opposite, oblong leaves with serrated margins.",
+    "matureHeight": "Species-level: up to about 6 m in the cited Florida profile.",
+    "shape": "Species-level: broad, spreading or upright canopy; may have one or multiple trunks.",
+    "light": "Species-level: full sun.",
+    "watering": "Species-level: water newly planted trees; provide moisture during flowering and fruit development.",
+    "growthRate": null,
+    "soil": "Species-level: grows in varied soils; well-drained soil is suitable.",
+    "floweringOrFruiting": "Species-level: white flowers followed by guavas; Taiwan Pink fruit colour and cultivar identity were not independently verified.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://ask.ifas.ufl.edu/publication/MG045"
+      },
+      {
+        "title": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_fruits_guava.html"
+      }
+    ]
+  },
+  "guava-allahabad-safeda": {
+    "lifespan": null,
+    "foliage": "Species-level: opposite, oblong leaves with serrated margins.",
+    "matureHeight": "Species-level: up to about 6 m in the cited Florida profile.",
+    "shape": "Species-level: broad, spreading or upright canopy; may have one or multiple trunks.",
+    "light": "Species-level: full sun.",
+    "watering": "Species-level: water newly planted trees; provide moisture during flowering and fruit development.",
+    "growthRate": null,
+    "soil": "Species-level: grows in varied soils; well-drained soil is suitable.",
+    "floweringOrFruiting": "Species-level: white flowers followed by guavas; Allahabad Safeda-specific details were not verified.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://ask.ifas.ufl.edu/publication/MG045"
+      },
+      {
+        "title": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_fruits_guava.html"
+      }
+    ]
+  },
+  "guava-red-diamond": {
+    "lifespan": null,
+    "foliage": "Species-level: opposite, oblong leaves with serrated margins.",
+    "matureHeight": "Species-level: up to about 6 m in the cited Florida profile.",
+    "shape": "Species-level: broad, spreading or upright canopy; may have one or multiple trunks.",
+    "light": "Species-level: full sun.",
+    "watering": "Species-level: water newly planted trees; provide moisture during flowering and fruit development.",
+    "growthRate": null,
+    "soil": "Species-level: grows in varied soils; well-drained soil is suitable.",
+    "floweringOrFruiting": "Species-level: white flowers followed by guavas; Red Diamond-specific details were not verified.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://ask.ifas.ufl.edu/publication/MG045"
+      }
+    ]
+  },
+  "guava-black-diamond": {
+    "lifespan": null,
+    "foliage": "Species-level: opposite, oblong leaves with serrated margins.",
+    "matureHeight": "Species-level: up to about 6 m in the cited Florida profile.",
+    "shape": "Species-level: broad, spreading or upright canopy; may have one or multiple trunks.",
+    "light": "Species-level: full sun.",
+    "watering": "Species-level: water newly planted trees; provide moisture during flowering and fruit development.",
+    "growthRate": null,
+    "soil": "Species-level: grows in varied soils; well-drained soil is suitable.",
+    "floweringOrFruiting": "Species-level: white flowers followed by guavas; Black Diamond-specific traits were not verified.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://ask.ifas.ufl.edu/publication/MG045"
+      }
+    ]
+  },
+  "velvet-apple": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen leaves, glossy dark green above and hairy beneath.",
+    "matureHeight": "Species-level: varies from small trees to about 18–33 m.",
+    "shape": "Species-level: variable, from drooping to erect.",
+    "light": null,
+    "watering": null,
+    "growthRate": "Species-level: slow-growing.",
+    "soil": "Species-level: loam is preferred; reported to grow in varied soils.",
+    "floweringOrFruiting": "Male and female flowers occur on separate trees; both are needed for fruit production.",
+    "sources": [
+      {
+        "title": "Purdue New Crops Resource",
+        "url": "https://hort.purdue.edu/newcrop/morton/mabolo.html"
+      }
+    ]
+  },
+  "phalsa": {
+    "lifespan": null,
+    "foliage": "Species-level: deciduous, broad leaves.",
+    "matureHeight": "Species-level: large shrub or small tree, about 4.5 m or more.",
+    "shape": "Species-level: spreading shrub or small tree with slender, drooping branches.",
+    "light": null,
+    "watering": "Species-level: drought-tolerant; water during dry periods and fruiting.",
+    "growthRate": null,
+    "soil": "Species-level: tolerates varied soils; richer loam can support fruit production.",
+    "floweringOrFruiting": "Species-level: orange-yellow flowers; dark purple fruit ripens in summer.",
+    "sources": [
+      {
+        "title": "Purdue New Crops Resource",
+        "url": "https://hort.purdue.edu/newcrop/morton/phalsa.html"
+      }
+    ]
+  },
+  "karonda": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen leaves.",
+    "matureHeight": "Species-level: usually about 3–5 m; may climb into taller trees.",
+    "shape": "Species-level: woody, spreading shrub with thorny branches.",
+    "light": "Species-level: full sun.",
+    "watering": null,
+    "growthRate": "Species-level: slow when young; more vigorous once established.",
+    "soil": "Species-level: tolerates poor, dry soils; fruiting is best in deep, fertile, well-drained soil.",
+    "floweringOrFruiting": "Species-level: fragrant white or pink-tinged flowers; fruit ripens from red-purple to dark purple.",
+    "sources": [
+      {
+        "title": "Purdue New Crops Resource",
+        "url": "https://hort.purdue.edu/newcrop/morton/karanda.html"
+      }
+    ]
+  },
+  "tamarind": {
+    "lifespan": null,
+    "foliage": "Species-level: fine, feathery leaves; may briefly shed leaves in very dry areas.",
+    "matureHeight": "Species-level: about 24–30 m under favourable conditions.",
+    "shape": "Species-level: massive, broad-spreading tree with drooping branch tips.",
+    "light": null,
+    "watering": null,
+    "growthRate": "Species-level: slow-growing.",
+    "soil": "Species-level: tolerates varied soils, from deep alluvial to rocky.",
+    "floweringOrFruiting": "Species-level: small yellow flowers with orange or red markings; brown pods contain tangy pulp.",
+    "sources": [
+      {
+        "title": "Purdue New Crops Resource",
+        "url": "https://hort.purdue.edu/newcrop/morton/tamarind.html"
+      }
+    ]
+  },
+  "sapota-kalipatti-grafted": {
+    "lifespan": null,
+    "foliage": "Kalipatti profile: broad, thick, green leaves.",
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": "Kalipatti profile: winter is the main picking season.",
+    "sources": [
+      {
+        "title": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/horticulture/fruits/sapota_varieties/kalipatti.html"
+      }
+    ]
+  },
+  "sapota-cricket-ball-grafted": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen, glossy leaves.",
+    "matureHeight": "Species-level: about 18–30 m in open or crowded conditions.",
+    "shape": "Species-level: pyramidal when young, becoming rounded.",
+    "light": null,
+    "watering": null,
+    "growthRate": "Species-level: fairly slow-growing.",
+    "soil": "Species-level: adaptable; light, well-drained soil is suitable.",
+    "floweringOrFruiting": "Cricket Ball profile: very large fruit with crisp, granular, sweet flesh.",
+    "sources": [
+      {
+        "title": "Purdue New Crops Resource",
+        "url": "https://hort.purdue.edu/newcrop/morton/sapodilla.html"
+      }
+    ]
+  },
+  "coconut-chennangi-dxt-hybrid": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen palm with long fronds.",
+    "matureHeight": null,
+    "shape": null,
+    "light": "Species-level: full sun.",
+    "watering": "Species-level, Florida guidance: about 2.5 cm weekly during the first year after transplanting.",
+    "growthRate": null,
+    "soil": "Species-level: sandy soil and well-drained planting locations are suitable.",
+    "floweringOrFruiting": "Species-level: flowering may begin around 4–6 years; cultivar-specific timing was not verified.",
+    "sources": [
+      {
+        "title": "UF/IFAS Gardening Solutions",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/trees-and-shrubs/palms-and-cycads/coconut-palm/"
+      }
+    ]
+  },
+  "coconut-ceylon-orange-dwarf": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen palm with long fronds.",
+    "matureHeight": null,
+    "shape": null,
+    "light": "Species-level: full sun.",
+    "watering": "Species-level, Florida guidance: about 2.5 cm weekly during the first year after transplanting.",
+    "growthRate": null,
+    "soil": "Species-level: sandy soil and well-drained planting locations are suitable.",
+    "floweringOrFruiting": "Species-level: flowering may begin around 4–6 years; Ceylon Orange Dwarf-specific timing was not verified.",
+    "sources": [
+      {
+        "title": "UF/IFAS Gardening Solutions",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/trees-and-shrubs/palms-and-cycads/coconut-palm/"
+      }
+    ]
+  },
+  "pomegranate-bhagwa": {
+    "lifespan": null,
+    "foliage": "Species-level: deciduous.",
+    "matureHeight": "Species-level: about 3–3.7 m in the cited garden profile.",
+    "shape": "Species-level: shrub or small tree.",
+    "light": "Species-level: partial shade to full sun.",
+    "watering": "Species-level: drought-tolerant; schedule varies with conditions.",
+    "growthRate": null,
+    "soil": "Species-level: tolerates varied soils; good drainage is important.",
+    "floweringOrFruiting": "Produces edible pomegranates; Bhagwa-specific season and traits were not verified.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/punica-granatum/"
+      },
+      {
+        "title": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_fruits_pomegranate.html"
+      }
+    ]
+  },
+  "sweet-lime-mosambi": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Purdue New Crops Resource",
+        "url": "https://hort.purdue.edu/newcrop/morton/sweet_lime.html"
+      }
+    ]
+  },
+  "orange-nagpur-grafted": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": "Species-level mandarin guidance: deep, well-drained loam, pH 5.5–6.5.",
+    "floweringOrFruiting": "Species-level guidance: budded mandarins may begin bearing in 3–5 years; Nagpur-specific timing was not verified.",
+    "sources": [
+      {
+        "title": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_fruits_mandarin%20orange.html"
+      }
+    ]
+  },
+  "jackfruit-grafted": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen, glossy, dark-green leaves.",
+    "matureHeight": "Species-level: about 9–12 m in the cited Florida guidance.",
+    "shape": "Species-level: large, upright tree.",
+    "light": "Species-level: full sun.",
+    "watering": "Species-level: water during dry periods, especially from flowering through fruit development.",
+    "growthRate": null,
+    "soil": "Species-level: well-drained soil; tolerates sand, sandy loam and well-drained calcareous soil.",
+    "floweringOrFruiting": "Male and female flowers occur on the same tree; fruit takes about 150–180 days to mature after flowering.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://edis.ifas.ufl.edu/publication/MG370"
+      }
+    ]
+  },
+  "jackfruit-vietnam-super-early-grafted": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen, glossy, dark-green leaves.",
+    "matureHeight": null,
+    "shape": null,
+    "light": "Species-level: full sun.",
+    "watering": "Species-level: water during dry periods, especially from flowering through fruit development.",
+    "growthRate": null,
+    "soil": "Species-level: well-drained soil.",
+    "floweringOrFruiting": "Species-level: fruit takes about 150–180 days to mature after flowering; Vietnam Super Early timing was not verified.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://edis.ifas.ufl.edu/publication/MG370"
+      }
+    ]
+  },
+  "breadfruit": {
+    "lifespan": null,
+    "foliage": "Species-level: large leaves with 5–11 lobes; evergreen or deciduous depending on climate.",
+    "matureHeight": "Species-level: can reach about 26 m; size varies by variety.",
+    "shape": "Species-level: spreading branches; may develop a clear trunk and buttressed base.",
+    "light": null,
+    "watering": null,
+    "growthRate": "Species-level: fast-growing.",
+    "soil": null,
+    "floweringOrFruiting": "Male and female flowers occur on the tree; trees typically begin bearing in 3–5 years.",
+    "sources": [
+      {
+        "title": "Purdue New Crops Resource",
+        "url": "https://hort.purdue.edu/newcrop/morton/breadfruit.html"
+      },
+      {
+        "title": "National Tropical Botanical Garden",
+        "url": "https://ntbg.org/breadfruit/about-breadfruit/"
+      }
+    ]
+  },
+  "custard-apple-balanagar": {
+    "lifespan": null,
+    "foliage": "Species-level: deciduous; young leaves are hairy, becoming smoother with age.",
+    "matureHeight": "Species-level: usually about 4.6–6.1 m in the cited Florida profile.",
+    "shape": "Species-level: small, open tree, spreading to upright.",
+    "light": "Species-level: full sun.",
+    "watering": "Species-level: maintain moisture from flowering through harvest; avoid waterlogged soil.",
+    "growthRate": null,
+    "soil": "Species-level: well-drained soil; tolerates sandy and limestone-based soils.",
+    "floweringOrFruiting": "Species-level: flowering and harvest seasons vary with climate; Balanagar-specific details were not verified.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://edis.ifas.ufl.edu/publication/MG330"
+      }
+    ]
+  },
+  "amla-na-7-grafted": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": "TNAU guidance: irrigate initially for establishment; it says irrigation is not required during rainy and winter seasons in its regional context.",
+    "growthRate": null,
+    "soil": "Species-level: tolerates varied soil conditions, including saline and alkaline soils.",
+    "floweringOrFruiting": "NA-7 is listed among cultivated varieties; cultivar-specific flowering and fruiting details were not provided.",
+    "sources": [
+      {
+        "title": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_fruits_amla.html"
+      }
+    ]
+  },
+  "ber-apple-grafted": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": "TNAU guidance: irrigate initially for establishment.",
+    "growthRate": null,
+    "soil": "Species-level: adapted to arid and semi-arid conditions; tolerates saline and alkaline soils.",
+    "floweringOrFruiting": "Budded plants are used in cultivation; cultivar-specific flowering and fruiting details were not verified.",
+    "sources": [
+      {
+        "title": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_fruits_ber.html"
+      }
+    ]
+  },
+  "fig-anjeer": {
+    "lifespan": null,
+    "foliage": "Species-level: deciduous, with large, deeply lobed leaves.",
+    "matureHeight": "Species-level: can reach about 15 m; varies with climate and cultivar.",
+    "shape": "Species-level: tree, often bushy with multiple stems and suckers.",
+    "light": "Species-level: full sun.",
+    "watering": "Species-level: water while establishing and during prolonged drought; the cited irrigation guidance is regional.",
+    "growthRate": null,
+    "soil": "Species-level: deep, well-drained soil.",
+    "floweringOrFruiting": "Flowers are contained inside the fig; some common types can fruit without pollination. Timing varies by cultivar.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://edis.ifas.ufl.edu/publication/MG214"
+      }
+    ]
+  },
+  "dragon-fruit-red-white": {
+    "lifespan": null,
+    "foliage": "Species-level: fleshy, photosynthetic stems; leaves are reduced.",
+    "matureHeight": null,
+    "shape": "Species-level: climbing or sprawling cactus, usually grown on a support.",
+    "light": "Species-level: full sun.",
+    "watering": null,
+    "growthRate": null,
+    "soil": "Species-level: well-drained soil.",
+    "floweringOrFruiting": "Species-level: large, night-blooming flowers; the product's red/white label does not establish flesh or skin colour.",
+    "sources": [
+      {
+        "title": "University of Hawaii CTAHR",
+        "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-49.pdf"
+      }
+    ]
+  },
+  "avocado-butter-fruit": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen; mature leaves are leathery and dark green.",
+    "matureHeight": "Species-level: about 9–20 m.",
+    "shape": "Species-level: canopy ranges from low and dense to upright; symmetry varies.",
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": "Species-level: well-drained soil; poorly drained or flooded sites are unsuitable.",
+    "floweringOrFruiting": "Species-level: yellow-green flowers; fruit traits vary among varieties.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://edis.ifas.ufl.edu/publication/MG213"
+      }
+    ]
+  },
+  "litchi-grafted": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen; young leaves are reddish and mature leaves green.",
+    "matureHeight": "Species-level: can reach about 12 m.",
+    "shape": "Species-level: dense, rounded, symmetrical canopy.",
+    "light": "Species-level: full sun.",
+    "watering": "Species-level: water regularly while establishing; moisture from fruit set through harvest can benefit production.",
+    "growthRate": null,
+    "soil": "Species-level: well-drained soil.",
+    "floweringOrFruiting": "Species-level: small flowers in terminal clusters and fruit in loose clusters; grafted trees may begin bearing in 3–5 years.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://edis.ifas.ufl.edu/publication/MG051"
+      }
+    ]
+  },
+  "star-fruit-carambola": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen, though leaves may drop in cooler locations.",
+    "matureHeight": "Species-level: about 7–10 m.",
+    "shape": "Species-level: spreading, single- or multi-trunked tree.",
+    "light": "Species-level: full sun.",
+    "watering": "Species-level: needs consistent soil moisture and has limited drought tolerance.",
+    "growthRate": "Species-level: rapid in wind-protected locations.",
+    "soil": "Species-level: well-drained soil.",
+    "floweringOrFruiting": "Small pink-to-lavender flowers; fruit has a star-shaped cross-section.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://edis.ifas.ufl.edu/publication/MG269"
+      }
+    ]
+  },
+  "jamun-grafted": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen.",
+    "matureHeight": null,
+    "shape": "Species-level: tall tree; exact mature form and size not specified in the cited profile.",
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": "Species-level: deep, well-drained loam is preferred; tolerates a wider range of soils.",
+    "floweringOrFruiting": "Species-level: dry weather is preferred during flowering and fruit set; regional dates vary.",
+    "sources": [
+      {
+        "title": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_fruits_jamun.html"
+      }
+    ]
+  },
+  "jamun-bahadoli-grafted": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen.",
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": "Species-level: deep, well-drained loam is preferred; tolerates a wider range of soils.",
+    "floweringOrFruiting": "Jamun species bears fruit; Bahadoli-specific traits and timing were not verified.",
+    "sources": [
+      {
+        "title": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_fruits_jamun.html"
+      }
+    ]
+  },
+  "apple-hrmn-99-low-chill": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": "Species-level: full sun.",
+    "watering": "Species-level: water newly planted trees during dry spells.",
+    "growthRate": null,
+    "soil": "Species-level: fertile, freely draining soil.",
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/fruit/apples/grow-your-own"
+      }
+    ]
+  },
+  "apple-anna-low-chill": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": "Species-level: full sun.",
+    "watering": "Species-level: water newly planted trees during dry spells.",
+    "growthRate": null,
+    "soil": "Species-level: fertile, freely draining soil.",
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/fruit/apples/grow-your-own"
+      }
+    ]
+  },
+  "pear-patharnakh-grafted": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": "Species-level: sunny, sheltered position.",
+    "watering": "Species-level: water newly planted trees during dry spells.",
+    "growthRate": null,
+    "soil": "Species-level: avoid waterlogged soil.",
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/fruit/pears/grow-your-own"
+      }
+    ]
+  },
+  "peach-shan-e-punjab-grafted": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": "Species-level: water newly planted trees during dry spells and while fruit is swelling.",
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": "Species-level: peaches flower in early spring; Shan-e-Punjab-specific timing was not verified.",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/fruit/peaches/grow-your-own"
+      }
+    ]
+  },
+  "plum-santa-rosa-grafted": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": "Species-level: water newly planted trees during dry spells.",
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": "Species-level: plum blossom can be damaged by late frost; Santa Rosa-specific timing was not verified.",
+    "sources": [
+      {
+        "title": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/fruit/plums/grow-your-own"
+      }
+    ]
+  },
+  "barbados-cherry-acerola": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen; mature leaves are glossy and dark green.",
+    "matureHeight": "Species-level: up to about 6 m.",
+    "shape": "Species-level: bushy shrub or small tree with erect, spreading or drooping branches.",
+    "light": null,
+    "watering": "Species-level: tolerates drought, though rain may precede fruiting.",
+    "growthRate": null,
+    "soil": "Species-level: reported on limestone, marl and clay soils.",
+    "floweringOrFruiting": "Species-level: pink or lavender flowers; fruit may mature about 22 days after flowering.",
+    "sources": [
+      {
+        "title": "Purdue New Crops Resource",
+        "url": "https://hort.purdue.edu/newcrop/morton/barbados_cherry.html"
+      }
+    ]
+  },
+  "arecanut-mangala": {
+    "lifespan": null,
+    "foliage": "Species-level: pinnate palm leaves.",
+    "matureHeight": null,
+    "shape": "Species-level: solitary palm.",
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "World Agroforestry",
+        "url": "https://apps.worldagroforestry.org/treedb/AFTPDFS/Areca_catechu.PDF"
+      }
+    ]
+  },
+  "rambutan-rongrien-grafted": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen, pinnately compound leaves.",
+    "matureHeight": "Species-level: cultivated trees commonly 4–7 m; wild trees may be taller.",
+    "shape": "Species-level: open, spreading crown.",
+    "light": "Species-level: sunny position; young trees benefit from shelter.",
+    "watering": "Species-level: prefers humid conditions and moist soil; no irrigation schedule verified.",
+    "growthRate": null,
+    "soil": "Species-level: prefers fertile, moist soil rich in organic matter.",
+    "floweringOrFruiting": "Species-level: produces hairy, juicy fruit; Rongrien-specific traits and timing were not verified.",
+    "sources": [
+      {
+        "title": "Purdue New Crops Resource",
+        "url": "https://hort.purdue.edu/newcrop/morton/rambutan.html"
+      }
+    ]
+  },
+  "purple-mangosteen": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen, thick, leathery, dark-green leaves.",
+    "matureHeight": "Species-level: about 6–25 m.",
+    "shape": "Species-level: erect, pyramidal crown.",
+    "light": null,
+    "watering": "Species-level: needs humid conditions and regular moisture; prolonged drought is unsuitable.",
+    "growthRate": "Species-level: very slow-growing.",
+    "soil": "Species-level: deep, rich organic soil with good drainage.",
+    "floweringOrFruiting": "Species-level: round, dark-purple fruit with white, juicy segments.",
+    "sources": [
+      {
+        "title": "Purdue New Crops Resource",
+        "url": "https://hort.purdue.edu/newcrop/morton/mangosteen.html"
+      }
+    ]
+  },
+  "loquat-tanaka-grafted": {
+    "lifespan": null,
+    "foliage": "Species-level: evergreen; large, thick leaves are glossy above and hairy beneath.",
+    "matureHeight": "Species-level: about 6–9 m; cited Tanaka description reports a medium-sized tree near 3 m.",
+    "shape": "Species-level: rounded crown.",
+    "light": null,
+    "watering": "Species-level: ample irrigation is recommended for good fruit production.",
+    "growthRate": null,
+    "soil": "Species-level: tolerates moderately fertile soils; good drainage is important.",
+    "floweringOrFruiting": "Tanaka profile: large orange to orange-yellow fruit with juicy, sweet or subacid flesh; ripening season is regional.",
+    "sources": [
+      {
+        "title": "Purdue New Crops Resource",
+        "url": "https://hort.purdue.edu/newcrop/morton/loquat.html"
+      }
+    ]
+  },
+  "wood-apple-velaga": {
+    "lifespan": null,
+    "foliage": "Species-level: deciduous, alternate, compound leaves.",
+    "matureHeight": null,
+    "shape": "Species-level: erect tree with outward-bending upper branches and drooping branchlet tips.",
+    "light": null,
+    "watering": null,
+    "growthRate": "Species-level: slow-growing.",
+    "soil": "Species-level: adapted to light soils.",
+    "floweringOrFruiting": "Species-level: small flowers in loose panicles; fruit has a hard woody rind and brown pulp.",
+    "sources": [
+      {
+        "title": "Purdue New Crops Resource",
+        "url": "https://hort.purdue.edu/newcrop/morton/wood-apple.html"
+      }
+    ]
+  },
+  "bael-maredu": {
+    "lifespan": null,
+    "foliage": "Species-level: aromatic, trifoliate leaves; deciduous.",
+    "matureHeight": "Species-level: reports range from about 6–8 m to 12–15 m.",
+    "shape": "Species-level: spreading branches, sometimes spiny.",
+    "light": null,
+    "watering": "Species-level: drought-tolerant; a specific watering schedule is not stated.",
+    "growthRate": "Species-level: slow-growing.",
+    "soil": "Species-level: adaptable across soil types and a wide pH range.",
+    "floweringOrFruiting": "Species-level: fragrant flowers; fruit develops over about 10–11 months from bloom.",
+    "sources": [
+      {
+        "title": "Purdue New Crops Resource",
+        "url": "https://hort.purdue.edu/newcrop/CropFactSheets/bael.html"
+      },
+      {
+        "title": "Purdue New Crops Resource",
+        "url": "https://hort.purdue.edu/newcrop/morton/bael_fruit.html"
+      }
+    ]
+  },
+  "red-water-apple-grafted": {
+    "lifespan": null,
+    "foliage": "Species-level: opposite, simple leaves, green to bluish-green.",
+    "matureHeight": "Species-level: up to about 9 m.",
+    "shape": null,
+    "light": "NParks species profile: moderate light.",
+    "watering": "NParks species profile: moderate watering.",
+    "growthRate": null,
+    "soil": "Species-level: fertile loamy soil.",
+    "floweringOrFruiting": "Species-level: fragrant yellowish-white flowers in panicles; typically reddish, pear-shaped fruit with juicy white flesh.",
+    "sources": [
+      {
+        "title": "NParks Flora & Fauna Web",
+        "url": "https://www.nparks.gov.sg/florafaunaweb/flora/4/1/4150"
+      }
+    ]
+  },
+  "banana-tissue-culture-g9": {
+    "lifespan": null,
+    "foliage": "Species-level: large leaf blades; leaf sheaths form pseudostems.",
+    "matureHeight": null,
+    "shape": "Species-level: herbaceous clump of upright pseudostems.",
+    "light": "Species-level: full sun for best production; tolerates some shade.",
+    "watering": "Species-level, Florida guidance: about 2.5–3.8 cm weekly; avoid flooding and persistently wet soil.",
+    "growthRate": "Species-level: fast-growing.",
+    "soil": "Species-level: deep, well-drained soil.",
+    "floweringOrFruiting": "If G9 means Grand Naine, TNAU describes long cylindrical fruit and 10–12 hands per bunch; that identity was not verified for this listing.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://ask.ifas.ufl.edu/publication/MG040"
+      },
+      {
+        "title": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/expert_system/banana/season&variety.html"
+      }
+    ]
+  },
+  "banana-tella-chakkerakeli": {
+    "lifespan": null,
+    "foliage": "Species-level: large leaf blades; leaf sheaths form pseudostems.",
+    "matureHeight": null,
+    "shape": "Species-level: herbaceous clump of upright pseudostems.",
+    "light": "Species-level: full sun for best production; tolerates some shade.",
+    "watering": "Species-level, Florida guidance: about 2.5–3.8 cm weekly; avoid flooding and persistently wet soil.",
+    "growthRate": "Species-level: fast-growing.",
+    "soil": "Species-level: deep, well-drained soil.",
+    "floweringOrFruiting": "TNAU describes Chakkerakeli fruit as sweet and juicy; identity with this Tella-named plant is unconfirmed.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://ask.ifas.ufl.edu/publication/MG040"
+      },
+      {
+        "title": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_fruits_banana.html"
+      }
+    ]
+  },
+  "banana-red-chakkerakeli": {
+    "lifespan": null,
+    "foliage": "Species-level: large leaf blades; leaf sheaths form pseudostems.",
+    "matureHeight": null,
+    "shape": "Species-level: herbaceous clump of upright pseudostems.",
+    "light": "Species-level: full sun for best production; tolerates some shade.",
+    "watering": "Species-level, Florida guidance: about 2.5–3.8 cm weekly; avoid flooding and persistently wet soil.",
+    "growthRate": "Species-level: fast-growing.",
+    "soil": "Species-level: deep, well-drained soil.",
+    "floweringOrFruiting": "Bananas are borne in bunches; Red Dacca-specific fruit and crop details were not verified.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://ask.ifas.ufl.edu/publication/MG040"
+      }
+    ]
+  },
+  "banana-amruthapani": {
+    "lifespan": null,
+    "foliage": "Species-level: large leaf blades; leaf sheaths form pseudostems.",
+    "matureHeight": "TNAU's Rasthali profile, identified there as Amruthapani, gives about 4–4.5 m.",
+    "shape": "Species-level: herbaceous clump of upright pseudostems.",
+    "light": "Species-level: full sun for best production; tolerates some shade.",
+    "watering": "Species-level, Florida guidance: about 2.5–3.8 cm weekly; avoid flooding and persistently wet soil.",
+    "growthRate": "Species-level: fast-growing.",
+    "soil": "Species-level: deep, well-drained soil.",
+    "floweringOrFruiting": "TNAU's Rasthali profile describes sweet, aromatic fruit; cultivar identity with this product is not independently confirmed.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://ask.ifas.ufl.edu/publication/MG040"
+      },
+      {
+        "title": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_fruits_banana.html"
+      }
+    ]
+  },
+  "banana-karpuravalli": {
+    "lifespan": null,
+    "foliage": "Species-level: large leaf blades; leaf sheaths form pseudostems.",
+    "matureHeight": null,
+    "shape": "TNAU describes Karpuravalli as stout and vigorous.",
+    "light": "Species-level: full sun for best production; tolerates some shade.",
+    "watering": "Species-level, Florida guidance: about 2.5–3.8 cm weekly; avoid flooding and persistently wet soil.",
+    "growthRate": "Species-level: fast-growing.",
+    "soil": "TNAU describes the cultivar as suited to medium-rich soils and able to thrive in alkaline soils.",
+    "floweringOrFruiting": "TNAU describes sweet, juicy fruit; reported crop duration is about 12–14 months in its regional guidance.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://ask.ifas.ufl.edu/publication/MG040"
+      },
+      {
+        "title": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_fruits_banana.html"
+      }
+    ]
+  },
+  "banana-curry-cooking": {
+    "lifespan": null,
+    "foliage": "Species-level: large leaf blades; leaf sheaths form pseudostems.",
+    "matureHeight": null,
+    "shape": "Species-level: herbaceous clump of upright pseudostems.",
+    "light": "Species-level: full sun for best production; tolerates some shade.",
+    "watering": "Species-level, Florida guidance: about 2.5–3.8 cm weekly; avoid flooding and persistently wet soil.",
+    "growthRate": "Species-level: fast-growing.",
+    "soil": "Species-level: deep, well-drained soil.",
+    "floweringOrFruiting": "If this listing refers to Monthan, TNAU describes a cooking banana with firm, cream-coloured pulp; identity was not independently verified.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://ask.ifas.ufl.edu/publication/MG040"
+      },
+      {
+        "title": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_fruits_banana.html"
+      }
+    ]
+  },
+  "papaya-red-lady": {
+    "lifespan": null,
+    "foliage": "Species-level: palmately lobed leaves, typically on a single trunk.",
+    "matureHeight": "Species-level: up to about 10 m.",
+    "shape": "Species-level: upright, usually single-trunked; secondary shoots may form.",
+    "light": "Species-level: full sun.",
+    "watering": "Species-level: regular moisture is important; frequency depends on soil and weather.",
+    "growthRate": null,
+    "soil": "Species-level: well-drained soils, including sands, loams and rocky soils.",
+    "floweringOrFruiting": "Species-level: under good care, flowering may begin about 4 months after planting and fruiting around 7–11 months; Red Lady-specific timing was not verified.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://ask.ifas.ufl.edu/publication/MG054"
+      },
+      {
+        "title": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_fruits_papaya.html"
+      }
+    ]
+  },
+  "nuda-ficus-multi-step": {
+    "lifespan": null,
+    "foliage": "Evergreen, glossy leaves; ‘Nuda’-specific traits are not established.",
+    "matureHeight": "Ficus benjamina can reach about 12–15 m; the trained topiary size depends on pruning.",
+    "shape": "Trained multi-tier topiary, not the species’ natural form.",
+    "light": "Bright light; tolerates some shade.",
+    "watering": "Water before the potting mix dries out completely.",
+    "growthRate": null,
+    "soil": "Well-drained potting mix.",
+    "floweringOrFruiting": "May produce small fig-like fruits; fruiting is not assured.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-benjamina/"
+      }
+    ]
+  },
+  "nuda-ficus-multi-ball": {
+    "lifespan": null,
+    "foliage": "Evergreen, glossy leaves; ‘Nuda’-specific traits are not established.",
+    "matureHeight": "Ficus benjamina can reach about 12–15 m; the trained topiary size depends on pruning.",
+    "shape": "Trained multi-ball topiary, not the species’ natural form.",
+    "light": "Bright light; tolerates some shade.",
+    "watering": "Water before the potting mix dries out completely.",
+    "growthRate": null,
+    "soil": "Well-drained potting mix.",
+    "floweringOrFruiting": "May produce small fig-like fruits; fruiting is not assured.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-benjamina/"
+      }
+    ]
+  },
+  "micro-ficus-cone-shape": {
+    "lifespan": null,
+    "foliage": "Evergreen, dense foliage.",
+    "matureHeight": "Ficus microcarpa can reach about 12 m; the clipped cone size depends on pruning.",
+    "shape": "Clipped cone topiary, distinct from the species’ natural crown.",
+    "light": "Bright light to full sun; protect from cold.",
+    "watering": "Water thoroughly when the soil is slightly dry.",
+    "growthRate": null,
+    "soil": "Well-drained soil; a free-draining bonsai mix suits container-grown plants.",
+    "floweringOrFruiting": "May produce small fig-like fruits; pollination and fruiting are not assured.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-microcarpa/"
+      },
+      {
+        "title": "bonsaiempire.com",
+        "url": "https://www.bonsaiempire.com/tree-species/ficus"
+      }
+    ]
+  },
+  "conocarpus-erectus": {
+    "lifespan": "Long-lived landscape tree; no reliable numeric lifespan stated.",
+    "foliage": "Evergreen, simple, dark-green leaves.",
+    "matureHeight": "About 9–14 m; open-grown specimens may be smaller.",
+    "shape": "Naturally vase-shaped to spreading, often multi-trunked; tolerates clipping.",
+    "light": "Full sun.",
+    "watering": "Water while establishing; established plants have high drought tolerance.",
+    "growthRate": "Moderate.",
+    "soil": "Tolerates varied soils, including sand, clay, wet, and well-drained sites.",
+    "floweringOrFruiting": "Small green flowers in heads; hard, round reddish-brown fruits can occur year-round.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS Extension",
+        "url": "https://edis.ifas.ufl.edu/publication/ST179"
+      }
+    ]
+  },
+  "ficus-bonsai-aged": {
+    "lifespan": null,
+    "foliage": "Evergreen; leaf size and form vary among Ficus varieties.",
+    "matureHeight": "Ficus microcarpa can reach about 12 m; bonsai height is determined by training.",
+    "shape": "Aged bonsai styling is trained and does not indicate the species’ natural shape or lifespan.",
+    "light": "Abundant light, preferably full sun; protect from frost.",
+    "watering": "Water thoroughly when the soil is slightly dry.",
+    "growthRate": null,
+    "soil": "Free-draining bonsai mix.",
+    "floweringOrFruiting": "May produce small fig-like fruits; fruiting is not assured.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-microcarpa/"
+      },
+      {
+        "title": "bonsaiempire.com",
+        "url": "https://www.bonsaiempire.com/tree-species/ficus"
+      }
+    ]
+  },
+  "ficus-microcarpa-root-bonsai": {
+    "lifespan": null,
+    "foliage": "Evergreen foliage.",
+    "matureHeight": "Ficus microcarpa can reach about 12 m; bonsai height is determined by training.",
+    "shape": "Aerial-root display is a trained bonsai feature; aerial roots can develop in humid conditions.",
+    "light": "Abundant light, preferably full sun; protect from frost.",
+    "watering": "Water thoroughly when the soil is slightly dry.",
+    "growthRate": null,
+    "soil": "Free-draining bonsai mix.",
+    "floweringOrFruiting": "May produce small fig-like fruits; fruiting is not assured.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-microcarpa/"
+      },
+      {
+        "title": "bonsaiempire.com",
+        "url": "https://www.bonsaiempire.com/tree-species/ficus"
+      }
+    ]
+  },
+  "ficus-microcarpa-cloud-bonsai-xl": {
+    "lifespan": null,
+    "foliage": "Evergreen foliage.",
+    "matureHeight": "Ficus microcarpa can reach about 12 m; the cloud-trained form is maintained by pruning.",
+    "shape": "Cloud-trained bonsai; the tiered silhouette is not the species’ natural crown.",
+    "light": "Abundant light, preferably full sun; protect from frost.",
+    "watering": "Water thoroughly when the soil is slightly dry.",
+    "growthRate": null,
+    "soil": "Free-draining bonsai mix.",
+    "floweringOrFruiting": "May produce small fig-like fruits; fruiting is not assured.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-microcarpa/"
+      },
+      {
+        "title": "bonsaiempire.com",
+        "url": "https://www.bonsaiempire.com/tree-species/ficus"
+      }
+    ]
+  },
+  "ficus-microcarpa-ball-head": {
+    "lifespan": null,
+    "foliage": "Evergreen foliage.",
+    "matureHeight": "Ficus microcarpa can reach about 12 m; trained specimen dimensions depend on pruning.",
+    "shape": "Ball-head trained specimen; the clipped form is not the natural crown.",
+    "light": "Abundant light, preferably full sun; protect from frost.",
+    "watering": "Water thoroughly when the soil is slightly dry.",
+    "growthRate": null,
+    "soil": "Free-draining bonsai mix or well-drained soil.",
+    "floweringOrFruiting": "May produce small fig-like fruits; fruiting is not assured.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-microcarpa/"
+      },
+      {
+        "title": "bonsaiempire.com",
+        "url": "https://www.bonsaiempire.com/tree-species/ficus"
+      }
+    ]
+  },
+  "ficus-round-ball-shaped": {
+    "lifespan": null,
+    "foliage": "Evergreen, glossy leaves.",
+    "matureHeight": "Ficus benjamina can reach about 12–15 m; the trained ball size depends on pruning.",
+    "shape": "Rounded ball topiary; the species naturally has drooping branches.",
+    "light": "Bright light; tolerates some shade.",
+    "watering": "Water before the potting mix dries out completely.",
+    "growthRate": null,
+    "soil": "Well-drained potting mix.",
+    "floweringOrFruiting": "May produce small fig-like fruits; fruiting is not assured.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-benjamina/"
+      }
+    ]
+  },
+  "ficus-umbrella-shape": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": "Umbrella-trained silhouette; the species and natural mature form are unspecified.",
+    "light": "General Ficus bonsai guidance favors abundant light; protect from frost.",
+    "watering": "For bonsai, water thoroughly when the soil is slightly dry.",
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": "Ficus species may produce fig-like fruits; species-specific details are unknown.",
+    "sources": [
+      {
+        "title": "bonsaiempire.com",
+        "url": "https://www.bonsaiempire.com/tree-species/ficus"
+      }
+    ]
+  },
+  "banyan-specimen": {
+    "lifespan": null,
+    "foliage": "Evergreen, glossy green leaves.",
+    "matureHeight": "Can reach about 30 m, with a very broad crown and descending aerial roots.",
+    "shape": "Large spreading tree; aerial roots can form additional trunks.",
+    "light": "Full sun to partial shade.",
+    "watering": null,
+    "growthRate": "Fast-growing outdoors.",
+    "soil": "Moist, well-drained soil.",
+    "floweringOrFruiting": "Flowers are enclosed in figs; small fruits may form.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-benghalensis/"
+      }
+    ]
+  },
+  "bougainvillea-bonsai": {
+    "lifespan": null,
+    "foliage": "Foliage varies among Bougainvillea species and cultivars.",
+    "matureHeight": null,
+    "shape": "Woody scrambling vine; can be trained as a container shrub or bonsai.",
+    "light": "Full sun.",
+    "watering": "Drought-tolerant once established; avoid waterlogged soil.",
+    "growthRate": null,
+    "soil": "Well-drained, sandy or loamy soil.",
+    "floweringOrFruiting": "Small tubular flowers are surrounded by showy bracts; flowers form on new growth.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/bougainvillea/"
+      }
+    ]
+  },
+  "tamarind-bonsai": {
+    "lifespan": "Species can live for centuries; UF/IFAS reports up to about 200 years, not a bonsai lifespan guarantee.",
+    "foliage": "Fine, feathery compound leaves.",
+    "matureHeight": "Species can reach about 24–30 m; bonsai size depends on training.",
+    "shape": "Naturally stout-trunked with a spreading canopy; bonsai form is trained.",
+    "light": null,
+    "watering": null,
+    "growthRate": "Slow-growing.",
+    "soil": null,
+    "floweringOrFruiting": "Produces brown pods; fruiting is not assured in bonsai.",
+    "sources": [
+      {
+        "title": "gardeningsolutions.ifas.ufl.edu",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/edibles/fruits/tamarind/"
+      }
+    ]
+  },
+  "premna-bonsai": {
+    "lifespan": null,
+    "foliage": "Often evergreen with small opposite leaves.",
+    "matureHeight": null,
+    "shape": "Trained bonsai; Premna species are trees or shrubs with fine branching.",
+    "light": "Sunny, airy position; protect small specimens from intense midday sun.",
+    "watering": "Keep slightly moist; do not let the bonsai dry out completely.",
+    "growthRate": "Strong growth is reported for Premna bonsai; species-specific rate is not established.",
+    "soil": "Standard free-draining bonsai mix.",
+    "floweringOrFruiting": "Small pale flowers may be followed by small dark fruits.",
+    "sources": [
+      {
+        "title": "bonsaiempire.com",
+        "url": "https://www.bonsaiempire.com/tree-species/premna"
+      }
+    ]
+  },
+  "adenium-caudex-specimen": {
+    "lifespan": "Perennial succulent; no reliable numeric lifespan stated.",
+    "foliage": "Glossy, leathery leaves clustered at branch tips.",
+    "matureHeight": null,
+    "shape": "Small tree-like succulent with a swollen caudex.",
+    "light": "Full sun.",
+    "watering": "Allow soil to dry between waterings; reduce watering during dormancy.",
+    "growthRate": null,
+    "soil": "Free-draining cactus or succulent mix.",
+    "floweringOrFruiting": "Summer flowers may be pink, red, or white; slender pods can form and split when mature.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/adenium-obesum/"
+      }
+    ]
+  },
+  "sarpagandha": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "GBIF Backbone Taxonomy — Rauvolfia serpentina",
+        "url": "https://www.gbif.org/species/3169787"
+      }
+    ]
+  },
+  "tulasi-holy-basil": {
+    "lifespan": "Annual or short-lived perennial, depending on climate.",
+    "foliage": "Aromatic, opposite leaves; color varies by plant.",
+    "matureHeight": "About 0.9 m.",
+    "shape": "Upright, multi-stemmed subshrub.",
+    "light": "Full sun.",
+    "watering": "Water regularly; avoid waterlogged soil.",
+    "growthRate": "Rapid.",
+    "soil": "Moist, well-drained soil; tolerates varied soil types.",
+    "floweringOrFruiting": "Small flowers grow on spikes; color can vary.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/ocimum-tenuiflorum/"
+      }
+    ]
+  },
+  "aloe-vera": {
+    "lifespan": "Perennial evergreen succulent.",
+    "foliage": "Fleshy, toothed leaves in a basal rosette.",
+    "matureHeight": "About 0.6–0.9 m.",
+    "shape": "Clumping rosette; spreads by offsets.",
+    "light": "Full sun to partial shade.",
+    "watering": "Let soil dry completely between waterings.",
+    "growthRate": null,
+    "soil": "Very well-drained soil.",
+    "floweringOrFruiting": "Mature plants may produce upright stems of tubular yellow-orange flowers.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/aloe-vera/"
+      }
+    ]
+  },
+  "curry-leaf": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "GBIF Backbone Taxonomy — Murraya koenigii",
+        "url": "https://www.gbif.org/species/5421333"
+      }
+    ]
+  },
+  "insulin-plant": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "GBIF Backbone Taxonomy — Costus igneus",
+        "url": "https://www.gbif.org/species/11210380"
+      }
+    ]
+  },
+  "ashwagandha": {
+    "lifespan": "Perennial in warm climates; often grown as an annual in cooler climates.",
+    "foliage": "Simple, gray-green leaves with fine hairs.",
+    "matureHeight": "Typically about 0.3–1.5 m.",
+    "shape": "Compact, branching herb or small shrub.",
+    "light": "Full sun.",
+    "watering": "Water sparingly; allow soil to dry between waterings.",
+    "growthRate": null,
+    "soil": "Well-drained, sandy soil.",
+    "floweringOrFruiting": "Small greenish flowers are followed by red berries enclosed by the calyx.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/withania-somnifera/"
+      }
+    ]
+  },
+  "brahmi": {
+    "lifespan": "Perennial.",
+    "foliage": "Small, succulent evergreen leaves on creeping stems.",
+    "matureHeight": "Low-growing, generally under 15 cm.",
+    "shape": "Creeping, spreading groundcover.",
+    "light": "Full sun to partial shade.",
+    "watering": "Keep consistently wet; tolerates shallow water.",
+    "growthRate": "Spreads rapidly in moist conditions.",
+    "soil": "Moist to wet soil.",
+    "floweringOrFruiting": "Small white flowers; flowering can continue over a long season.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/bacopa-monnieri/"
+      }
+    ]
+  },
+  "lemon-grass": {
+    "lifespan": "Perennial in frost-free climates; often grown as an annual where winters are cold.",
+    "foliage": "Long, narrow, aromatic leaves.",
+    "matureHeight": "Typically about 1–1.8 m.",
+    "shape": "Upright, dense clump.",
+    "light": "Full sun.",
+    "watering": "Water regularly during active growth; ensure good drainage.",
+    "growthRate": null,
+    "soil": "Fertile, well-drained soil.",
+    "floweringOrFruiting": "Flowering is uncommon in cultivation.",
+    "sources": [
+      {
+        "title": "NC State Extension — Cymbopogon citratus",
+        "url": "https://plants.ces.ncsu.edu/plants/cymbopogon-citratus/"
+      }
+    ]
+  },
+  "betel-leaf": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "GBIF Backbone Taxonomy — Piper betle",
+        "url": "https://www.gbif.org/species/4187904"
+      }
+    ]
+  },
+  "giloy-tippa-teega": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "GBIF Backbone Taxonomy — Tinospora cordifolia",
+        "url": "https://www.gbif.org/species/7520328"
+      }
+    ]
+  },
+  "stevia": {
+    "lifespan": "Tender perennial; often grown as an annual in colder climates.",
+    "foliage": "Opposite, slightly toothed leaves on slender stems.",
+    "matureHeight": "About 0.3–0.6 m.",
+    "shape": "Upright, branching herb with relatively weak stems.",
+    "light": "Full sun; tolerates partial shade.",
+    "watering": "Keep evenly moist but well drained.",
+    "growthRate": null,
+    "soil": "Moist, well-drained soil.",
+    "floweringOrFruiting": "Small white flowers; produces one-seeded fruits.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/stevia-rebaudiana/"
+      }
+    ]
+  },
+  "moringa-drumstick": {
+    "lifespan": "Perennial tree; may be deciduous in dry or cool conditions.",
+    "foliage": "Feathery, compound leaves with many small leaflets.",
+    "matureHeight": "Typically about 10–12 m; pruning and conditions affect size.",
+    "shape": "Open-crowned, branching tree.",
+    "light": "Full sun.",
+    "watering": "Water while establishing; needs well-drained soil.",
+    "growthRate": "Fast-growing.",
+    "soil": "Well-drained soil; tolerates relatively poor soils.",
+    "floweringOrFruiting": "Pale flowers followed by long, narrow seed pods.",
+    "sources": [
+      {
+        "title": "ctahr.hawaii.edu",
+        "url": "https://www.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-31.pdf"
+      }
+    ]
+  },
+  "vasaka-adathoda": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "GBIF Backbone Taxonomy — Justicia adhatoda",
+        "url": "https://www.gbif.org/species/3173105"
+      }
+    ]
+  },
+  "buddha-belly-bamboo": {
+    "lifespan": "Perennial clumping bamboo; culms are shorter-lived than the clump.",
+    "foliage": "Evergreen, narrow green leaves; culms can develop swollen internodes.",
+    "matureHeight": "Species may reach about 8–15 m in warm climates; containers stay smaller.",
+    "shape": "Clumping, upright-to-arching bamboo.",
+    "light": "Full sun to partial shade.",
+    "watering": "Water regularly; avoid prolonged waterlogging.",
+    "growthRate": "Moderate to fast in favorable conditions.",
+    "soil": "Fertile, moisture-retentive but well-drained soil.",
+    "floweringOrFruiting": "Flowering is episodic; no reliable species-specific interval stated.",
+    "sources": [
+      {
+        "title": "ctahr.hawaii.edu",
+        "url": "https://www.ctahr.hawaii.edu/oc/freepubs/pdf/OF-26.pdf"
+      }
+    ]
+  },
+  "golden-bamboo": {
+    "lifespan": "Perennial clumping bamboo; culms are shorter-lived than the clump.",
+    "foliage": "Evergreen foliage; ‘Vittata’ is grown for yellow culms striped green.",
+    "matureHeight": "Bambusa vulgaris can produce culms about 10–20 m tall in warm climates.",
+    "shape": "Large, upright clump; allow room for mature growth.",
+    "light": "Full sun to partial shade.",
+    "watering": "Water during establishment and dry periods; avoid waterlogging.",
+    "growthRate": "Fast in favorable conditions.",
+    "soil": "Fertile, moisture-retentive, well-drained soil.",
+    "floweringOrFruiting": "Flowering is episodic; selection-specific intervals are not established.",
+    "sources": [
+      {
+        "title": "ctahr.hawaii.edu",
+        "url": "https://www.ctahr.hawaii.edu/oc/freepubs/pdf/OF-26.pdf"
+      }
+    ]
+  },
+  "timor-black-bamboo": {
+    "lifespan": "Perennial clumping bamboo; culms are shorter-lived than the clump.",
+    "foliage": "Evergreen green leaves; mature culms become dark-colored.",
+    "matureHeight": null,
+    "shape": "Clumping bamboo; size depends on climate and growing conditions.",
+    "light": "Full sun to partial shade.",
+    "watering": "Water during establishment and dry periods; avoid prolonged waterlogging.",
+    "growthRate": null,
+    "soil": "Fertile, well-drained soil.",
+    "floweringOrFruiting": "Flowering is episodic; species-specific intervals are not established.",
+    "sources": [
+      {
+        "title": "ctahr.hawaii.edu",
+        "url": "https://www.ctahr.hawaii.edu/oc/freepubs/pdf/OF-26.pdf"
+      }
+    ]
+  },
+  "green-screening-bamboo": {
+    "lifespan": "Evergreen perennial clumping bamboo.",
+    "foliage": "Medium- to dark-green leaves.",
+    "matureHeight": "Up to about 7.6 m; cultivar and site affect size.",
+    "shape": "Dense, arching clump; often grown as a screen or hedge.",
+    "light": "Full sun to dappled sun.",
+    "watering": "Water well during the first growing season; prefers moist soil.",
+    "growthRate": "Fast in favorable conditions.",
+    "soil": "Moist, fertile soil with good drainage.",
+    "floweringOrFruiting": "Flowering is rare; timing varies.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/bambusa-multiplex/"
+      }
+    ]
+  },
+  "fountain-grass": {
+    "lifespan": "Perennial in warm climates; often grown as an annual in colder regions.",
+    "foliage": "Narrow, arching leaves; color varies by cultivar.",
+    "matureHeight": "About 0.6–1.2 m.",
+    "shape": "Clumping, mounded ornamental grass.",
+    "light": "Full sun to partial shade.",
+    "watering": "Drought-tolerant once established; water during establishment and extended dry spells.",
+    "growthRate": "Moderate to fast; self-seeds readily.",
+    "soil": "Tolerates a range of soils; good drainage is beneficial.",
+    "floweringOrFruiting": "Flower plumes appear from summer until frost.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/cenchrus-setaceus/"
+      }
+    ]
+  },
+  "umbrella-grass": {
+    "lifespan": "Perennial sedge.",
+    "foliage": "Green leaf-like bracts radiate from the tops of upright stems.",
+    "matureHeight": "Typically about 1.2 m; can reach about 1.8 m in warm, moist conditions.",
+    "shape": "Upright, clump-forming sedge; stems may flop and root where they touch soil.",
+    "light": "Sun to light shade.",
+    "watering": "Keep roots continuously wet or grow in standing water.",
+    "growthRate": null,
+    "soil": "Fertile soil kept consistently wet.",
+    "floweringOrFruiting": "Produces an inflorescence; notable fruiting details are not established.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/cyperus-alternifolius/"
+      }
+    ]
+  },
+  "pampas-style-grass": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "NC State Extension — Cortaderia selloana (pampas grass)",
+        "url": "https://plants.ces.ncsu.edu/plants/cortaderia-selloana/"
+      },
+      {
+        "title": "NC State Extension — Tripidium ravennae (Ravenna grass)",
+        "url": "https://plants.ces.ncsu.edu/plants/saccharum-ravennae/"
+      }
+    ]
+  },
+  "euphorbia-cactus-assorted": {
+    "lifespan": null,
+    "foliage": "Varies by species; some forms have fleshy stems.",
+    "matureHeight": null,
+    "shape": "Varies by species; Euphorbia are not cacti, though some resemble them.",
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": "Varies by species; Euphorbia flowers are small cyathia.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/euphorbia/"
+      }
+    ]
+  },
+  "agave-americana": {
+    "lifespan": "Long-lived perennial rosette; the flowering rosette dies after blooming, while offsets may persist.",
+    "foliage": "Large, thick, spiny leaves in a basal rosette.",
+    "matureHeight": "Up to about 3 m; flowering stalks can reach 5–9 m.",
+    "shape": "Large, sculptural rosette.",
+    "light": "Full sun.",
+    "watering": "Drought-tolerant; avoid persistently wet soil.",
+    "growthRate": null,
+    "soil": "Very well-drained soil.",
+    "floweringOrFruiting": "Greenish-yellow flowers grow on a tall stalk; the flowering rosette dies afterward.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/agave-americana/"
+      }
+    ]
+  },
+  "yucca": {
+    "lifespan": "Evergreen perennial.",
+    "foliage": "Leathery, spineless green to blue-green leaves with soft tips.",
+    "matureHeight": "About 4.5–9 m outdoors; smaller as a houseplant.",
+    "shape": "Upright shrub or small tree with leaves in rosettes.",
+    "light": "Full sun.",
+    "watering": "Drought-tolerant; avoid overwatering.",
+    "growthRate": null,
+    "soil": "Well-drained loam or sandy soil.",
+    "floweringOrFruiting": "Creamy-white bell-shaped flowers appear on tall stalks; fleshy brown fruit may follow.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/yucca-gigantea/"
+      }
+    ]
+  },
+  "sansevieria-cylindrica": {
+    "lifespan": "Perennial; numeric longevity is not established.",
+    "foliage": "Upright, cylindrical succulent leaves with longitudinal markings.",
+    "matureHeight": "Leaves can reach about 2 m; indoor size varies.",
+    "shape": "Rosette-forming plant with upright cylindrical leaves.",
+    "light": "Bright indoor light; outdoors, morning sun is suitable.",
+    "watering": "Water sparingly; allow soil to dry and avoid excess water.",
+    "growthRate": null,
+    "soil": "Well-drained potting mix; cactus mix is suitable.",
+    "floweringOrFruiting": "May flower occasionally in a container.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/dracaena-angolensis/"
+      }
+    ]
+  },
+  "succulent-assortment": {
+    "lifespan": null,
+    "foliage": null,
+    "matureHeight": null,
+    "shape": null,
+    "light": null,
+    "watering": null,
+    "growthRate": null,
+    "soil": null,
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "extension.umn.edu",
+        "url": "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/cacti-and-succulents"
+      }
+    ]
+  },
+  "opuntia-ornamental": {
+    "lifespan": null,
+    "foliage": "Flattened green to bluish-gray stem pads with areoles; may have spines and fine glochids.",
+    "matureHeight": null,
+    "shape": "Pad-forming cactus; habit varies.",
+    "light": "Full sun.",
+    "watering": "Drought-tolerant; allow soil to dry between waterings.",
+    "growthRate": null,
+    "soil": "Well-drained sandy or loamy soil; use cactus mix in containers.",
+    "floweringOrFruiting": "Opuntia species may flower in late spring or early summer and produce fleshy fruits.",
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/opuntia/"
+      }
+    ]
+  },
+  "golden-barrel-cactus": {
+    "lifespan": null,
+    "foliage": "Leafless cactus stem with ribs and long spines.",
+    "matureHeight": null,
+    "shape": "Rounded, barrel-shaped; may elongate with age.",
+    "light": "Full sun; tolerates some shade.",
+    "watering": "Let soil dry between waterings; overwatering risks root rot.",
+    "growthRate": null,
+    "soil": "Fast-draining cactus mix with coarse sand or perlite.",
+    "floweringOrFruiting": null,
+    "sources": [
+      {
+        "title": "NC State Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/echinocactus/"
+      },
+      {
+        "title": "extension.umn.edu",
+        "url": "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/cacti-and-succulents"
+      }
+    ]
+  }
+}
