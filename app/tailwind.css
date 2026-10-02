@@ -60,6 +60,37 @@ h1 em, h2 em, .brand-mark em { font-family: Georgia, serif; font-weight: 400; }
 .intro-content { display: grid; grid-template-columns: 1.15fr .85fr; gap: clamp(30px, 8vw, 150px); align-items: end; }
 h2 { margin: 0; font-size: clamp(38px, 5vw, 72px); line-height: .98; letter-spacing: -.06em; }
 .intro-content > div { max-width: 365px; color: var(--muted-ink); line-height: 1.65; font-size: 15px; }
+.bulk-supply { overflow: hidden; background: #fff; }
+.bulk-supply .section-heading { align-items: end; }
+.bulk-supply .section-heading h2 { font-size: clamp(38px, 5.2vw, 72px); }
+.bulk-supply-feature { display: grid; grid-template-columns: minmax(0, .86fr) minmax(0, 1.14fr); gap: clamp(40px, 8vw, 112px); align-items: center; }
+.bulk-supply-copy { max-width: 480px; }
+.bulk-kicker { display: flex; align-items: center; gap: 9px; margin: 0 0 18px; color: var(--ink); font-size: 10px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+.bulk-kicker > span { width: 7px; height: 7px; border-radius: 50%; background: var(--coral); box-shadow: 0 0 0 5px rgb(228 107 88 / 12%); }
+.bulk-supply-copy > p:not(.bulk-kicker) { margin: 0; color: var(--muted-ink); font-size: 15px; line-height: 1.75; }
+.bulk-checklist { display: grid; gap: 13px; margin: 26px 0 30px; }
+.bulk-checklist span { display: flex; align-items: center; gap: 11px; color: var(--ink); font-size: 12px; font-weight: 600; }
+.bulk-checklist svg { flex: 0 0 auto; color: var(--coral); }
+.bulk-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 18px; }
+.bulk-actions .text-link { margin-top: 0; }
+.bulk-supply-visual { position: relative; min-height: 510px; }
+.bulk-truck-photo, .bulk-nursery-photo { position: absolute; overflow: hidden; margin: 0; background: var(--soft-paper); }
+.bulk-truck-photo { top: 0; right: 0; width: 59%; height: 100%; border-radius: 24px; box-shadow: 0 26px 60px rgba(18,56,43,.16); }
+.bulk-truck-photo::after, .bulk-nursery-photo::after { position: absolute; inset: 45% 0 0; content: ""; background: linear-gradient(0deg, rgb(10 32 23 / 68%), transparent); pointer-events: none; }
+.bulk-truck-photo img, .bulk-nursery-photo img { display: block; width: 100%; height: 100%; object-fit: cover; transition: transform .8s cubic-bezier(.2,.7,.2,1); }
+.bulk-truck-photo img { object-position: center 47%; }
+.bulk-nursery-photo img { object-position: center 56%; }
+.bulk-supply-visual:hover .bulk-truck-photo img, .bulk-supply-visual:hover .bulk-nursery-photo img { transform: scale(1.045); }
+.bulk-truck-photo figcaption, .bulk-nursery-photo figcaption { position: absolute; z-index: 1; right: 17px; bottom: 17px; left: 17px; color: white; font-size: 11px; font-weight: 600; }
+.bulk-nursery-photo { bottom: 8%; left: 0; width: 54%; height: 42%; border: 7px solid white; border-radius: 20px; box-shadow: 0 18px 48px rgba(18,56,43,.18); }
+.bulk-nursery-photo::after { inset: 35% 0 0; }
+.bulk-nursery-photo figcaption { right: 13px; bottom: 12px; left: 13px; font-size: 9px; }
+.bulk-route-mark { position: absolute; z-index: 2; top: 13%; left: 6%; display: flex; align-items: center; gap: 0; padding: 13px 14px; border: 1px solid rgb(217 225 215 / 85%); border-radius: 999px; background: rgb(244 247 240 / 94%); color: var(--ink); box-shadow: 0 10px 30px rgba(18,56,43,.1); }
+.bulk-route-mark > span { width: 24px; border-top: 1px dashed var(--muted-ink); }
+.bulk-route-mark svg { margin: 0 7px; color: var(--coral); animation: bulk-truck-roll 2.6s ease-in-out infinite alternate; }
+.bulk-image-credit { margin: 18px 0 0; color: var(--muted-ink); font-size: 9px; text-align: right; }
+.bulk-image-credit a { color: var(--ink); text-decoration: underline; text-underline-offset: 2px; }
+@keyframes bulk-truck-roll { from { transform: translateX(-2px); } to { transform: translateX(3px); } }
 .text-link { display: inline-flex; align-items: center; gap: 8px; margin-top: 22px; color: var(--ink); font-size: 12px; font-weight: 700; border-bottom: 1px solid var(--ink); padding-bottom: 5px; }
 .collection, .categories, .gallery { background: #fff; }
 .section-heading { display: flex; align-items: end; justify-content: space-between; margin-bottom: 38px; }
@@ -107,7 +138,7 @@ h2 { margin: 0; font-size: clamp(38px, 5vw, 72px); line-height: .98; letter-spac
 @keyframes rise-in { from { opacity: 0; transform: translateY(24px); } to { opacity: 1; transform: translateY(0); } }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; transition-duration: .01ms !important; } .hero { --hero-p: 1 !important; height: auto; } .hero-stage { position: relative; height: auto; min-height: 100dvh; } .hero-copy { opacity: 1 !important; transform: none !important; visibility: visible !important; } .hero-cue { display: none; } }
 @media (prefers-reduced-motion: reduce) { .catalogue-card { animation: none !important; } }
-@media (max-width: 700px) { .hero-copy { padding-top: 78px; } .hero-copy h1 { font-size: clamp(36px, 12vw, 58px); } .section-pad { padding-top: 82px; padding-bottom: 82px; } .intro, .intro-content, .season, .contact-cta { grid-template-columns: 1fr; } .intro-content { gap: 30px; } .plant-grid { display: flex; overflow-x: auto; margin-right: -20px; padding-right: 20px; scroll-snap-type: x mandatory; } .plant-card { min-width: 78vw; scroll-snap-align: start; } .season-image { height: 90vw; min-height: 0; } .section-heading { align-items: start; gap: 20px; flex-direction: column; } .heading-note { text-align: left; } .category-row { grid-template-columns: 35px 1fr 24px; } .category-row small { display: none; } .journal-grid { grid-template-columns: 1fr; } .journal article { min-height: 290px; } .gallery-grid { height: 300px; gap: 8px; } }
+@media (max-width: 700px) { .hero-copy { padding-top: 78px; } .hero-copy h1 { font-size: clamp(36px, 12vw, 58px); } .section-pad { padding-top: 82px; padding-bottom: 82px; } .intro, .intro-content, .season, .contact-cta { grid-template-columns: 1fr; } .intro-content { gap: 30px; } .bulk-supply .section-heading { align-items: start; } .bulk-supply-feature { grid-template-columns: 1fr; gap: 38px; } .bulk-supply-copy { max-width: none; } .bulk-supply-visual { min-height: min(112vw, 470px); } .bulk-truck-photo { width: 63%; } .bulk-nursery-photo { width: 57%; height: 39%; } .bulk-route-mark { top: 10%; left: 2%; transform: scale(.9); transform-origin: left center; } .bulk-image-credit { text-align: left; line-height: 1.6; } .plant-grid { display: flex; overflow-x: auto; margin-right: -20px; padding-right: 20px; scroll-snap-type: x mandatory; } .plant-card { min-width: 78vw; scroll-snap-align: start; } .season-image { height: 90vw; min-height: 0; } .section-heading { align-items: start; gap: 20px; flex-direction: column; } .heading-note { text-align: left; } .category-row { grid-template-columns: 35px 1fr 24px; } .category-row small { display: none; } .journal-grid { grid-template-columns: 1fr; } .journal article { min-height: 290px; } .gallery-grid { height: 300px; gap: 8px; } }
 
 .catalogue-page, .contact-page { background: var(--paper); color: var(--ink); }
 .catalogue-inner { max-width: 1400px; margin: 0 auto; padding: 150px clamp(20px, 7vw, 110px) 100px; }

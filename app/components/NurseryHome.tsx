@@ -1,12 +1,14 @@
 import { Link } from "@remix-run/react";
 import {
   ArrowUpRight,
+  Boxes,
   ChevronRight,
+  Clock3,
   Droplets,
-  Leaf,
+  PackageCheck,
   Phone,
-  Sprout,
   SunMedium,
+  Truck,
 } from "lucide-react";
 import { useEffect, useRef } from "react";
 import Footer from "~/components/Footer";
@@ -124,29 +126,121 @@ export default function NurseryHome() {
       </section>
       <section className="intro section-pad" id="story">
         <Reveal className="intro-label">
-          <p className="eyebrow">01 / The nursery</p>
+          <p className="eyebrow">01 / Wholesale & plantation supply</p>
         </Reveal>
         <Reveal className="intro-content">
           <h2>
-            Plants with a sense of <em>place.</em>
+            Bulk-grown plants. Ready for the next big <em>landscape.</em>
           </h2>
           <div>
             <p>
               We are {nursery.name}, a grower and wholesale supplier in Madiki,
-              Andhra Pradesh. Our nursery brings together dependable outdoor
-              palms, sculptural foliage, and easy-going greens for homes,
-              landscapes, and thoughtful projects.
+              Andhra Pradesh. From lorry-load plant orders to large plantation
+              projects, we help commercial clients source the right plants at
+              the scale their site needs.
             </p>
             <Link className="text-link" to="/contact-us">
-              Talk to our growers <ArrowUpRight size={16} />
+              Discuss a bulk requirement <ArrowUpRight size={16} />
             </Link>
           </div>
         </Reveal>
       </section>
+      <section className="bulk-supply section-pad" id="bulk-supply">
+        <Reveal className="section-heading">
+          <div>
+            <p className="eyebrow">02 / Lorry-load supply</p>
+            <h2>
+              Big projects need
+              <br />
+              <em>plants by the load.</em>
+            </h2>
+          </div>
+          <p className="heading-note">
+            From commercial landscapes to plantation projects, plan a supply
+            that moves together.
+          </p>
+        </Reveal>
+        <div className="bulk-supply-feature">
+          <Reveal className="bulk-supply-copy">
+            <p className="bulk-kicker">
+              <span aria-hidden="true" /> Made for larger requirements
+            </p>
+            <p>
+              Ordering for an estate, campus, resort, road corridor, institution
+              or landscaping contract? We work with you to shape a practical
+              plant mix and coordinate volume, packing and dispatch around your
+              project plan.
+            </p>
+            <div className="bulk-checklist">
+              <span>
+                <Boxes size={17} /> Mixed or single-variety bulk orders
+              </span>
+              <span>
+                <PackageCheck size={17} /> Plants prepared for transport
+              </span>
+              <span>
+                <Clock3 size={17} /> Dispatch planned with your schedule
+              </span>
+            </div>
+            <div className="bulk-actions">
+              <Link className="button button-dark" to="/contact-us">
+                Plan a bulk order <ArrowUpRight size={16} />
+              </Link>
+              <Link className="text-link" to="/products">
+                Browse plants <ChevronRight size={16} />
+              </Link>
+            </div>
+          </Reveal>
+          <Reveal className="bulk-supply-visual">
+            <figure className="bulk-truck-photo">
+              <img
+                src="/homePageImages/bulk-fruit-plant-delivery.jpg"
+                alt="A pickup truck carrying potted citrus trees from a plant nursery"
+                loading="lazy"
+              />
+              <figcaption>
+                Plants loaded together and ready for the journey
+              </figcaption>
+            </figure>
+            <figure className="bulk-nursery-photo">
+              <img
+                src="/homePageImages/nursery-truck-trees.jpg"
+                alt="Rows of nursery-grown plants prepared for large-scale supply"
+                loading="lazy"
+              />
+              <figcaption>Scale starts with a well-grown nursery</figcaption>
+            </figure>
+            <div className="bulk-route-mark" aria-hidden="true">
+              <span />
+              <Truck size={22} />
+              <span />
+            </div>
+          </Reveal>
+        </div>
+        <p className="bulk-image-credit">
+          Illustrative transport photos:{" "}
+          <a
+            href="https://www.pexels.com/photo/truck-and-trees-19851426/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Ahmet Kurt
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://www.pexels.com/photo/citrus-trees-on-truck-19827401/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Ersin İzan
+          </a>{" "}
+          / Pexels
+        </p>
+      </section>
       <section className="collection section-pad" id="collection">
         <Reveal className="section-heading">
           <div>
-            <p className="eyebrow">02 / Curated now</p>
+            <p className="eyebrow">03 / Grown for your project</p>
             <h2>Living collection</h2>
           </div>
           <Link className="text-link" to="/products">
@@ -202,46 +296,46 @@ export default function NurseryHome() {
           />
         </Reveal>
         <Reveal className="season-copy">
-          <p className="eyebrow">03 / Seasonal note</p>
+          <p className="eyebrow">04 / Thoughtful plant matching</p>
           <h2>
-            Light shifts.
+            Scale matters.
             <br />
-            <em>Growth persists.</em>
+            <em>So does selection.</em>
           </h2>
           <p>
-            Choose plants that settle naturally into your space. Our team can
-            help you match scale, sunlight, and care rhythm before anything
-            leaves the nursery.
+            A successful planting starts with the right plants for the place.
+            Tell us about your site, quantities and timeline; our team can help
+            you explore suitable options from the nursery.
           </p>
           <Link className="button button-dark" to="/contact-us">
-            Plan your planting <ArrowUpRight size={16} />
+            Talk through your project <ArrowUpRight size={16} />
           </Link>
         </Reveal>
       </section>
       <section className="categories section-pad">
         <Reveal className="section-heading">
           <div>
-            <p className="eyebrow">04 / Find your green</p>
-            <h2>Plant by feeling</h2>
+            <p className="eyebrow">05 / Supply for every scale</p>
+            <h2>Plant by purpose</h2>
           </div>
           <p className="heading-note">
-            From a single statement palm
+            From a considered selection
             <br />
-            to a full landscape.
+            to a complete landscape.
           </p>
         </Reveal>
         <div className="category-list">
           {[
-            { name: "Palms", note: "Architectural / sun-loving", icon: "01" },
-            { name: "Indoor greens", note: "Calm / considered", icon: "02" },
+            { name: "Palms", note: "Avenue / landscape scale", icon: "01" },
+            { name: "Indoor greens", note: "Offices / institutions", icon: "02" },
             {
               name: "Flowering plants",
-              note: "Seasonal / expressive",
+              note: "Gardens / public spaces",
               icon: "03",
             },
             {
               name: "Landscape supply",
-              note: "Grown / ready to scale",
+              note: "Plantations / commercial sites",
               icon: "04",
             },
           ].map((category) => (
@@ -257,46 +351,48 @@ export default function NurseryHome() {
       <section className="journal section-pad">
         <Reveal className="section-heading">
           <div>
-            <p className="eyebrow">05 / From the journal</p>
+            <p className="eyebrow">06 / Packed with care</p>
             <h2>
-              Good plants,
+              Ready for the road.
               <br />
-              <em>good rituals.</em>
+              <em>Rooted in care.</em>
             </h2>
           </div>
           <p className="heading-note">
-            Small observations from
+            A clear plan from plant selection
             <br />
-            life among the leaves.
+            through delivery day.
           </p>
         </Reveal>
         <div className="journal-grid">
           <article>
             <div className="journal-icon">
-              <Leaf size={17} />
+              <PackageCheck size={17} />
             </div>
-            <p className="eyebrow">01 · Care note</p>
-            <h3>Start with the right light.</h3>
+            <p className="eyebrow">01 · Prepared to travel</p>
+            <h3>Reliable packing for bulk loads.</h3>
             <p>
-              Sun is a plant’s daily language. We help you read the direction
-              and intensity of your space before choosing a new companion.
+              We plan how the selected plants are grouped and prepared before
+              dispatch, helping large orders arrive organized and ready for
+              unloading.
             </p>
             <a className="text-link" href="#contact">
-              Read the note <ArrowUpRight size={15} />
+              Ask about packing <ArrowUpRight size={15} />
             </a>
           </article>
           <article>
             <div className="journal-icon">
-              <Sprout size={17} />
+              <Truck size={17} />
             </div>
-            <p className="eyebrow">02 · Nursery note</p>
-            <h3>Grown with patience.</h3>
+            <p className="eyebrow">02 · Coordinated dispatch</p>
+            <h3>Delivery aligned to your site.</h3>
             <p>
-              Every plant in our collection is selected for health, structure,
-              and the promise of settling beautifully into its next home.
+              Share your destination, access conditions and target dates. We
+              coordinate dispatch timing with you so the delivery fits your
+              project schedule.
             </p>
             <a className="text-link" href="#contact">
-              Meet the nursery <ArrowUpRight size={15} />
+              Plan a delivery <ArrowUpRight size={15} />
             </a>
           </article>
         </div>
@@ -304,8 +400,8 @@ export default function NurseryHome() {
       <section className="gallery section-pad">
         <Reveal className="section-heading">
           <div>
-            <p className="eyebrow">06 / In the green</p>
-            <h2>A nursery in motion.</h2>
+            <p className="eyebrow">07 / Grown in Madiki</p>
+            <h2>Rooted here. Ready to travel.</h2>
           </div>
           <p className="heading-note">
             Grown in Madiki.
@@ -327,17 +423,18 @@ export default function NurseryHome() {
       </section>
       <section className="contact-cta section-pad" id="contact">
         <div>
-          <p className="eyebrow">07 / Begin here</p>
+          <p className="eyebrow">08 / Start your project</p>
           <h2>
-            Bring something
+            Planning a
             <br />
-            <em>living home.</em>
+            <em>lorry-load order?</em>
           </h2>
         </div>
         <div>
           <p>
-            Tell us what you are growing toward. We supply plants for homes,
-            gardens, landscapes, and wholesale projects across India.
+            Tell us your plant list, quantities, destination and target date.
+            We supply homes and gardens too, with a special focus on wholesale
+            orders, commercial landscapes and plantation projects.
           </p>
           <a className="button button-light" href={`tel:${nursery.phone}`}>
             <Phone size={15} /> {nursery.phone}
