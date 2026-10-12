@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 
 /**
  * Clean plant placeholder used when a product has no working image at all.
@@ -84,7 +84,8 @@ export default function ProductImage({
 
   // On refresh, cached images are often already `complete`, so `onLoad` never
   // fires. Read the element after commit instead of trusting the event.
-  useLayoutEffect(() => {
+  // useEffect (not useLayoutEffect) so SSR doesn't warn.
+  useEffect(() => {
     setLoaded(isImageReady(imgRef.current));
   }, [currentSrc]);
 

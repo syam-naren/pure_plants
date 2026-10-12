@@ -344,9 +344,8 @@ export const catalogue = [
     "sizesAvailable": [
       "4 ft – 12 ft"
     ],
-    "imageUrl": "/catalogue/millingtonia-tree-jasmine.jpg",
+    "imageUrl": "/catalogue/millingtonia-tree-jasmine-2.jpg",
     "images": [
-      "/catalogue/millingtonia-tree-jasmine.jpg",
       "/catalogue/millingtonia-tree-jasmine-2.jpg",
       "/catalogue/millingtonia-tree-jasmine-3.jpg"
     ]
@@ -394,9 +393,8 @@ export const catalogue = [
     "sizesAvailable": [
       "3 ft – 8 ft"
     ],
-    "imageUrl": "/catalogue/ashoka-tree-sita-ashok.jpg",
+    "imageUrl": "/catalogue/ashoka-tree-sita-ashok-2.jpg",
     "images": [
-      "/catalogue/ashoka-tree-sita-ashok.jpg",
       "/catalogue/ashoka-tree-sita-ashok-2.jpg",
       "/catalogue/ashoka-tree-sita-ashok-3.jpg"
     ]
@@ -411,9 +409,8 @@ export const catalogue = [
     "sizesAvailable": [
       "3 ft – 12 ft"
     ],
-    "imageUrl": "/catalogue/mast-tree-false-ashoka.jpg",
+    "imageUrl": "/catalogue/mast-tree-false-ashoka-2.jpg",
     "images": [
-      "/catalogue/mast-tree-false-ashoka.jpg",
       "/catalogue/mast-tree-false-ashoka-2.jpg",
       "/catalogue/mast-tree-false-ashoka-3.jpg"
     ]
@@ -446,9 +443,8 @@ export const catalogue = [
     "sizesAvailable": [
       "1 ft – 4 ft"
     ],
-    "imageUrl": "/catalogue/red-sanders-red-sandal.jpg",
+    "imageUrl": "/catalogue/red-sanders-red-sandal-2.jpg",
     "images": [
-      "/catalogue/red-sanders-red-sandal.jpg",
       "/catalogue/red-sanders-red-sandal-2.jpg",
       "/catalogue/red-sanders-red-sandal-3.jpg",
       "/catalogue/red-sanders-red-sandal-4.jpg"
@@ -481,9 +477,8 @@ export const catalogue = [
     "sizesAvailable": [
       "3 ft – 10 ft"
     ],
-    "imageUrl": "/catalogue/amaltas-neelamohar-pride-of-india.jpg",
+    "imageUrl": "/catalogue/amaltas-neelamohar-pride-of-india-2.jpg",
     "images": [
-      "/catalogue/amaltas-neelamohar-pride-of-india.jpg",
       "/catalogue/amaltas-neelamohar-pride-of-india-2.jpg",
       "/catalogue/amaltas-neelamohar-pride-of-india-3.jpg"
     ]
@@ -498,9 +493,8 @@ export const catalogue = [
     "sizesAvailable": [
       "3 ft – 10 ft"
     ],
-    "imageUrl": "/catalogue/bottlebrush-callistemon.jpg",
+    "imageUrl": "/catalogue/bottlebrush-callistemon-2.jpg",
     "images": [
-      "/catalogue/bottlebrush-callistemon.jpg",
       "/catalogue/bottlebrush-callistemon-2.jpg",
       "/catalogue/bottlebrush-callistemon-3.jpg",
       "/catalogue/bottlebrush-callistemon-4.jpg"
@@ -516,9 +510,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 8 ft"
     ],
-    "imageUrl": "/catalogue/bottlebrush-golden-golden-melaleuca.jpg",
+    "imageUrl": "/catalogue/bottlebrush-golden-golden-melaleuca-2.jpg",
     "images": [
-      "/catalogue/bottlebrush-golden-golden-melaleuca.jpg",
       "/catalogue/bottlebrush-golden-golden-melaleuca-2.jpg",
       "/catalogue/bottlebrush-golden-golden-melaleuca-3.jpg",
       "/catalogue/bottlebrush-golden-golden-melaleuca-4.jpg"
@@ -569,9 +562,8 @@ export const catalogue = [
     "sizesAvailable": [
       "3 ft – 8 ft"
     ],
-    "imageUrl": "/catalogue/pong-pong-rubra-red-cerbera.jpg",
+    "imageUrl": "/catalogue/pong-pong-rubra-red-cerbera-2.jpg",
     "images": [
-      "/catalogue/pong-pong-rubra-red-cerbera.jpg",
       "/catalogue/pong-pong-rubra-red-cerbera-2.jpg",
       "/catalogue/pong-pong-rubra-red-cerbera-3.jpg",
       "/catalogue/pong-pong-rubra-red-cerbera-4.jpg"
@@ -602,9 +594,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 8 ft"
     ],
-    "imageUrl": "/catalogue/eugenia-red-lip.jpg",
+    "imageUrl": "/catalogue/eugenia-red-lip-2.jpg",
     "images": [
-      "/catalogue/eugenia-red-lip.jpg",
       "/catalogue/eugenia-red-lip-2.jpg",
       "/catalogue/eugenia-red-lip-3.jpg",
       "/catalogue/eugenia-red-lip-4.jpg",
@@ -622,9 +613,8 @@ export const catalogue = [
     "sizesAvailable": [
       "1 ft – 3 ft"
     ],
-    "imageUrl": "/catalogue/eugenia-micro-dwarf.jpg",
+    "imageUrl": "/catalogue/eugenia-micro-dwarf-2.jpg",
     "images": [
-      "/catalogue/eugenia-micro-dwarf.jpg",
       "/catalogue/eugenia-micro-dwarf-2.jpg"
     ]
   },
@@ -753,9 +743,8 @@ export const catalogue = [
     "sizesAvailable": [
       "4 ft – 15 ft"
     ],
-    "imageUrl": "/catalogue/wild-date-palm-silver.jpg",
+    "imageUrl": "/catalogue/wild-date-palm-silver-2.jpg",
     "images": [
-      "/catalogue/wild-date-palm-silver.jpg",
       "/catalogue/wild-date-palm-silver-2.jpg",
       "/catalogue/wild-date-palm-silver-3.jpg"
     ]
@@ -874,9 +863,8 @@ export const catalogue = [
     "sizesAvailable": [
       "1 ft – 5 ft"
     ],
-    "imageUrl": "/catalogue/sago-palm-cycas.jpg",
+    "imageUrl": "/catalogue/sago-palm-cycas-2.jpg",
     "images": [
-      "/catalogue/sago-palm-cycas.jpg",
       "/catalogue/sago-palm-cycas-2.jpg",
       "/catalogue/sago-palm-cycas-3.jpg",
       "/catalogue/sago-palm-cycas-4.jpg"
@@ -892,9 +880,8 @@ export const catalogue = [
     "sizesAvailable": [
       "3 ft – 10 ft"
     ],
-    "imageUrl": "/catalogue/coconut-palm-landscape.jpg",
+    "imageUrl": "/catalogue/coconut-palm-landscape-2.jpg",
     "images": [
-      "/catalogue/coconut-palm-landscape.jpg",
       "/catalogue/coconut-palm-landscape-2.jpg"
     ]
   },
@@ -908,9 +895,8 @@ export const catalogue = [
     "sizesAvailable": [
       "3 ft – 12 ft"
     ],
-    "imageUrl": "/catalogue/veitchia-merrillii-christmas-palm.jpg",
+    "imageUrl": "/catalogue/veitchia-merrillii-christmas-palm-2.jpg",
     "images": [
-      "/catalogue/veitchia-merrillii-christmas-palm.jpg",
       "/catalogue/veitchia-merrillii-christmas-palm-2.jpg"
     ]
   },
@@ -941,9 +927,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 6 ft"
     ],
-    "imageUrl": "/catalogue/rhapis-excelsa-lady-palm.jpg",
+    "imageUrl": "/catalogue/rhapis-excelsa-lady-palm-2.jpg",
     "images": [
-      "/catalogue/rhapis-excelsa-lady-palm.jpg",
       "/catalogue/rhapis-excelsa-lady-palm-2.jpg",
       "/catalogue/rhapis-excelsa-lady-palm-3.jpg"
     ]
@@ -974,9 +959,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 6 ft"
     ],
-    "imageUrl": "/catalogue/mango-banginapalli-grafted.jpg",
+    "imageUrl": "/catalogue/mango-banginapalli-grafted-2.jpg",
     "images": [
-      "/catalogue/mango-banginapalli-grafted.jpg",
       "/catalogue/mango-banginapalli-grafted-2.jpg"
     ]
   },
@@ -1162,9 +1146,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 5 ft"
     ],
-    "imageUrl": "/catalogue/sapota-kalipatti-grafted.jpg",
+    "imageUrl": "/catalogue/sapota-kalipatti-grafted-2.jpg",
     "images": [
-      "/catalogue/sapota-kalipatti-grafted.jpg",
       "/catalogue/sapota-kalipatti-grafted-2.jpg",
       "/catalogue/sapota-kalipatti-grafted-3.jpg"
     ]
@@ -1194,9 +1177,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 6 ft"
     ],
-    "imageUrl": "/catalogue/coconut-chennangi-dxt-hybrid.jpg",
+    "imageUrl": "/catalogue/coconut-chennangi-dxt-hybrid-2.jpg",
     "images": [
-      "/catalogue/coconut-chennangi-dxt-hybrid.jpg",
       "/catalogue/coconut-chennangi-dxt-hybrid-2.jpg"
     ]
   },
@@ -1210,9 +1192,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 6 ft"
     ],
-    "imageUrl": "/catalogue/coconut-ceylon-orange-dwarf.jpg",
+    "imageUrl": "/catalogue/coconut-ceylon-orange-dwarf-2.jpg",
     "images": [
-      "/catalogue/coconut-ceylon-orange-dwarf.jpg",
       "/catalogue/coconut-ceylon-orange-dwarf-2.jpg"
     ]
   },
@@ -1290,9 +1271,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 6 ft"
     ],
-    "imageUrl": "/catalogue/jackfruit-vietnam-super-early-grafted.jpg",
+    "imageUrl": "/catalogue/jackfruit-vietnam-super-early-grafted-2.jpg",
     "images": [
-      "/catalogue/jackfruit-vietnam-super-early-grafted.jpg",
       "/catalogue/jackfruit-vietnam-super-early-grafted-2.jpg",
       "/catalogue/jackfruit-vietnam-super-early-grafted-3.jpg"
     ]
@@ -1341,9 +1321,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 4 ft"
     ],
-    "imageUrl": "/catalogue/amla-na-7-grafted.jpg",
+    "imageUrl": "/catalogue/amla-na-7-grafted-2.jpg",
     "images": [
-      "/catalogue/amla-na-7-grafted.jpg",
       "/catalogue/amla-na-7-grafted-2.jpg",
       "/catalogue/amla-na-7-grafted-3.jpg",
       "/catalogue/amla-na-7-grafted-4.jpg"
@@ -1359,9 +1338,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 4 ft"
     ],
-    "imageUrl": "/catalogue/ber-apple-grafted.jpg",
+    "imageUrl": "/catalogue/ber-apple-grafted-2.jpg",
     "images": [
-      "/catalogue/ber-apple-grafted.jpg",
       "/catalogue/ber-apple-grafted-2.jpg",
       "/catalogue/ber-apple-grafted-3.jpg",
       "/catalogue/ber-apple-grafted-4.jpg",
@@ -1378,9 +1356,8 @@ export const catalogue = [
     "sizesAvailable": [
       "1 ft – 4 ft"
     ],
-    "imageUrl": "/catalogue/fig-anjeer.jpg",
+    "imageUrl": "/catalogue/fig-anjeer-2.jpg",
     "images": [
-      "/catalogue/fig-anjeer.jpg",
       "/catalogue/fig-anjeer-2.jpg",
       "/catalogue/fig-anjeer-3.jpg"
     ]
@@ -1395,9 +1372,8 @@ export const catalogue = [
     "sizesAvailable": [
       "Rooted cuttings"
     ],
-    "imageUrl": "/catalogue/dragon-fruit-red-white.jpg",
+    "imageUrl": "/catalogue/dragon-fruit-red-white-2.jpg",
     "images": [
-      "/catalogue/dragon-fruit-red-white.jpg",
       "/catalogue/dragon-fruit-red-white-2.jpg",
       "/catalogue/dragon-fruit-red-white-3.jpg",
       "/catalogue/dragon-fruit-red-white-4.jpg"
@@ -1443,9 +1419,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 4 ft"
     ],
-    "imageUrl": "/catalogue/star-fruit-carambola.jpg",
+    "imageUrl": "/catalogue/star-fruit-carambola-2.jpg",
     "images": [
-      "/catalogue/star-fruit-carambola.jpg",
       "/catalogue/star-fruit-carambola-2.jpg",
       "/catalogue/star-fruit-carambola-3.jpg",
       "/catalogue/star-fruit-carambola-4.jpg"
@@ -1491,9 +1466,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 5 ft"
     ],
-    "imageUrl": "/catalogue/apple-hrmn-99-low-chill.jpg",
+    "imageUrl": "/catalogue/apple-hrmn-99-low-chill-2.jpg",
     "images": [
-      "/catalogue/apple-hrmn-99-low-chill.jpg",
       "/catalogue/apple-hrmn-99-low-chill-2.jpg"
     ]
   },
@@ -1568,9 +1542,8 @@ export const catalogue = [
     "sizesAvailable": [
       "1 ft – 4 ft"
     ],
-    "imageUrl": "/catalogue/barbados-cherry-acerola.jpg",
+    "imageUrl": "/catalogue/barbados-cherry-acerola-2.jpg",
     "images": [
-      "/catalogue/barbados-cherry-acerola.jpg",
       "/catalogue/barbados-cherry-acerola-2.jpg"
     ]
   },
@@ -1764,9 +1737,8 @@ export const catalogue = [
     "sizesAvailable": [
       "Suckers / TC plants"
     ],
-    "imageUrl": "/catalogue/banana-curry-cooking.jpg",
+    "imageUrl": "/catalogue/banana-curry-cooking-2.jpg",
     "images": [
-      "/catalogue/banana-curry-cooking.jpg",
       "/catalogue/banana-curry-cooking-2.jpg",
       "/catalogue/banana-curry-cooking-3.jpg",
       "/catalogue/banana-curry-cooking-f2.jpg"
@@ -1835,9 +1807,8 @@ export const catalogue = [
     "sizesAvailable": [
       "1 ft – 4 ft"
     ],
-    "imageUrl": "/catalogue/euphorbia-punicea-jamaican-poinsettia.jpg",
+    "imageUrl": "/catalogue/euphorbia-punicea-jamaican-poinsettia-2.jpg",
     "images": [
-      "/catalogue/euphorbia-punicea-jamaican-poinsettia.jpg",
       "/catalogue/euphorbia-punicea-jamaican-poinsettia-2.jpg",
       "/catalogue/euphorbia-punicea-jamaican-poinsettia-3.jpg"
     ]
@@ -1852,9 +1823,8 @@ export const catalogue = [
     "sizesAvailable": [
       "0.5 ft – 2 ft"
     ],
-    "imageUrl": "/catalogue/coleus-assorted-colours.jpg",
+    "imageUrl": "/catalogue/coleus-assorted-colours-2.jpg",
     "images": [
-      "/catalogue/coleus-assorted-colours.jpg",
       "/catalogue/coleus-assorted-colours-2.jpg",
       "/catalogue/coleus-assorted-colours-3.jpg",
       "/catalogue/coleus-assorted-colours-4.jpg"
@@ -1885,9 +1855,8 @@ export const catalogue = [
     "sizesAvailable": [
       "1 ft – 4 ft"
     ],
-    "imageUrl": "/catalogue/hibiscus-assorted.jpg",
+    "imageUrl": "/catalogue/hibiscus-assorted-2.jpg",
     "images": [
-      "/catalogue/hibiscus-assorted.jpg",
       "/catalogue/hibiscus-assorted-2.jpg",
       "/catalogue/hibiscus-assorted-3.jpg",
       "/catalogue/hibiscus-assorted-4.jpg",
@@ -1904,9 +1873,8 @@ export const catalogue = [
     "sizesAvailable": [
       "1 ft – 5 ft"
     ],
-    "imageUrl": "/catalogue/texas-sage-purple-sage.jpg",
+    "imageUrl": "/catalogue/texas-sage-purple-sage-2.jpg",
     "images": [
-      "/catalogue/texas-sage-purple-sage.jpg",
       "/catalogue/texas-sage-purple-sage-2.jpg",
       "/catalogue/texas-sage-purple-sage-3.jpg"
     ]
@@ -1921,9 +1889,8 @@ export const catalogue = [
     "sizesAvailable": [
       "1 ft – 5 ft"
     ],
-    "imageUrl": "/catalogue/orange-jasmine-kamini.jpg",
+    "imageUrl": "/catalogue/orange-jasmine-kamini-2.jpg",
     "images": [
-      "/catalogue/orange-jasmine-kamini.jpg",
       "/catalogue/orange-jasmine-kamini-2.jpg",
       "/catalogue/orange-jasmine-kamini-3.jpg",
       "/catalogue/orange-jasmine-kamini-4.jpg"
@@ -1939,9 +1906,8 @@ export const catalogue = [
     "sizesAvailable": [
       "6 in – 1 ft"
     ],
-    "imageUrl": "/catalogue/blue-daze-dwarf-morning-glory.jpg",
+    "imageUrl": "/catalogue/blue-daze-dwarf-morning-glory-2.jpg",
     "images": [
-      "/catalogue/blue-daze-dwarf-morning-glory.jpg",
       "/catalogue/blue-daze-dwarf-morning-glory-2.jpg",
       "/catalogue/blue-daze-dwarf-morning-glory-3.jpg",
       "/catalogue/blue-daze-dwarf-morning-glory-4.jpg"
@@ -1957,9 +1923,8 @@ export const catalogue = [
     "sizesAvailable": [
       "4 in – 8 in"
     ],
-    "imageUrl": "/catalogue/portulaca-moss-rose.jpg",
+    "imageUrl": "/catalogue/portulaca-moss-rose-2.jpg",
     "images": [
-      "/catalogue/portulaca-moss-rose.jpg",
       "/catalogue/portulaca-moss-rose-2.jpg",
       "/catalogue/portulaca-moss-rose-3.jpg",
       "/catalogue/portulaca-moss-rose-4.jpg"
@@ -1975,9 +1940,8 @@ export const catalogue = [
     "sizesAvailable": [
       "6 in – 1.5 ft"
     ],
-    "imageUrl": "/catalogue/ruellia-simplex-mexican-petunia.jpg",
+    "imageUrl": "/catalogue/ruellia-simplex-mexican-petunia-2.jpg",
     "images": [
-      "/catalogue/ruellia-simplex-mexican-petunia.jpg",
       "/catalogue/ruellia-simplex-mexican-petunia-2.jpg",
       "/catalogue/ruellia-simplex-mexican-petunia-3.jpg",
       "/catalogue/ruellia-simplex-mexican-petunia-4.jpg"
@@ -1993,9 +1957,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 8 ft"
     ],
-    "imageUrl": "/catalogue/plumeria-frangipani.jpg",
+    "imageUrl": "/catalogue/plumeria-frangipani-2.jpg",
     "images": [
-      "/catalogue/plumeria-frangipani.jpg",
       "/catalogue/plumeria-frangipani-2.jpg",
       "/catalogue/plumeria-frangipani-3.jpg"
     ]
@@ -2010,9 +1973,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 8 ft"
     ],
-    "imageUrl": "/catalogue/plumeria-alba-white-frangipani.jpg",
+    "imageUrl": "/catalogue/plumeria-alba-white-frangipani-2.jpg",
     "images": [
-      "/catalogue/plumeria-alba-white-frangipani.jpg",
       "/catalogue/plumeria-alba-white-frangipani-2.jpg",
       "/catalogue/plumeria-alba-white-frangipani-3.jpg"
     ]
@@ -2027,9 +1989,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 6 ft"
     ],
-    "imageUrl": "/catalogue/plumeria-singaporensis-singapore-frangipani.jpg",
+    "imageUrl": "/catalogue/plumeria-singaporensis-singapore-frangipani-2.jpg",
     "images": [
-      "/catalogue/plumeria-singaporensis-singapore-frangipani.jpg",
       "/catalogue/plumeria-singaporensis-singapore-frangipani-2.jpg",
       "/catalogue/plumeria-singaporensis-singapore-frangipani-3.jpg",
       "/catalogue/plumeria-singaporensis-singapore-frangipani-4.jpg"
@@ -2060,9 +2021,8 @@ export const catalogue = [
     "sizesAvailable": [
       "1 ft – 3 ft"
     ],
-    "imageUrl": "/catalogue/ixora-mini-dwarf.jpg",
+    "imageUrl": "/catalogue/ixora-mini-dwarf-2.jpg",
     "images": [
-      "/catalogue/ixora-mini-dwarf.jpg",
       "/catalogue/ixora-mini-dwarf-2.jpg",
       "/catalogue/ixora-mini-dwarf-3.jpg",
       "/catalogue/ixora-mini-dwarf-4.jpg"
@@ -2096,9 +2056,8 @@ export const catalogue = [
     "sizesAvailable": [
       "1 ft – 4 ft"
     ],
-    "imageUrl": "/catalogue/crape-jasmine-nandivardanam.jpg",
+    "imageUrl": "/catalogue/crape-jasmine-nandivardanam-2.jpg",
     "images": [
-      "/catalogue/crape-jasmine-nandivardanam.jpg",
       "/catalogue/crape-jasmine-nandivardanam-2.jpg"
     ]
   },
@@ -2381,9 +2340,8 @@ export const catalogue = [
     "sizesAvailable": [
       "1 ft – 5 ft"
     ],
-    "imageUrl": "/catalogue/oleander-kaner.jpg",
+    "imageUrl": "/catalogue/oleander-kaner-2.jpg",
     "images": [
-      "/catalogue/oleander-kaner.jpg",
       "/catalogue/oleander-kaner-2.jpg",
       "/catalogue/oleander-kaner-3.jpg",
       "/catalogue/oleander-kaner-4.jpg"
@@ -2430,9 +2388,8 @@ export const catalogue = [
     "sizesAvailable": [
       "1 ft – 4 ft"
     ],
-    "imageUrl": "/catalogue/hamelia-firebush.jpg",
+    "imageUrl": "/catalogue/hamelia-firebush-2.jpg",
     "images": [
-      "/catalogue/hamelia-firebush.jpg",
       "/catalogue/hamelia-firebush-2.jpg"
     ]
   },
@@ -2446,9 +2403,8 @@ export const catalogue = [
     "sizesAvailable": [
       "Bag plants"
     ],
-    "imageUrl": "/catalogue/lantana-assorted.jpg",
+    "imageUrl": "/catalogue/lantana-assorted-2.jpg",
     "images": [
-      "/catalogue/lantana-assorted.jpg",
       "/catalogue/lantana-assorted-2.jpg",
       "/catalogue/lantana-assorted-3.jpg",
       "/catalogue/lantana-assorted-4.jpg",
@@ -2512,9 +2468,8 @@ export const catalogue = [
     "sizesAvailable": [
       "Bag plants"
     ],
-    "imageUrl": "/catalogue/september-flower-barleria.jpg",
+    "imageUrl": "/catalogue/september-flower-barleria-2.jpg",
     "images": [
-      "/catalogue/september-flower-barleria.jpg",
       "/catalogue/september-flower-barleria-2.jpg"
     ]
   },
@@ -2592,9 +2547,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 6 ft"
     ],
-    "imageUrl": "/catalogue/calathea-lutea-cuban-cigar.jpg",
+    "imageUrl": "/catalogue/calathea-lutea-cuban-cigar-2.jpg",
     "images": [
-      "/catalogue/calathea-lutea-cuban-cigar.jpg",
       "/catalogue/calathea-lutea-cuban-cigar-2.jpg",
       "/catalogue/calathea-lutea-cuban-cigar-3.jpg"
     ]
@@ -2626,9 +2580,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 5 ft"
     ],
-    "imageUrl": "/catalogue/ornamental-banana-red.jpg",
+    "imageUrl": "/catalogue/ornamental-banana-red-2.jpg",
     "images": [
-      "/catalogue/ornamental-banana-red.jpg",
       "/catalogue/ornamental-banana-red-2.jpg"
     ]
   },
