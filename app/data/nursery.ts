@@ -2860,9 +2860,8 @@ export const catalogue = [
     "sizesAvailable": [
       "3 ft – 8 ft"
     ],
-    "imageUrl": "/catalogue/juniperus-virginiana-pencil-cedar.jpg",
+    "imageUrl": "/catalogue/juniperus-virginiana-pencil-cedar-2.jpg",
     "images": [
-      "/catalogue/juniperus-virginiana-pencil-cedar.jpg",
       "/catalogue/juniperus-virginiana-pencil-cedar-2.jpg"
     ]
   },
@@ -2943,9 +2942,8 @@ export const catalogue = [
     "sizesAvailable": [
       "1 ft – 4 ft"
     ],
-    "imageUrl": "/catalogue/acalypha-copper-leaf.jpg",
+    "imageUrl": "/catalogue/acalypha-copper-leaf-2.jpg",
     "images": [
-      "/catalogue/acalypha-copper-leaf.jpg",
       "/catalogue/acalypha-copper-leaf-2.jpg"
     ]
   },
@@ -3075,9 +3073,8 @@ export const catalogue = [
     "sizesAvailable": [
       "6 ft – 12 ft"
     ],
-    "imageUrl": "/catalogue/brachychiton-rupestris-bottle-tree.jpg",
+    "imageUrl": "/catalogue/brachychiton-rupestris-bottle-tree-2.jpg",
     "images": [
-      "/catalogue/brachychiton-rupestris-bottle-tree.jpg",
       "/catalogue/brachychiton-rupestris-bottle-tree-2.jpg",
       "/catalogue/brachychiton-rupestris-bottle-tree-3.jpg"
     ]
@@ -3092,9 +3089,8 @@ export const catalogue = [
     "sizesAvailable": [
       "6 ft – 15 ft"
     ],
-    "imageUrl": "/catalogue/schizolobium-parahyba-tower-tree.jpg",
+    "imageUrl": "/catalogue/schizolobium-parahyba-tower-tree-2.jpg",
     "images": [
-      "/catalogue/schizolobium-parahyba-tower-tree.jpg",
       "/catalogue/schizolobium-parahyba-tower-tree-2.jpg",
       "/catalogue/schizolobium-parahyba-tower-tree-3.jpg"
     ]
@@ -3109,9 +3105,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 8 ft"
     ],
-    "imageUrl": "/catalogue/pisonia-alba-lettuce-tree.jpg",
+    "imageUrl": "/catalogue/pisonia-alba-lettuce-tree-2.jpg",
     "images": [
-      "/catalogue/pisonia-alba-lettuce-tree.jpg",
       "/catalogue/pisonia-alba-lettuce-tree-2.jpg",
       "/catalogue/pisonia-alba-lettuce-tree-3.jpg",
       "/catalogue/pisonia-alba-lettuce-tree-4.jpg"
@@ -3127,9 +3122,8 @@ export const catalogue = [
     "sizesAvailable": [
       "3 ft – 10 ft"
     ],
-    "imageUrl": "/catalogue/podocarpus-macrophyllus-buddhist-pine.jpg",
+    "imageUrl": "/catalogue/podocarpus-macrophyllus-buddhist-pine-2.jpg",
     "images": [
-      "/catalogue/podocarpus-macrophyllus-buddhist-pine.jpg",
       "/catalogue/podocarpus-macrophyllus-buddhist-pine-2.jpg",
       "/catalogue/podocarpus-macrophyllus-buddhist-pine-3.jpg"
     ]
@@ -3160,9 +3154,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 8 ft"
     ],
-    "imageUrl": "/catalogue/clusia-rosea-autograph-tree.jpg",
+    "imageUrl": "/catalogue/clusia-rosea-autograph-tree-2.jpg",
     "images": [
-      "/catalogue/clusia-rosea-autograph-tree.jpg",
       "/catalogue/clusia-rosea-autograph-tree-2.jpg",
       "/catalogue/clusia-rosea-autograph-tree-3.jpg",
       "/catalogue/clusia-rosea-autograph-tree-4.jpg"
@@ -3212,9 +3205,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 6 ft"
     ],
-    "imageUrl": "/catalogue/radermachera-china-doll.jpg",
+    "imageUrl": "/catalogue/radermachera-china-doll-2.jpg",
     "images": [
-      "/catalogue/radermachera-china-doll.jpg",
       "/catalogue/radermachera-china-doll-2.jpg"
     ]
   },
@@ -3228,9 +3220,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 8 ft"
     ],
-    "imageUrl": "/catalogue/ficus-lyrata-fiddle-leaf.jpg",
+    "imageUrl": "/catalogue/ficus-lyrata-fiddle-leaf-2.jpg",
     "images": [
-      "/catalogue/ficus-lyrata-fiddle-leaf.jpg",
       "/catalogue/ficus-lyrata-fiddle-leaf-2.jpg",
       "/catalogue/ficus-lyrata-fiddle-leaf-3.jpg"
     ]
@@ -3505,9 +3496,8 @@ export const catalogue = [
     "sizesAvailable": [
       "Pot-ready"
     ],
-    "imageUrl": "/catalogue/syngonium-assorted.jpg",
+    "imageUrl": "/catalogue/syngonium-assorted-2.jpg",
     "images": [
-      "/catalogue/syngonium-assorted.jpg",
       "/catalogue/syngonium-assorted-2.jpg",
       "/catalogue/syngonium-assorted-3.jpg"
     ]
@@ -3575,9 +3565,8 @@ export const catalogue = [
     "sizesAvailable": [
       "Pot-ready"
     ],
-    "imageUrl": "/catalogue/anthurium-red-pink.jpg",
+    "imageUrl": "/catalogue/anthurium-red-pink-2.jpg",
     "images": [
-      "/catalogue/anthurium-red-pink.jpg",
       "/catalogue/anthurium-red-pink-2.jpg",
       "/catalogue/anthurium-red-pink-3.jpg",
       "/catalogue/anthurium-red-pink-4.jpg"
@@ -3593,9 +3582,8 @@ export const catalogue = [
     "sizesAvailable": [
       "Pot-ready"
     ],
-    "imageUrl": "/catalogue/tree-fern-silver-lady.jpg",
+    "imageUrl": "/catalogue/tree-fern-silver-lady-2.jpg",
     "images": [
-      "/catalogue/tree-fern-silver-lady.jpg",
       "/catalogue/tree-fern-silver-lady-2.jpg",
       "/catalogue/tree-fern-silver-lady-3.jpg"
     ]
@@ -3644,9 +3632,8 @@ export const catalogue = [
     "sizesAvailable": [
       "Pot-ready"
     ],
-    "imageUrl": "/catalogue/calathea-assorted.jpg",
+    "imageUrl": "/catalogue/calathea-assorted-2.jpg",
     "images": [
-      "/catalogue/calathea-assorted.jpg",
       "/catalogue/calathea-assorted-2.jpg",
       "/catalogue/calathea-assorted-3.jpg",
       "/catalogue/calathea-assorted-4.jpg"
@@ -3678,9 +3665,8 @@ export const catalogue = [
     "sizesAvailable": [
       "2 ft – 5 ft"
     ],
-    "imageUrl": "/catalogue/dracaena-massangeana-corn-plant.jpg",
+    "imageUrl": "/catalogue/dracaena-massangeana-corn-plant-2.jpg",
     "images": [
-      "/catalogue/dracaena-massangeana-corn-plant.jpg",
       "/catalogue/dracaena-massangeana-corn-plant-2.jpg"
     ]
   },
@@ -3710,9 +3696,8 @@ export const catalogue = [
     "sizesAvailable": [
       "1 ft – 5 ft"
     ],
-    "imageUrl": "/catalogue/dracaena-marginata-madagascar-dragon-tree.jpg",
+    "imageUrl": "/catalogue/dracaena-marginata-madagascar-dragon-tree-2.jpg",
     "images": [
-      "/catalogue/dracaena-marginata-madagascar-dragon-tree.jpg",
       "/catalogue/dracaena-marginata-madagascar-dragon-tree-2.jpg",
       "/catalogue/dracaena-marginata-madagascar-dragon-tree-3.jpg",
       "/catalogue/dracaena-marginata-madagascar-dragon-tree-4.jpg",
@@ -3729,9 +3714,8 @@ export const catalogue = [
     "sizesAvailable": [
       "Bag plants"
     ],
-    "imageUrl": "/catalogue/madhu-malti-rangoon-creeper.jpg",
+    "imageUrl": "/catalogue/madhu-malti-rangoon-creeper-2.jpg",
     "images": [
-      "/catalogue/madhu-malti-rangoon-creeper.jpg",
       "/catalogue/madhu-malti-rangoon-creeper-2.jpg",
       "/catalogue/madhu-malti-rangoon-creeper-3.jpg",
       "/catalogue/madhu-malti-rangoon-creeper-4.jpg"
@@ -3794,9 +3778,8 @@ export const catalogue = [
     "sizesAvailable": [
       "Bag plants"
     ],
-    "imageUrl": "/catalogue/star-jasmine-sannajaji.jpg",
+    "imageUrl": "/catalogue/star-jasmine-sannajaji-2.jpg",
     "images": [
-      "/catalogue/star-jasmine-sannajaji.jpg",
       "/catalogue/star-jasmine-sannajaji-2.jpg",
       "/catalogue/star-jasmine-sannajaji-3.jpg"
     ]
@@ -3930,9 +3913,8 @@ export const catalogue = [
     "sizesAvailable": [
       "Bag plants"
     ],
-    "imageUrl": "/catalogue/aparajita-blue-pea.jpg",
+    "imageUrl": "/catalogue/aparajita-blue-pea-2.jpg",
     "images": [
-      "/catalogue/aparajita-blue-pea.jpg",
       "/catalogue/aparajita-blue-pea-2.jpg"
     ]
   },
@@ -4060,9 +4042,8 @@ export const catalogue = [
     "sizesAvailable": [
       "Bag lots"
     ],
-    "imageUrl": "/catalogue/rhoeo-oyster-plant.jpg",
+    "imageUrl": "/catalogue/rhoeo-oyster-plant-2.jpg",
     "images": [
-      "/catalogue/rhoeo-oyster-plant.jpg",
       "/catalogue/rhoeo-oyster-plant-2.jpg",
       "/catalogue/rhoeo-oyster-plant-3.jpg",
       "/catalogue/rhoeo-oyster-plant-4.jpg"
@@ -4370,9 +4351,8 @@ export const catalogue = [
     "sizesAvailable": [
       "Bag lots"
     ],
-    "imageUrl": "/catalogue/tulasi-holy-basil.jpg",
+    "imageUrl": "/catalogue/tulasi-holy-basil-2.jpg",
     "images": [
-      "/catalogue/tulasi-holy-basil.jpg",
       "/catalogue/tulasi-holy-basil-2.jpg",
       "/catalogue/tulasi-holy-basil-3.jpg",
       "/catalogue/tulasi-holy-basil-4.jpg"
@@ -4529,9 +4509,8 @@ export const catalogue = [
     "sizesAvailable": [
       "Seedlings & bags"
     ],
-    "imageUrl": "/catalogue/moringa-drumstick.jpg",
+    "imageUrl": "/catalogue/moringa-drumstick-2.jpg",
     "images": [
-      "/catalogue/moringa-drumstick.jpg",
       "/catalogue/moringa-drumstick-2.jpg",
       "/catalogue/moringa-drumstick-3.jpg"
     ]
@@ -4761,9 +4740,8 @@ export const catalogue = [
     "sizesAvailable": [
       "Pads & pots"
     ],
-    "imageUrl": "/catalogue/opuntia-ornamental.jpg",
+    "imageUrl": "/catalogue/opuntia-ornamental-2.jpg",
     "images": [
-      "/catalogue/opuntia-ornamental.jpg",
       "/catalogue/opuntia-ornamental-2.jpg"
     ]
   },
