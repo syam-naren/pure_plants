@@ -1,8 +1,10 @@
 import { AnimatePresence, motion } from "framer-motion";
-import { Menu, X } from "lucide-react";
+import { Menu, ShoppingCart, X } from "lucide-react";
 import { useEffect, useRef, useState } from "react";
+import { Link } from "@remix-run/react";
 import { menuItems } from "~/data/text.en";
 import { nursery } from "~/data/nursery";
+import { useCart } from "~/lib/useCart";
 
 interface NavBarProps {
   isHome: boolean;
@@ -11,6 +13,7 @@ interface NavBarProps {
 export const NavBar = ({ isHome }: NavBarProps) => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const navRef = useRef<HTMLElement>(null);
+  const { count, mounted } = useCart();
 
   const toggleMenu = () => {
     setIsMenuOpen(!isMenuOpen);
@@ -81,7 +84,18 @@ export const NavBar = ({ isHome }: NavBarProps) => {
           {nursery.name}
         </motion.a>
 
-        <div aria-hidden="true" />
+        <Link
+          to="/cart"
+          className="nav-cart-button"
+          aria-label={`View cart${mounted && count > 0 ? `, ${count} items` : ""}`}
+        >
+          <ShoppingCart className="w-5 h-5" />
+          {mounted && count > 0 && (
+            <span className="nav-cart-count" aria-hidden="true">
+              {count > 99 ? "99+" : count}
+            </span>
+          )}
+        </Link>
       </nav>
 
       <AnimatePresence>

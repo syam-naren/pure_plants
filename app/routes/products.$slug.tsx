@@ -3,21 +3,27 @@ import type {
   LoaderFunctionArgs,
   MetaFunction,
 } from "@remix-run/node";
-import { Link, useLoaderData } from "@remix-run/react";
+import { Link, useLoaderData, useNavigate } from "@remix-run/react";
 import {
   ArrowLeft,
   ArrowUpRight,
+  Check,
   ChevronLeft,
   ChevronRight,
   Droplets,
   Leaf,
+  Minus,
   Phone,
+  Plus,
   Ruler,
+  ShoppingCart,
   Sprout,
   SunMedium,
 } from "lucide-react";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { nursery } from "~/data/nursery";
+import { addToCart } from "~/lib/cart";
+import { useCart } from "~/lib/useCart";
 import {
   productDetails,
   type ProductHorticultureDetails,
@@ -191,6 +197,130 @@ function ProductGallery({ product }: { product: CatalogueProduct }) {
   );
 }
 
+function AddToCartForm({ product }: { product: CatalogueProduct }) {
+  const navigate = useNavigate();
+  const { items } = useCart();
+  const [heightFt, setHeightFt] = useState("4");
+  const [quantity, setQuantity] = useState(1);
+  const [added, setAdded] = useState(false);
+  const [error, setError] = useState("");
+
+  const heightNum = Number(heightFt);
+  const inCart =
+    added ||
+    (Number.isFinite(heightNum) &&
+      items.some(
+        (entry) => entry.slug === product.slug && entry.heightFt === heightNum,
+      ));
+
+  const submit = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (inCart) {
+      navigate("/cart");
+      return;
+    }
+    const height = Number(heightFt);
+    if (!Number.isFinite(height) || height <= 0) {
+      setError("Please enter the plant height in feet.");
+      return;
+    }
+    if (!Number.isInteger(quantity) || quantity < 1) {
+      setError("Quantity must be at least 1.");
+      return;
+    }
+    setError("");
+    addToCart({
+      slug: product.slug,
+      plantName: product.plantName,
+      botanicalName: product.botanicalName,
+      imageUrl: product.imageUrl,
+      heightFt: height,
+      quantity,
+    });
+    setAdded(true);
+  };
+
+  return (
+    <form className="cart-form" onSubmit={submit}>
+      <div className="cart-form-row">
+        <label>
+          <span>Height (ft)</span>
+          <input
+            type="number"
+            min={0.5}
+            step={0.5}
+            inputMode="decimal"
+            value={heightFt}
+            onChange={(e) => {
+              setHeightFt(e.target.value);
+              setAdded(false);
+            }}
+            aria-label="Plant height in feet"
+            required
+          />
+        </label>
+        <label>
+          <span>Quantity</span>
+          <span className="cart-qty-stepper">
+            <button
+              type="button"
+              aria-label="Decrease quantity"
+              onClick={() => {
+                setQuantity((q) => Math.max(1, q - 1));
+                setAdded(false);
+              }}
+            >
+              <Minus size={14} />
+            </button>
+            <input
+              type="number"
+              min={1}
+              step={1}
+              value={quantity}
+              onChange={(e) => {
+                setQuantity(Math.max(1, Math.floor(Number(e.target.value) || 1)));
+                setAdded(false);
+              }}
+              aria-label="Quantity"
+              required
+            />
+            <button
+              type="button"
+              aria-label="Increase quantity"
+              onClick={() => {
+                setQuantity((q) => q + 1);
+                setAdded(false);
+              }}
+            >
+              <Plus size={14} />
+            </button>
+          </span>
+        </label>
+      </div>
+      {error && (
+        <p className="cart-form-error" role="alert">
+          {error}
+        </p>
+      )}
+      <button
+        type={inCart ? "button" : "submit"}
+        className={`button button-dark product-enquiry-button${inCart ? " is-in-cart" : ""}`}
+        onClick={inCart ? () => navigate("/cart") : undefined}
+      >
+        {inCart ? (
+          <>
+            <Check size={15} /> Added — Go to cart
+          </>
+        ) : (
+          <>
+            <ShoppingCart size={15} /> Add to cart
+          </>
+        )}
+      </button>
+    </form>
+  );
+}
+
 export default function ProductDetail() {
   const product = useLoaderData<typeof loader>() as ProductPageData;
   const profile = product.horticulture;
@@ -243,6 +373,7 @@ export default function ProductDetail() {
                 <strong>{product.sizesAvailable.join(" · ")}</strong>
               </div>
             )}
+            <AddToCartForm product={product} />
             <a
               className="button button-dark product-enquiry-button"
               href={`tel:${nursery.phone.replace(/\s/g, "")}`}

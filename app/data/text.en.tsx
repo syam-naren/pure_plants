@@ -12,6 +12,7 @@ export const menuItems: IMenuItem[] = [
   { label: "HOME", href: "/" },
   { label: "ABOUT", href: "/about" },
   { label: "PRODUCTS", href: "/products" },
+  { label: "CART", href: "/cart" },
   { label: "CONTACT", href: "/contact-us" },
 ];
 
