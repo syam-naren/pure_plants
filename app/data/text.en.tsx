@@ -1,7 +1,6 @@
 import { nursery } from "~/data/nursery";
 
-export const videoUrl: string =
-  "https://res.cloudinary.com/dj3bhaq5v/video/upload/v1760460073/Promo_ygztzk.mp4";
+export const videoUrl: string = "/hero_video.mp4";
 
 interface IMenuItem {
   label: string;
